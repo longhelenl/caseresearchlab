@@ -1,0 +1,16 @@
+{
+  "listingMap": {
+    "publications.qmd": [
+      "publications/*/**.qmd"
+    ],
+    "people.qmd": [
+      "people/staff/*.qmd",
+      "people/gras/*.qmd",
+      "people/uras/*.qmd",
+      "people/alumni/*.qmd"
+    ],
+    "news.qmd": [
+      "posts/**/index.qmd"
+    ]
+  }
+}

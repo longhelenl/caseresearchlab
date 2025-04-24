@@ -1,0 +1,15 @@
+{
+  "hash": "1f802cba33980655b8ca21d45f3f242d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\npagetitle: \"CaSE Lab\"\ntitle: \"Communication and Speech Emergence (CaSE) Research Collaboratory\"\n# page-layout: full\ntoc: false\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\nWelcome to the Communication and Speech Emergence Laboratory (CaSE Lab)! We are based within the \\[Communication and Sciences Program\\] (https://psychsciences.case.edu/graduate/doctor-of-philosophy-program/) of the [Department of Psychological Sciences](https://psychsciences.case.edu/) at Case Western Reserve University (CWRU) in Cleveland, Ohio.\n\nThe research of the CaSE Lab focuses on the **early identification and intervention** of **speech and communication support needs** for infants and young children with motor-based neurodevelopmental disabilities, particularly **cerebral palsy (CP)**.\n\nOur goal is to [optimize evaluation and treatment methods]{.underline} for speech-language pathologists (SLPs) to improve clinical support planning for these children and their families and ultimately enhance their long-term quality of life.\n\nDr. Helen Long, PhD, CCC-SLP directs the CaSE Lab and partners alongside students at CWRU, clinicians, famillies, local disability and translational research groups, and a range of community members to support young children with or at risk for disabilities. View Dr. Long's webpage here.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

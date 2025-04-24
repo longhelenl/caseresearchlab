@@ -1,0 +1,122 @@
+{
+  "index.qmd": {
+    "index.html": "f852217e"
+  },
+  "about.qmd": {
+    "about.html": "813c2db3"
+  },
+  "contact.qmd": {
+    "contact.html": "5bcfb01a"
+  },
+  "news.qmd": {
+    "news.html": "cad67da4"
+  },
+  "opportunities.qmd": {
+    "opportunities.html": "28d912e5"
+  },
+  "people.qmd": {
+    "people.html": "0bdce6ac"
+  },
+  "publications.qmd": {
+    "publications.html": "17260e57"
+  },
+  "research.qmd": {
+    "research.html": "9627460d"
+  },
+  "resources.qmd": {
+    "resources.html": "0fa3d109"
+  },
+  "people/staff/long_helen.qmd": {
+    "long_helen.html": "dead6356"
+  },
+  "publications/articles/long2019.qmd": {
+    "long2019.html": "b929bde1"
+  },
+  "publications/articles/2019long.qmd": {
+    "2019long.html": "e43ef847"
+  },
+  "docs/docs/docs/publications/articles/2024yoo.qmd": {
+    "2024yoo.html": "0fed0b59"
+  },
+  "docs/docs/docs/publications/articles/2025oller.qmd": {
+    "2025oller.html": "0e65ddca"
+  },
+  "docs/docs/publications/articles/2024yoo.qmd": {
+    "2024yoo.html": "4a1880ad"
+  },
+  "docs/docs/publications/articles/2025oller.qmd": {
+    "2025oller.html": "a97c0b3d"
+  },
+  "docs/publications/articles/2024yoo.qmd": {
+    "2024yoo.html": "d61b088f"
+  },
+  "docs/publications/articles/2025oller.qmd": {
+    "2025oller.html": "d07838d6"
+  },
+  "publications/articles/2019oller.qmd": {
+    "2019oller.html": "df215cfb"
+  },
+  "publications/articles/2020long-dissertation.qmd": {
+    "2020long-dissertation.html": "61a38f16"
+  },
+  "publications/articles/2020long.qmd": {
+    "2020long.html": "b8688ae8"
+  },
+  "publications/articles/2020oller.qmd": {
+    "2020oller.html": "0717dab7"
+  },
+  "publications/articles/2021burkhardtreed.qmd": {
+    "2021burkhardtreed.html": "dd325ee6"
+  },
+  "publications/articles/2021gipson.qmd": {
+    "2021gipson.html": "8d86f889"
+  },
+  "publications/articles/2021koopmans.qmd": {
+    "2021koopmans.html": "9a5e8528"
+  },
+  "publications/articles/2021oller.qmd": {
+    "2021oller.html": "5048ec35"
+  },
+  "publications/articles/2022long-dmcn.qmd": {
+    "2022long-dmcn.html": "7321cc8b"
+  },
+  "publications/articles/2022long-plosone.qmd": {
+    "2022long-plosone.html": "a78d99f5"
+  },
+  "publications/articles/2022pfeiffer.qmd": {
+    "2022pfeiffer.html": "1449ed77"
+  },
+  "publications/articles/2023elamin.qmd": {
+    "2023elamin.html": "8db56441"
+  },
+  "publications/articles/2023long-devneuro.qmd": {
+    "2023long-devneuro.html": "2b69345c"
+  },
+  "publications/articles/2023long-mbcb.qmd": {
+    "2023long-mbcb.html": "dd81a153"
+  },
+  "publications/articles/2023long-oa.qmd": {
+    "2023long-oa.html": "2ab6341c"
+  },
+  "publications/articles/2023long-scoping.qmd": {
+    "2023long-scoping.html": "1efb2cfa"
+  },
+  "publications/articles/2024long-anar.qmd": {
+    "2024long-anar.html": "1c49e5f8"
+  },
+  "publications/articles/2024long-autism.qmd": {
+    "2024long-autism.html": "37c6fc53"
+  },
+  "publications/articles/2024oller.qmd": {
+    "2024oller.html": "e6382a7e"
+  },
+  "publications/articles/2024su.qmd": {
+    "2024su.html": "bad12f02"
+  },
+  "publications/articles/2024yoo.qmd": {
+    "2024yoo.html": "ef886c79"
+  },
+  "publications/articles/2025oller.qmd": {
+    "2025oller.html": "ee029847"
+  }
+}

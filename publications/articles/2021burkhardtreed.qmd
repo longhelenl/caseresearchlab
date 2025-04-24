@@ -1,0 +1,22 @@
+---
+title: "The origin of language and relative roles of voice and gesture in early communication development"
+type: "article"
+author: "Burkhardt-Reed, Long, Bowman, Bene, & Oller"
+year: "2021"
+publication: "Infant Behavior and Development"
+doi: "https://doi.org/10.1016/j.infbeh.2021.101648"
+oa: "https://doi.org/10.1016/j.infbeh.2021.101648"
+toc: false
+categories:
+  - gesture
+  - infant 
+  - vocal development
+---
+
+## Citation (APA 7)
+
+> Burkhardt-Reed, M. M., Long, H. L., Bowman, D. D., Bene, E. R., & Oller, D. K. (2021). The origin of language and relative roles of voice and gesture in early communication development. *Infant Behavior and Development*, *65*, 101648. <https://doi.org/10.1016/j.infbeh.2021.101648>
+
+## Abstract
+
+Both vocalization and gesture are universal modes of communication and fundamental features of language development. The gestural origins theory proposes that language evolved out of early gestural use. However, evidence reported here suggests vocalization is much more prominent in early human communication than gesture is. To our knowledge no prior research has investigated the rates of emergence of both gesture and vocalization across the first year in human infants. We evaluated the rates of gestures and speech-like vocalizations (protophones) in 10 infants at 4, 7, and 11 months of age using parent-infant laboratory recordings. We found that infant protophones outnumbered gestures substantially at all three ages, ranging from \>35 times more protophones than gestures at 3 months, to \>2.5 times more protophones than gestures at 11 months. The results suggest vocalization, not gesture, is the predominant mode of communication in human infants in the first year.
