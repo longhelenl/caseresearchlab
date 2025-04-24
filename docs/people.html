@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-graduate-students .list');
+    const listingTargetEl = window.document.querySelector('#listing-ma-students .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -100,67 +100,11 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-graduate-students'] = new List('listing-graduate-students', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-research-assistants .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-started',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-research-assistants'] = new List('listing-research-assistants', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-subtitle","listing-started","listing-ended"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
+    window['quarto-listings']['listing-ma-students'] = new List('listing-ma-students', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -256,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="research-staff">Research Staff</h2>
 <div id="listing-research-staff" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1745517243052" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1745519697774" data-listing-reading-time-sort="2">
 <a href="./people/staff/long_helen.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -279,78 +223,45 @@ No matching items
 </div>
 </div>
 </section>
-<section id="graduate-students" class="level2">
-<h2 class="anchored" data-anchor-id="graduate-students">Graduate Students</h2>
-<div id="listing-graduate-students" class="quarto-listing quarto-listing-container-grid">
+<section id="masters-students" class="level2">
+<h2 class="anchored" data-anchor-id="masters-students">Master’s Students</h2>
+<div id="listing-ma-students" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="research-assistants" class="level2">
-<h2 class="anchored" data-anchor-id="research-assistants">Research Assistants</h2>
-<div id="listing-research-assistants" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1745521160414" data-listing-reading-time-sort="1">
+<a href="./people/ma-students/munz_kate.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img src="./people/ma-students/dog.png" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kate Munz
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Assistant
 </div>
 </div>
-</section>
-<section id="alumni" class="level2">
-<h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
-<div id="listing-alumni" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-alumni-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-alumni'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Name
-        </option>
-         <option value="listing-subtitle" data-direction="asc">
-          Role
-        </option>
-         <option value="listing-started" data-direction="asc">
-          Started
-        </option>
-         <option value="listing-ended" data-direction="asc">
-          Ended
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
 </div>
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Role</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Started</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-ended" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Ended</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-</tbody>
-
-</table>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1745520999208" data-listing-reading-time-sort="1">
+<a href="./people/ma-students/ng_ava.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img src="./people/ma-students/fox.png" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ava Ng
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Assistant
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

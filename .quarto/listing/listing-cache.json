@@ -7,7 +7,9 @@
       "people/staff/*.qmd",
       "people/gras/*.qmd",
       "people/uras/*.qmd",
-      "people/alumni/*.qmd"
+      "people/alumni/*.qmd",
+      "people/ma-students/*.qmd",
+      "people/ug-students/*.qmd"
     ],
     "news.qmd": [
       "posts/**/index.qmd"

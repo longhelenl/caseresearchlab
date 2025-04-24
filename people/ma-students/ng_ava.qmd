@@ -1,0 +1,32 @@
+---
+title: "Ava Ng"
+sortby: "Ng, Ava"
+subtitle: "Research Assistant"
+image: fox.png
+started: "Fall 2024"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Assistants</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Ava is an SLP graduate student in the Communication Sciences Program through the integrated graduate studies program at CWRU. She graduated with her Bachelor's in Spring 2025 and will be graduating with her Master's in Spring 2026. Ava plans to xxx. She is interested in bbb.
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA Speech-Language Pathology, 2025
+:::
