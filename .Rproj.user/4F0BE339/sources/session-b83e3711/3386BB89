@@ -1,12 +1,12 @@
 {
-    "id": "E5A62BD7",
-    "path": "C:/Users/helen/OneDrive - Case Western Reserve University/CaSE Lab/Website/caseresearchlab/research.qmd",
-    "project_path": "research.qmd",
+    "id": "3386BB89",
+    "path": "C:/Users/helen/OneDrive - Case Western Reserve University/CaSE Lab/Website/caseresearchlab/opportunities.qmd",
+    "project_path": "opportunities.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1745521905701.0,
+    "created": 1745523800651.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "21,22",
-        "scrollLine": "12",
-        "rmdVisualModeLocation": "1929:400"
+        "cursorPosition": "29,0",
+        "scrollLine": "10",
+        "rmdVisualModeLocation": "3342:318"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745522257,
+    "lastKnownWriteTime": 1745524666,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745522257794,
+    "last_content_update": 1745524666553,
     "read_only": false,
     "read_only_alternatives": []
 }
