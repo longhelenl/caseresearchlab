@@ -30,35 +30,35 @@ United Cerebral Palsy (UCP) of Greater Cleveland offers services for children an
 :::
 
 :::
-## Class 3
+## More Coming Soon
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](./img/pubs.png)
 :::
 ::: {.g-col-12 .g-col-md-10}
-**Bright Beginnings**
+[**Bright Beginnings**](https://www.escneo.org/BrightBeginnings.aspx)
 
 Bright Beginnings offers free early intervention services for infants and toddlers with developmental delays or disabilities. They provide home visits, developmental screenings, and connect families to community resources.
 
-**First Year Cleveland**
+[**First Year Cleveland**](https://firstyearcleveland.org/)
 
 First Year Cleveland is a community movement dedicated to helping all babies in Cuyahoga County celebrate their first birthdays. They focus on reducing infant deaths by addressing key issues such as racial disparities, premature births, and unsafe sleep practices. While they don't provide direct services, they can connect families to local programs and offer educational resources. Families can explore resources, learn about safe sleep, and find support through their website.
 
 
-**Help me Grow Ohio**
+[**Help me Grow Ohio**](https://www.helpmegrow.org/)
 
 Help Me Grow is a statewide program that supports pregnant women, new parents, and caregivers with home visits and parenting education to promote healthy development in children.
 
 
-**Newborn Home visiting program**
+[**Newborn Home Visiting Program**](https://hhs.cuyahogacounty.gov/programs/detail/newborn-home-visiting)
 
 This program offers a free home visit by a registered nurse to eligible first-time and teen moms in Cuyahoga County. The nurse provides health checks for the baby, answers questions, and offers guidance on baby care.
 
-**MomsFirst**
+[**MomsFirst**](https://momsfirst.org/)
 
 MomsFirst is a free program that supports new and expecting mothers in Cleveland. Participants are paired with a Community Health Worker from pregnancy until the baby is 18 months old, receiving health education and support services.
 
-**Schubert Center for Child Studies**
+[**Schubert Center for Child Studies**] (https://case.edu/schubertcenter/)
 
 The Schubert Center for Child Studies at Case Western Reserve University connects research, education, and policy to improve the lives of children and adolescents. The center supports interdisciplinary research, offers educational programs like the Childhood Studies minor for students, and collaborates with policymakers to promote child well-being. Families, students, and professionals can access resources and events focused on child development and advocacy.
 

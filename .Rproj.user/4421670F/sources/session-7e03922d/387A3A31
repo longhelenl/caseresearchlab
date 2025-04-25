@@ -3,7 +3,7 @@
     "path": "C:/Users/hll43/OneDrive - Case Western Reserve University/CaSE Lab/Website/caseresearchlab/resources.qmd",
     "project_path": "resources.qmd",
     "type": "quarto_markdown",
-    "hash": "4026373404",
+    "hash": "3553602817",
     "contents": "",
     "dirty": false,
     "created": 1745613746487.0,
@@ -13,15 +13,15 @@
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "38,0",
-        "scrollLine": "29"
+        "cursorPosition": "62,295",
+        "scrollLine": "37"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745615386,
+    "lastKnownWriteTime": 1745615909,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745615386542,
+    "last_content_update": 1745615909751,
     "read_only": false,
     "read_only_alternatives": []
 }
