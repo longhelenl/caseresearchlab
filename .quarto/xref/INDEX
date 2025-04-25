@@ -127,5 +127,17 @@
   },
   "publications/articles/xxxxcychosz.qmd": {
     "xxxxcychosz.html": "42d8ba23"
+  },
+  "publications/articles/2025cychosz.qmd": {
+    "2025cychosz.html": "8a2a7409"
+  },
+  "posts/aacpdm2025/index.qmd": {
+    "index.html": "6a9d8bca"
+  },
+  "participants.qmd": {
+    "participants.html": "7ecb49e6"
+  },
+  "students.qmd": {
+    "students.html": "ed08e68d"
   }
 }

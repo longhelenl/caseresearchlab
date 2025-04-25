@@ -1,18 +1,14 @@
 {
   "listingMap": {
-    "publications.qmd": [
-      "publications/*/**.qmd"
+    "news.qmd": [
+      "posts/**/index.qmd"
     ],
     "people.qmd": [
       "people/staff/*.qmd",
-      "people/gras/*.qmd",
-      "people/uras/*.qmd",
-      "people/alumni/*.qmd",
-      "people/ma-students/*.qmd",
-      "people/ug-students/*.qmd"
+      "people/ma-students/*.qmd"
     ],
-    "news.qmd": [
-      "posts/**/index.qmd"
+    "publications.qmd": [
+      "publications/*/**.qmd"
     ]
   }
 }

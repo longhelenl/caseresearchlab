@@ -1,8 +1,22 @@
 [
   {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/long_helen.html",
+      "/people/ma-students/munz_kate.html",
+      "/people/ma-students/ng_ava.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts/aacpdm2025/index.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
-      "/publications/articles/xxxxcychosz.html",
+      "/publications/articles/2025cychosz.html",
       "/publications/articles/2025oller.html",
       "/publications/articles/2024oller.html",
       "/publications/articles/2024long-autism.html",
@@ -26,17 +40,5 @@
       "/publications/articles/2019oller.html",
       "/publications/articles/2019long.html"
     ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/staff/long_helen.html",
-      "/people/ma-students/munz_kate.html",
-      "/people/ma-students/ng_ava.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": []
   }
 ]

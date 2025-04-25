@@ -1,0 +1,55 @@
+---
+pagetitle: "Students | CasE Lab @ CWRU"
+toc: true
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Opportunities</li>
+  </ol>
+</nav>
+```
+
+## Undergraduate Students
+The CasE Lab welcomes undergraduate students from Communication Sciences, Psychology, Neuroscience, Public Health, and related fields to get involved in early-stage research. Students can participate as research assistants, supporting data collection, transcription, coding, and literature reviews on topics related to early communication development, motor disabilities, and family-centered care.
+
+Research assistants will have the opportunity to:
+
+- Attend lab meetings and training sessions
+- Gain experience with child communication research methods
+- Work with real clinical or observational data
+- Receive a letter of recommendation upon successful participation (requires a two weeks' notice)
+
+Advanced students may propose independent projects, pursue honors theses, or contribute to conference presentations or manuscripts.
+
+<a href="mailto:helen.long@case.edu" class="btn btn-primary rounded-pill">Apply to be a Research Assistant</a>
+
+## Master's Students
+
+Graduate students enrolled in the COSI Master's program may participate in the lab in a variety of ways:
+
+- Attend lab meetings to learn lab logistics and appraise research  
+- Assist with ongoing research projects as part of lab teams  
+- Conduct a thesis or meta-analysis with mentored support  
+- Explore clinical topics related to AAC, pediatric dysarthria, or neurodevelopmental disabilities  
+
+Students are encouraged to bring their own research ideas or develop a project in collaboration with Dr. Long. Lab involvement may contribute to research awards, conference presentations, and future doctoral applications.
+
+## Prospective PhD Students
+
+The CasE Lab is open to prospective PhD students with interests in:
+
+- Early communication and speech development  
+- Pediatric motor speech disorders  
+- AAC and family-centered intervention  
+- Open science and translational research in CSD
+
+
+While the lab is currently in development, we are actively building research partnerships in the Cleveland community and expanding our clinical research infrastructure. Prospective students should be aware that the lab is growing and evolving, which may offer opportunities to shape emerging lines of research. Strong applicants should demonstrate an interest in translational research and interdisciplinary collaboration.
+
+Doctoral training is offered through the [Developmental, Cognitive, and Affective Sciences (DCAS) Program](https://psychsciences.case.edu/graduate/dcas/) at CWRU. Interested applicants are encouraged to reach out to discuss potential fit and mentorship.
+
+
+Postdoctoral researchers with interests aligned with the lab’s mission are welcome to inquire about future opportunities. At present, postdoctoral positions will be considered on a case-by-case basis, depending on funding availability and project needs. Scholars with backgrounds in **speech-language pathology, developmental psychology, implementation science, public health, or rehabilitation sciences** are especially encouraged to connect. **Interested postdocs** should reach out with a brief introduction, CV, and statement of research interests.

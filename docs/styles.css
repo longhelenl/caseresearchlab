@@ -9,6 +9,10 @@
   padding-bottom: 20px;
 }
 
+.navbar {
+  background-color: #003071; /* Replace with your preferred color */
+}
+
 .quarto-about-jolla p.subtitle {
  text-align: center;
 }

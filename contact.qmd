@@ -22,6 +22,7 @@ The CaSE Lab is located in the former Cleveland Hearing and Speech Center at 116
 ```
 ## Email Us
 
-```{=html}
-<script src="https://cdn.form.io/formiojs/formio.embed.js?src=https://ejlffjjksoybevj.form.io/affcomlabcontactform&libs=true"></script>
-```
+![](./img/longemail.jpg)
+
+
+![](./img/labemail.jpg)

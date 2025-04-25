@@ -6,7 +6,7 @@ image: long_helen.jpg
 started: "Fall 2024"
 toc: false
 resources: 
-  - "long_cv.pdf"
+  - "HLong_MASTER_CV.pdf"
 about:
   id: person-profile
   template: jolla
@@ -16,7 +16,7 @@ about:
       href: mailto:helen.long@case.edu
     - icon: file-earmark-text
       text: CV
-      href: ./people/staff/long_cv.pdf
+      href: ./people/staff/HLong_MASTER_CV.pdf
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=QmlqUHsAAAAJ

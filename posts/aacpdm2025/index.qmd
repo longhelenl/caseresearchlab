@@ -1,0 +1,35 @@
+---
+title: "AACPDM 2025 Conference"
+description: "Accepted Presentations"
+author: "Helen Long"
+date: "2025-04-25"
+image: aacpdm.png
+draft: false
+categories:
+  - announcement
+  - conference
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+The CaSE Lab had **four** co-authored abstract submissions accepted to present at the 2025 AACPDM Annual meeting this October! 
+
+- Sutter, E, Iverson, J, & **Long HL** (Submitted for 2025, October). Bridging the Gap: Exploring Motor-Communication Links and Clinical Implications through a Developmental Cascades Framework [*Educational Session*].
+   - This session explores how motor and communication development are interconnected across neurodevelopmental disabilities. Using a **developmental cascades framework**, presenters will review research on motor-communication links and discuss clinical strategies to support communication outcomes for children with motor delays or impairments. <br /><br />
+
+- **Long HL**, Anderson, D, & Michalski, K (Submitted for 2025, October). Tiny Voices Matter. The Impact of Early Communication: Insights from Research and Clinic [*Educational Session*].
+   - This session discusses the **role of SLPs in promoting early communication and participation** for children with cerebral palsy. Topics include key milestones, referral considerations, and intervention strategies, such as parent coaching and AAC, to support language development and challenge common misconceptions about early speech and AAC use in CP. <br /><br />
+
+- Hidecker, MJC, **Long HL**, & Lenski, M (Submitted for 2025, October). Descriptive epidemiology of functional communication among children aged 10 born extremely prematurely [*Free Paper*]. 
+   - This poster presents a **descriptive epidemiology of communication functioning** at age 10 among children born extremely preterm. Using a range of speech, language, and communication measures, findings show that up to 28% had reduced communication abilities, highlighting the significant long-term communication needs in this population compared to national averages. <br /><br />
+
+- **Long HL**, Romer K, Rivera-Peraza, C, Spence D, Chen, S, & Rhodes L (Submitted for 2025, October). Referral and Clinical Practices for Speech Therapy in a Multidisciplinary CP Clinic [*Poster*]. 
+   - This poster describes **referral patterns and clinical practices** for SLP services in a multidisciplinary clinic for children with cerebral palsy. Findings show earlier referrals for feeding concerns and later referrals for communication delays, emphasizing the need for timely identification and intervention to optimize communication outcomes. <br /><br />
+   
+![](conference-square-small.png){.hero width=25%}
+
+
+
+
