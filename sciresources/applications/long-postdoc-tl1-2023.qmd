@@ -1,0 +1,32 @@
+---
+title: "TL1 Postdoctoral Program"
+description: "UW-Madison Institute of Clinical & Translational Research"
+categories: [postdoc, NIH]
+Year: "2023"
+external-link: "https://ictr.wisc.edu/funding/tl1-postdoctoral-training-program/"
+pdf-link: "./long-postdoc-tl1-2023.pdf"
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://ictr.wisc.edu/funding/tl1-postdoctoral-training-program/" target="_blank" rel="noopener noreferrer">View Program</a>
+<a class="btn btn-secondary" href="./long-postdoc-tl1-2023.pdf" target="_blank" rel="noopener noreferrer">View My Application</a>
+
+<br><br>
+
+<iframe src="./long-postdoc-tl1-2023.pdf" 
+        width="100%" 
+        height="800px" 
+        style="border: 1px solid #ccc;">
+</iframe>

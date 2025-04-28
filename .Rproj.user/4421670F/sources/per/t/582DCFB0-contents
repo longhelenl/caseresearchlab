@@ -1,0 +1,34 @@
+---
+title: "Github"
+image: github.png
+description: "Repository hosting service"
+toc: false
+categories:
+  - open science
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://osf.io/" target="_blank" rel="noopener noreferrer">Website</a>
+<a class="btn btn-secondary" href="https://github.com/longhelenl" target="_blank" rel="noopener noreferrer">Dr. Long's Github</a>
+```
+
+<br/>
+
+## About Github
+GitHub is a free platform that enables researchers, developers, and organizations to share, collaborate on, and version-control projects online. Originally designed for coding, GitHub is now widely used to **share data, analysis scripts, protocols, and research materials openly**. It supports transparency and reproducibility by allowing users to track changes, collaborate across teams, and publish project repositories for public access. Researchers can use GitHub to make their work more **open, organized, and sustainable.**
+
+Access Dr. Long's website repo built with Quarto and R [here.](https://github.com/longhelenl/caseresearchlab)
+
+![](github.png){.hero width=25%}
+

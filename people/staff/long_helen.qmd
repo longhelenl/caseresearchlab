@@ -23,7 +23,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/longhelenl
-    - icon: chat-square-text
+    - icon: chat-right-text
       text: Bluesky
       href: https://bsky.app/profile/helenlong.bsky.social
 ---
@@ -64,5 +64,10 @@ Helen is also a co-founding collaborator of [CSDisseminate](http://www.csdissemi
 ## Clinical Experience
 
 -   **Speech-Language Pathologist** \| 2014--2021<br /> Invo-Progressus Therapy, Shelby County Schools, Memphis, TN, USA
+    - Shrine School for Children with Disabilities
+    - Lucie E. Campbell Elementary School
 
 -   **Speech-Language Pathologist** \| 2012--2014<br /> Easterseals Massachusetts, Worcester, MA
+    - Fall River Early Childhood Center, Fall River, MA
+    - Algonquin Regional High School, Northborough, MA
+    - LifeStream, Inc., New Bedford, MA

@@ -1,0 +1,33 @@
+---
+title: "CSDisseminate"
+image: csdisseminate.png
+description: "Open Science in CSD"
+toc: false
+categories:
+  - open science
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://www.csdisseminate.com" target="_blank" rel="noopener noreferrer">Website</a>
+```
+
+<br/>
+
+## About CSDisseminate
+CSDisseminate is a working group of researchers and clinicians committed to advancing **open science practices** within **Communication Sciences and Disorders (CSD)** and related fields. We educate researchers, clinicians, students, administrators, and community members on strategies to enhance the transparency, reproducibility, and accessibility of research. Through initiatives such as resource sharing, educational workshops, research projects, and community programs, CSDisseminate promotes sustainable open science practices. Our vision is to **foster a more accessible and reproducible scientific community that bridges clinical and research gaps** to improve speech, language, hearing, and swallowing outcomes worldwide.
+
+**Dr. Long** is a co-founding collaborator of CSDisseminate and has been involved since its inception in 2020.
+
+![](csdisseminate.png){.hero width=25%}
+

@@ -29,6 +29,10 @@
     width: 50%;
 }
 
+.quarto-grid-item:hover {
+  border: 1px solid black;
+}
+
 .pub-list a.btn {
   font-size: 80%;
   border-radius: 4px;

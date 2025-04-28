@@ -1,7 +1,15 @@
 {
   "listingMap": {
+    "sciresources.qmd": [
+      "applications/*.qmd",
+      "/sciresources/applications/*.qmd",
+      "/sciresources/openscience/*.qmd"
+    ],
     "news.qmd": [
       "posts/**/index.qmd"
+    ],
+    "participate.qmd": [
+      "/participate"
     ],
     "people.qmd": [
       "people/staff/*.qmd",
@@ -9,13 +17,6 @@
     ],
     "publications.qmd": [
       "publications/*/**.qmd"
-    ],
-    "publications\\articles\\2025cychosz.qmd": [
-      "B3049D40"
-    ],
-    "participate.qmd": [
-      "B3049D40",
-      "/projects"
     ]
   }
 }

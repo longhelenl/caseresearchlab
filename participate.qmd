@@ -1,9 +1,9 @@
 ---
-title: "Participate"
+title: "Opportunities to Participate"
 page-layout: full
 listing:
   id: participate
-  contents: /projects
+  contents: /participate
   type: grid
   image-height: 200px
   max-items: 50

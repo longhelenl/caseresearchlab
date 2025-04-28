@@ -1,0 +1,32 @@
+---
+title: "T32 Postdoctoral Program"
+description: "UW-Madison Waisman Center"
+categories: [postdoc, NIH]
+Year: "2021"
+external-link: "https://www.waisman.wisc.edu/administrative-core/postdoctoral-training-program-idd/"
+pdf-link: "./long-postdoc-t32-2021.pdf"
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://www.waisman.wisc.edu/administrative-core/postdoctoral-training-program-idd/" target="_blank" rel="noopener noreferrer">View Program</a>
+<a class="btn btn-secondary" href="./long-postdoc-t32-2021.pdf" target="_blank" rel="noopener noreferrer">View My Application</a>
+
+<br><br>
+
+<iframe src="./long-postdoc-t32-2021.pdf" 
+        width="100%" 
+        height="800px" 
+        style="border: 1px solid #ccc;">
+</iframe>

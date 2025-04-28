@@ -2,7 +2,7 @@
 title: "Kate Munz"
 sortby: "Munz, Kate"
 subtitle: "Research Assistant"
-image: dog.png
+image: munz_kate.jpg
 started: "Fall 2024"
 ended: "Current"
 toc: false
@@ -24,9 +24,15 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Kate is a SLP graduate student in the Communication Sciences Program at CWRU. She is graduating in Spring 2026 and plans to xxx. Kate is interested in yyyy. She is also interested in bbb.
+Kate Munz’s research interests include pediatric motor speech disorders, early childhood communication development, and acquired neurogenic communication disorders. She is particularly interested in advancing therapeutic approaches for individuals with aphasia following stroke and in the early identification of motor speech challenges in young children.
+
+She earned her Bachelor of Arts in Speech and Hearing Sciences, with a minor in Bioethics, from Ohio State University in May 2024. During her time at OSU, she contributed to research in the Childhood Cognition, Communication, and Brain Injury Lab, supporting studies on pediatric brain injury and school reintegration. She is currently pursuing a master’s degree in the Communication Sciences Program at Case Western Reserve University, where she continues her research involvement as a graduate assistant in the Communication and Speech Emergence Laboratory.
+
+Alongside her research, Kate is completing clinical practicums across pediatric and adult settings, including providing therapy for toddlers with speech-language delays and for adults with acquired neurogenic communication disorders. Outside of academics, she enjoys exploring local coffee shops, practicing yoga, and cheering on her favorite sports teams.
 
 ## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> MA Speech-Language Pathology 2026
 
 **Ohio State University** \| Columbus, OH, USA<br /> BA Speech-Language Pathology 2024
 :::

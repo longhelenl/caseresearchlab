@@ -1,6 +1,6 @@
 ---
 title: "Resources for Families"
-subtitle: "Resources for families seeking information about early detection and early intervention"
+subtitle: "Resources for families seeking information about early detection and early intervention in Cleveland and throughout Ohio"
 format: html
 ---
 
@@ -30,7 +30,7 @@ United Cerebral Palsy (UCP) of Greater Cleveland offers services for children an
 :::
 
 :::
-## More Coming Soon
+## Additional Resources
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](./img/pubs.png)

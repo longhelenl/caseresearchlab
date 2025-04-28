@@ -160,5 +160,65 @@
   },
   "projects/peas/index.qmd": {
     "index.html": "2a5406c4"
+  },
+  "participate/peas/index.qmd": {
+    "index.html": "b62f3aaf"
+  },
+  "sciresources/asha-lessons/index.qmd": {
+    "index.html": "b38abc55"
+  },
+  "applications/long-asha-lessons-2023.qmd": {
+    "long-asha-lessons-2023.html": "6d140f8e"
+  },
+  "applications/long-asha-nirg-2022.qmd": {
+    "long-asha-nirg-2022.html": "2466f5ca"
+  },
+  "applications/long-asha-pathways-2021.qmd": {
+    "long-asha-pathways-2021.html": "0842a748"
+  },
+  "docs/applications/long-asha-pathways-2021.qmd": {
+    "long-asha-pathways-2021.html": "dc4ea557"
+  },
+  "applications/long-nih-lrp-2022.qmd": {
+    "long-nih-lrp-2022.html": "09639b63"
+  },
+  "docs/applications/long-nih-lrp-2022.qmd": {
+    "long-nih-lrp-2022.html": "91eddc74"
+  },
+  "sciresources/applications/long-asha-lessons-2023.qmd": {
+    "long-asha-lessons-2023.html": "749a2384"
+  },
+  "sciresources/applications/long-asha-nirg-2022.qmd": {
+    "long-asha-nirg-2022.html": "ed54897b"
+  },
+  "sciresources/applications/long-asha-pathways-2021.qmd": {
+    "long-asha-pathways-2021.html": "b451afb6"
+  },
+  "sciresources/applications/long-nih-lrp-2022.qmd": {
+    "long-nih-lrp-2022.html": "57f34c18"
+  },
+  "sciresources/applications/long-postdoc-t32-2021.qmd": {
+    "long-postdoc-t32-2021.html": "2d5d0f9f"
+  },
+  "sciresources/applications/long-postdoc-tl1-2023.qmd": {
+    "long-postdoc-tl1-2023.html": "f90ce506"
+  },
+  "sciresources/applications/long-tt-cwru-2023.qmd": {
+    "long-tt-cwru-2023.html": "e0b1852d"
+  },
+  "sciresources/applications/long-tt-cwru-2024.qmd": {
+    "long-tt-cwru-2024.html": "9a58edda"
+  },
+  "sciresources/openscience/csdisseminate.qmd": {
+    "csdisseminate.html": "fb442822"
+  },
+  "sciresources/openscience/osf.qmd": {
+    "osf.html": "c25ade02"
+  },
+  "docs/sciresources/openscience/github.qmd": {
+    "github.html": "52503c1d"
+  },
+  "sciresources/openscience/github.qmd": {
+    "github.html": "cdaf08d4"
   }
 }

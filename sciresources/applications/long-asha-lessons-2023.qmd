@@ -1,0 +1,33 @@
+---
+title: "ASHA Lessons for Success Program"
+description: "Grant writing bootcamp"
+categories: [ASHA, professional development]
+Year: "2023"
+external-link: "https://www.asha.org/research/l4s/?srsltid=AfmBOortizacN8XBayZywMLiOWUjvOcnuxolw8DOWiXLbNu76JAThAze"
+pdf-link: "./long-asha-lessons-2023.pdf"
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://www.asha.org/research/l4s/?srsltid=AfmBOortizacN8XBayZywMLiOWUjvOcnuxolw8DOWiXLbNu76JAThAze" target="_blank" rel="noopener noreferrer">View Program</a>
+<a class="btn btn-secondary" href="./long-asha-lessons-2023.pdf" target="_blank" rel="noopener noreferrer">View My Application</a>
+```
+
+<br><br>
+
+<iframe src="./long-asha-lessons-2023.pdf" 
+        width="100%" 
+        height="800px" 
+        style="border: 1px solid #ccc;">
+</iframe>

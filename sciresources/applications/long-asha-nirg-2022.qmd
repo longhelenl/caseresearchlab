@@ -1,0 +1,34 @@
+---
+title: "ASHA New Investigator Research Grant"
+description: "New investigator pilot grant"
+categories: [ASHA, grants]
+Year: "2022"
+external-link: "https://www.ashfoundation.org/apply/new-investigators-research-grant/"
+pdf-link: "./long-asha-nirg-2022.pdf"
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://www.ashfoundation.org/apply/new-investigators-research-grant/" target="_blank" rel="noopener noreferrer">View Program</a>
+<a class="btn btn-secondary" href="./long-asha-nirg-2022.pdf" target="_blank" rel="noopener noreferrer">View My Application</a>
+<a class="btn btn-secondary" href="./long-asha-nirg-2022-fr.pdf" target="_blank" rel="noopener noreferrer">Final Report</a>
+```
+
+<br><br>
+
+<iframe src="./long-asha-nirg-2022.pdf" 
+        width="100%" 
+        height="800px" 
+        style="border: 1px solid #ccc;">
+</iframe>
