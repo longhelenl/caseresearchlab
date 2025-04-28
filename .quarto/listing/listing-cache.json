@@ -1,0 +1,21 @@
+{
+  "listingMap": {
+    "news.qmd": [
+      "posts/**/index.qmd"
+    ],
+    "participate.qmd": [
+      "/participate"
+    ],
+    "people.qmd": [
+      "people/staff/*.qmd",
+      "people/ma-students/*.qmd"
+    ],
+    "publications.qmd": [
+      "publications/*/**.qmd"
+    ],
+    "sciresources.qmd": [
+      "/sciresources/openscience/*.qmd",
+      "/sciresources/applications/*.qmd"
+    ]
+  }
+}
