@@ -1,0 +1,42 @@
+---
+pagetitle: "CaSE Lab @ CWRU"
+title: "About the CaSE Lab"
+toc: false
+---
+
+
+**Mission**: Our mission is to advance the early identification and intervention of communication needs in children with motor disorders through awareness, advocacy, education, research, and support for families.
+
+**Awareness, Advocacy, Education, Research, Support**
+
+**Research Objectives**
+
+1.  *Early Identification* <br />
+  - Collaborate with interdisciplinary teams to create and validate innovative screening and diagnostic tools to enhance the early identification of communication and speech needs for children with neurodevelopmental disabilities.
+2.	 *Early Intervention* <br />
+  -	Design, implement, and evaluate culturally sensitive, family-centered early interventions tailored to the communication needs of children with neurodevelopmental disabilities and their families.
+3.	*Community Engagement* <br />
+  -	Build strong, sustainable partnerships with healthcare providers, community organizations, and families to promote the dissemination, adoption, and implementation of early identification and intervention strategies. 
+
+**Vision**: We envision a world where every child with a neurodevelopmental disability receives early, accurate communication support and personalized interventions beginning at the youngest possible age. Families are empowered to advocate for their children in a world where all children can communicate, participate, and reach their full potential.
+
+
+
+**Diversity, Equity, Inclusion, and Accessibility Statement**
+
+
+In the CaSE Lab, we are dedicated to:
+
+- **Embracing Diversity** <br />
+    Recruiting team members, study participants, and collaborators from **diverse backgrounds** to ensure our research is inclusive and reflects the needs of all children with neurodevelopmental disabilities and their families in our community.
+
+- **Promoting Inclusivity** <br />
+    Fostering a **welcoming and respectful environment** where all voices are heard and valued, and ensuring diverse perspectives are integrated into our research and its applications.
+
+- **Advancing Equity** <br />
+    Working to **reduce disparities** in access to early identification and intervention services, regardless of socioeconomic, cultural, or geographic background, so that every child can receive the support they need.
+
+- **Ensuring Accessibility** <br />
+    Making our research and materials **freely accessible to all**, and actively engaging with communities to ensure they can benefit from our work. We strive to build a more just society by conducting transparent, collaborative research that democratizes knowledge and ensures equitable distribution of scientific advancements, enabling every child to thrive.
+
+

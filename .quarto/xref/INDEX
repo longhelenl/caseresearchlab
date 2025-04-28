@@ -139,5 +139,26 @@
   },
   "students.qmd": {
     "students.html": "ed08e68d"
+  },
+  "courses.qmd": {
+    "courses.html": "92bdcd78"
+  },
+  "famresources.qmd": {
+    "famresources.html": "57e971a6"
+  },
+  "mission.qmd": {
+    "mission.html": "3c89c7f1"
+  },
+  "participate.qmd": {
+    "participate.html": "e6489e52"
+  },
+  "sciresources.qmd": {
+    "sciresources.html": "f56298ac"
+  },
+  "projects.qmd": {
+    "projects.html": "2fab0e04"
+  },
+  "projects/peas/index.qmd": {
+    "index.html": "2a5406c4"
   }
 }

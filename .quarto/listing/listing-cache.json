@@ -9,6 +9,13 @@
     ],
     "publications.qmd": [
       "publications/*/**.qmd"
+    ],
+    "publications\\articles\\2025cychosz.qmd": [
+      "B3049D40"
+    ],
+    "participate.qmd": [
+      "B3049D40",
+      "/projects"
     ]
   }
 }

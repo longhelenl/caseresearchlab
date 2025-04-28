@@ -1,0 +1,16 @@
+---
+title: "Participate"
+page-layout: full
+listing:
+  id: participate
+  contents: /projects
+  type: grid
+  image-height: 200px
+  max-items: 50
+  categories: true
+  fields: [image, title, subtitle, Recruiting]
+  sort-ui: true
+  filter-ui: true
+  page-size: 0 #set as 0 will remove the page setting
+---
+
