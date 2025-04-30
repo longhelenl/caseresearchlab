@@ -220,5 +220,11 @@
   },
   "sciresources/openscience/github.qmd": {
     "github.html": "cdaf08d4"
+  },
+  "publications/articles/2025long-nirg.qmd": {
+    "2025long-nirg.html": "4f743a18"
+  },
+  "participate/ei-slp-delphi/index.qmd": {
+    "index.html": "1e672c50"
   }
 }

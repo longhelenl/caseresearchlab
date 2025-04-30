@@ -14,6 +14,16 @@ categories:
   - autism
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Long, H. L., Ramsay, G., Bene, E. R., Su, P. L., Yoo, H., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., & Oller, D. K. (2024). Canonical babbling trajectories across the first year of life in autism and typical development. *Autism*, *28*(12), 3078--3091. <https://doi.org/10.1177/13623613241253908>

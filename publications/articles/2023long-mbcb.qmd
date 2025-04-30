@@ -13,6 +13,16 @@ categories:
   - cerebral palsy
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Long, H. L., & Hustad, K. C. (2023). Marginal and canonical babbling in 10 infants at risk for cerebral palsy. *American Journal of Speech-Language Pathology*, *32*(4S), 1835--1849. <https://doi.org/10.1044/2022_AJSLP-22-00165>

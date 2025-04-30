@@ -13,6 +13,16 @@ categories:
   - cerebral palsy
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Long, H. L., Eichorn, N., & Oller, D. K. (2023). A probe study on vocal development in two infants at risk for cerebral palsy. *Developmental Neurorehabilitation*, *26*(1), 44--51. <https://doi.org/10.1080/17518423.2022.2143923>

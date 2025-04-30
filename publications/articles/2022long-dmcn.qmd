@@ -12,6 +12,16 @@ categories:
   - speech development
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Long, H. L., Mahr, T. J., Natzke, P., Rathouz, P. J., & Hustad, K. C. (2022). Longitudinal change in speech classification between 4 and 10 years in children with cerebral palsy. *Developmental Medicine & Child Neurology*, *64*(9), 1096--1105. <https://doi.org/10.1111/dmcn.15198>

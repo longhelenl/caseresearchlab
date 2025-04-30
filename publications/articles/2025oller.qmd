@@ -13,6 +13,16 @@ categories:
   - autism
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Oller, D. K., Bene, E. R., Yoo, H., Su, P. L., Long, H. L., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., & Ramsay, G. (2025). The robustness of speech-like vocalization in typically developing infants and autistic infants. *Research in Developmental Disabilities*, *159*, 104949.

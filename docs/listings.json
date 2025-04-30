@@ -17,6 +17,7 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/articles/2025long-nirg.html",
       "/publications/articles/2025cychosz.html",
       "/publications/articles/2025oller.html",
       "/publications/articles/2024oller.html",
@@ -53,6 +54,7 @@
   {
     "listing": "/participate.html",
     "items": [
+      "/participate/ei-slp-delphi/index.html",
       "/participate/peas/index.html"
     ]
   },

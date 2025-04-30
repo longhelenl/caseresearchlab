@@ -12,6 +12,16 @@ categories:
   - vocal development
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Cychosz, M., & Long, H. L. (under review). Canonical babbling development in infancy: A systematic review and meta-analysis of methodological and ambient language influences. *OSFPreprints.* https://doi.org/10.31219/osf.io/8ub2v_v1

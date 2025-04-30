@@ -13,6 +13,16 @@ categories:
   - cerebral palsy
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Long, H. L., & Hustad, K. C. (2024). Vocal characteristics of children with cerebral palsy and anarthria. *Journal of Speech, Language, and Hearing Research*, *67*, 4264--4274. <https://doi.org/10.1044/2024_JSLHR-24-00317>

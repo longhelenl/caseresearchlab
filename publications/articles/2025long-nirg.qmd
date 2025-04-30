@@ -1,0 +1,39 @@
+---
+title: "A pilot investigation on the relationship between infant vocal characteristics at twelve months and speech motor impairment at four to five years"
+type: "article"
+author: "Long, Jensen, & Hustad"
+year: "2025"
+publication: "Journal of Speech, Language, and Hearing Research"
+materials: "https://osf.io/7t35n/"
+toc: false
+categories:
+  - infant
+  - vocal development
+  - cerebral palsy
+  - speech development
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+## Citation (APA 7)
+
+> Long, H. L., Jensen, S., & Hustad, K. C. (in press). A pilot investigation on the relationship between infant vocal characteristics at twelve months and speech motor impairment at four to five years. *Journal of Speech, Language, and Hearing Research.*
+
+## Abstract
+
+Purpose: The objective of this pilot study was to investigate the relationship between infant vocal characteristics and later speech motor impairment in children at risk for cerebral palsy to inform the early prediction of speech motor impairment.
+
+Method: Vocal complexity, volubility, and consonant inventories of thirteen infants at risk of cerebral palsy were examined at approximately twelve months. We examined their association with later levels of speech motor impairment as measured by the Viking Speech Scale (VSS). 
+
+Results: Children in our sample with greater speech motor impairment at age four produced lower rates of developmentally complex vocalizations in infancy but showed no significant differences in vocal stage attainment, volubility, or consonant diversity.
+
+Conclusion: Our results are in line with trends found in prior literature examining vocal characteristics of infants at risk for speech motor involvement. These results can inform data-driven hypotheses in future studies aimed at the early prediction of speech motor impairment through the study of infant vocal production. 
+

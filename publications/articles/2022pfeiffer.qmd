@@ -10,6 +10,16 @@ categories:
   - open science
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Pfeiffer, D. L., Long, H. L., & El Amin, M. (2022). Access research beyond the paywall: Five strategies to read what you need. *ASHA Leader Live*. <https://leader.pubs.asha.org/do/10.1044/2022-0919-slp-aud-research/full/>

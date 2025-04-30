@@ -13,6 +13,16 @@ categories:
   - autism
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Su, P. L., Yoo, H., Ramsay, G., Long, H. L., Bene, E. R., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., & Oller, D. K. (2024). Foundations of vocal category development in autistic infants. *Journal of Autism and Developmental Disorders*. <https://doi.org/10.1007/s10803-024-06267-9>

@@ -12,6 +12,16 @@ categories:
   - vocal development
 ---
 
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
 ## Citation (APA 7)
 
 > Yoo, H., Su, P. L., Ramsay, G., Long, H. L., Bene, E. R., & Oller, D. K. (2024). Infant vocal category exploration as a foundation for speech development. *PLOS ONE*, *19*(5), e0299140. <https://doi.org/10.1371/journal.pone.0299140>
