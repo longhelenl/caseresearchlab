@@ -2,7 +2,7 @@
 title: "Ava Ng"
 sortby: "Ng, Ava"
 subtitle: "Research Assistant"
-image: ng_ava.png
+image: ng_ava.jpg
 started: "Fall 2024"
 ended: "Current"
 toc: false
