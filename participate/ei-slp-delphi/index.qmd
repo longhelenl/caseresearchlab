@@ -1,6 +1,6 @@
 ---
 title: "EI SLP Delphi Study"
-subtitle: "Developing Best Practices for EI SLPs in Cerebral Palsy"
+subtitle: "Current practices of EI SLPs for cerebral palsy"
 image: /img/ei-slp-delphi.jpg
 categories: [cerebral palsy, SLPs, early intervention]
 Recruiting: "EI SLPs"
@@ -41,13 +41,14 @@ We’re inviting experienced SLPs to participate in a Delphi Study aiming to ide
 
 **Interested?**
 
-Fill out this brief screening form to continue: https://cwru.az1.qualtrics.com/jfe/form/SV_6fZ9Fh4FvK3eYlM 
+Fill out this [brief screening form](https://cwru.az1.qualtrics.com/jfe/form/SV_6fZ9Fh4FvK3eYlM ) to continue. 
+
 Questions? Contact Dr. Helen Long at helen.long\@case.edu or 216-368-3484
 
 Help us build a more robust, evidence-informed foundation of communication supports for children with motor disabilities in early intervention!
 
+*Approved CWRU IRB #STUDY20250460*
 
 
 
 
-*Not Recruiting; IRB Not Yet Approved*

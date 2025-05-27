@@ -25,10 +25,6 @@ website:
         menu:
           - text: Publications
             href: publications.qmd
-          - text: Topics
-            href: research.qmd
-          - text: Current Projects
-            href: projects.qmd
       - text: Students
         menu:
           - text: Lab Opportunities
@@ -52,7 +48,7 @@ website:
   
 format:
   html:
-    theme: flatly
+    theme: brite
     css: styles.css
     toc: true
 

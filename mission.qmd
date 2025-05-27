@@ -9,7 +9,7 @@ toc: false
 
 Core Areas: **Awareness - Education - Research - Support - Outreach**
 
-##Research Objectives
+## Research Objectives
 
 - **Early Identification** <br />
     Partner with multidisciplinary teams to design and validate tools that enhance timely recognition of speech and communication challenges in children with developmental motor conditions.
@@ -21,8 +21,7 @@ Core Areas: **Awareness - Education - Research - Support - Outreach**
 **Vision**: We envision a future where every child with a developmental motor condition receives timely communication support and individualized strategies that foster growth from the earliest stages of life. Caregivers are equipped to navigate services and support their child’s full communication potential in home, school, and community settings.
 
 
-
-##Statement of Lab Commitments:
+## Statement of Lab Commitments:
 
 
 In the CaSE Lab, we are dedicated to:
