@@ -13,25 +13,17 @@ toc: true
 ```
 ## Research Topics
 
-### Early identification of communication support needs in young children
+### 👶 Early identification of communication support needs
+<br /> 
 
-
-
-**Cerebral palsy and speech motor involvement** <br /> 
+#### 💚 Cerebral palsy and speech motor involvement <br /> 
 Many children with cerebral palsy (CP) face speech challenges, but these are often recognized too late for early intervention to have the greatest impact.<br /> 
 
-My research focuses on identifying these needs sooner by studying how infants with and at risk for CP, begin using sounds and babbling. We’re finding early differences in how speech develops in these children, which may signal future speech and communication support needs.<br /> 
+My research focuses on identifying these needs sooner by studying how infants with and at risk for CP use sounds and babbling in the first few years of life. We’re finding early differences in how speech develops in these children, which may signal future speech and communication support needs.<br /> 
 
-By uncovering which vocal and communication patterns matter most, our goal is to create better tools for early detection so children with CP can get the support they need as early as possible.<br /> 
+By uncovering which vocal and communication patterns matter most, our goal is to create better tools for early detection of SLP support needs so children with CP can get the care they need as early as possible.<br /> <br /> 
 
-  **Featured Papers:**
-
-  - Long, H. L., & Hustad, K. C. (2024). Vocal characteristics of children with cerebral palsy and anarthria. *Journal of Speech, Language, and Hearing Research, 67,* 4264–4274. https://doi.org/10.1044/2024_JSLHR-24-00317
-  - Long, H. L., Christensen, L., Hayes, S., & Hustad, K. C. (2023). Vocal characteristics of infants at risk for speech motor involvement: A scoping review. *Journal of Speech, Language, and Hearing Research, 66*(11), 4432–4460. https://doi.org/10.1044/2023_JSLHR-23-00336
-  - Long, H. L., & Hustad, K. C. (2023). Marginal and canonical babbling in 10 infants at risk for cerebral palsy. *American Journal of Speech-Language Pathology, 32*(4S), 1835–1849. https://doi.org/10.1044/2022_AJSLP-22-00165
-
-
-**Autism and other neurodevelopmental disabilities** <br /> 
+#### ∞ Autism and other neurodevelopmental disabilities <br /> 
 Even before babies say real words, their early vocalizations can offer important clues about how their communication skills are developing.<br /> 
 
 In this area of work, my colleagues and I study how early sounds like cooing and babbling might help us identify other groups of children who are at risk for communication challenges. I’ve worked with research teams studying infants with neurodevelopmental conditions and risk factors such as preterm birth, tuberous sclerosis complex, and autism.<br /> 
@@ -41,16 +33,11 @@ Our findings show that these infants often babble less and take longer to produc
 This work is helping us build a foundation for identifying communication differences earlier—so that children can access support and intervention when it matters most.<br /> 
 
 
-  **Featured Papers:**
-
-  - Long, H. L., Ramsay, G., Bene, E. R., Su, P. L., Yoo, H., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., & Oller, D. K. (2024). Canonical babbling trajectories across the first year of life in autism and typical development. *Autism, 28*(12), 3078–3091. https://doi.org/10.1177/13623613241253908
-  - Gipson, T. T., Ramsay, G., Ellison, E. E., Bene, E. R., Long, H. L., & Oller, D. K. (2021). Early vocal development in tuberous sclerosis complex. *Pediatric Neurology, 125,* 48–52. https://doi.org/10.1016/j.pediatrneurol.2021.08.009
-  - Oller, D. K., Caskey, M., Yoo, H., Bene, E. R., Jhang, Y., Lee, C.-C., Bowman, D. D., Long, H. L., Buder, E. H., & Vohr, B. (2019). Preterm and full-term infant vocalization and the origin of language. *Scientific Reports, 9*(1), 14734. https://doi.org/10.1038/s41598-019-51352-0
-
-
 ![](./img/earlyid.png){.hero}
 
-### Evolutionary origins of language in humans
+<br /> 
+
+### 🌳 Evolutionary origins of language in humans <br /> 
 
 My doctoral research explored how babies learn to make sounds: not just to communicate with others, but also on their own.
 
@@ -58,27 +45,17 @@ By analyzing recordings of infants at home and in the lab, we found that babies 
 
 This work highlights that early speech development is shaped by both internal motivation and social interaction showing the importance of supporting both kinds of vocal experiences during infancy.
 
-  **Featured Papers:**
-
-  - Long, H. L., Ramsay, G., Griebel, U., Bene, E. R., Bowman, D. D., Burkhardt-Reed, M. M., & Oller, D. K. (2022). Perspectives on the origin of language: Infants vocalize most during independent vocal play but produce their most speech-like vocalizations during turn taking. *PLOS ONE, 17*(12), e0279395. https://doi.org/10.1371/journal.pone.0279395
-  - Oller, D. K., Ramsay, G., Bene, E., Long, H. L., & Griebel, U. (2021). Protophones, the precursors to speech, dominate the human infant vocal landscape. *Philosophical Transactions of the Royal Society B: Biological Sciences, 376*(1836), 20200255. https://doi.org/10.1098/rstb.2020.0255
-  - Burkhardt-Reed, M. M., Long, H. L., Bowman, D. D., Bene, E. R., & Oller, D. K. (2021). The origin of language and relative roles of voice and gesture in early communication development. *Infant Behavior and Development, 65,* 101648. https://doi.org/10.1016/j.infbeh.2021.101648
-
 
 ![](./img/languageorigins.png){.hero}
+<br /> 
 
-### Open science in communication sciences and disorders
+### 🌐 Open science in communication sciences and disorders
 
 This line of my research explores how open science practices, such as making articles freely available (self-archiving), sharing data, and preregistering studies, can increase the accessibility and impact of research in communication sciences and disorders (CSD).
 
 While these practices are becoming more common in other fields, they are still underused in CSD. Through national surveys, we found that many CSD researchers are unfamiliar with open science methods, especially preregistration and open access publishing. However, most are eager to learn and adopt these practices.
 
 We have also found that open access research is cited more often and gains more public visibility. This work underscores the need to reduce barriers and better support researchers in sharing their work openly—for the benefit of both professionals and the communities they serve.
-
-  **Featured Papers:**
-
-  -  Long, H. L., Drown, L., & El Amin, M. (2023). The effect of open access on scholarly and societal metrics of impact in the ASHA Journals. *Journal of Speech, Language, and Hearing Research, 66*(6), 1948–1957. https://doi.org/10.1044/2022_JSLHR-22-00315
-  - El Amin, M., Borders, J. C., Long, H. L., Keller, M. A., & Kearney, E. (2023). Open science practices in communication sciences and disorders: A survey. *Journal of Speech, Language, and Hearing Research, 66*(6), 1928–1947. https://doi.org/10.1044/2022_JSLHR-22-00062
 
 
 ![](./img/openscience.png){.hero}

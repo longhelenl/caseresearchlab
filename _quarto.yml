@@ -31,10 +31,10 @@ website:
             href: projects.qmd
       - text: Students
         menu:
+          - text: Lab Opportunities
+            href: opportunities.qmd
           - text: Teaching
             href: courses.qmd
-          - text: Opportunities
-            href: opportunities.qmd
       - text: Resources
         menu:
           - text: For Families
