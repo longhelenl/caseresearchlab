@@ -1,14 +1,14 @@
 {
-    "id": "89869418",
-    "path": "C:/Users/helen/OneDrive - Case Western Reserve University/CaSE Lab/Website/caseresearchlab/publications.qmd",
-    "project_path": "publications.qmd",
+    "id": "C2D380AE",
+    "path": "C:/Users/helen/OneDrive - Case Western Reserve University/CaSE Lab/Website/caseresearchlab/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2155695552",
+    "hash": "3134735242",
     "contents": "",
     "dirty": false,
-    "created": 1748381528437.0,
+    "created": 1748446286090.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "10,11",
-        "scrollLine": "0"
+        "cursorPosition": "20,129",
+        "scrollLine": "12",
+        "rmdVisualModeLocation": "2:448.6666564941406"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745697803,
+    "lastKnownWriteTime": 1748381391,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745697803,
+    "last_content_update": 1748381391,
     "read_only": false,
     "read_only_alternatives": []
 }
