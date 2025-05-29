@@ -1,0 +1,53 @@
+---
+title: "**UCP Club chAT**"
+subtitle: "Research Study on Caregiver Attitudes about AAC"
+image: /img/club-chat.png
+categories: [families, AAC]
+Recruiting: "Caregivers"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../participate.html">Participate</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+**Caregiver Research Study: Your Voice Matters!**
+Help us improve support for parents and caregivers of AAC users!
+
+
+📢 **WHAT IS THIS STUDY ABOUT?**
+We're conducting research to understand how caregivers feel about using AAC with their child. Your insights will help improve programs like Club chAT!
+
+👩‍👧‍👦 **WHO CAN PARTICIPATE?**
+
+- Caregivers of children registered for Club chAT at UCP of Greater Cleveland
+- Caregivers of children (ages 5-18) using AAC
+
+📝 **WHAT DOES PARTICIPATION INVOLVE?**
+
+- 3 short online surveys (before, after, and 3 months after Club chAT)
+- Optional virtual focus group with other caregivers 1 month after Club chAT
+
+💡 **WHY PARTICIPATE?**
+
+- Help improve AAC support for families like yours!
+- You will be compensated for your time at all points of participation!
+
+For questions about the study, contact:
+Helen Long, PhD, CCC-SLP
+Email: helen.long\@case.edu 
+Phone: 216-368-3484
+
+A collaboration between Case Western Reserve University & United Cerebral Palsy of Greater Cleveland
+
+*Approved CWRU IRB #STUDY20250045*
+
+
+
+

@@ -44,24 +44,25 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/news.html",
     "items": [
-      "/people/staff/long_helen.html",
-      "/people/ma-students/munz_kate.html",
-      "/people/ma-students/ng_ava.html"
+      "/posts/aacpdm2025/index.html"
     ]
   },
   {
     "listing": "/participate.html",
     "items": [
       "/participate/ei-slp-delphi/index.html",
-      "/participate/peas/index.html"
+      "/participate/peas/index.html",
+      "/participate/ucp-club-chat/index.html"
     ]
   },
   {
-    "listing": "/news.html",
+    "listing": "/people.html",
     "items": [
-      "/posts/aacpdm2025/index.html"
+      "/people/staff/long_helen.html",
+      "/people/ma-students/munz_kate.html",
+      "/people/ma-students/ng_ava.html"
     ]
   }
 ]
