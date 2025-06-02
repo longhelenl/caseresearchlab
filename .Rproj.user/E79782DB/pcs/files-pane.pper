@@ -5,5 +5,9 @@
             "ascending": true
         }
     ],
+<<<<<<< HEAD
     "path": "C:/Users/helen/OneDrive - Case Western Reserve University/CaSE Lab/Website/caseresearchlab"
+=======
+    "path": "~/GitHub/caseresearchlab"
+>>>>>>> ca4888dc07ff1ad2409000310da047fc5683d968
 }
