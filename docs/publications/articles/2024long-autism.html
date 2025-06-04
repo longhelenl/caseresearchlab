@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -202,14 +202,11 @@ ul.task-list li input[type="checkbox"] {
     <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
   </ol>
 </nav>
-<section id="citation-apa-7" class="level2">
-<h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
 <p>Long, H. L., Ramsay, G., Bene, E. R., Su, P. L., Yoo, H., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., &amp; Oller, D. K. (2024). Canonical babbling trajectories across the first year of life in autism and typical development. <em>Autism</em>, <em>28</em>(12), 3078–3091. <a href="https://doi.org/10.1177/13623613241253908" class="uri">https://doi.org/10.1177/13623613241253908</a></p>
 </blockquote>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
 <p>This study explores vocal development as an early marker of autism, focusing on canonical babbling rate and onset, typically established by 7 months. Previous reports suggested delayed or reduced canonical babbling in infants later diagnosed with autism, but the story may be complicated. We present a prospective study on 44 infants later diagnosed with autism spectrum disorder compared with 127 infants later identified as typically developing who were followed longitudinally with day-long recordings from 0 to 13 months. Eight 5-min segments from each of their recordings were coded for canonical and noncanonical syllables. The results confirmed many reports that canonical babbling is a robust feature of human vocal development in the first year of life, with small overall mean differences in canonical babbling rates between the autism spectrum disorder and typically developing groups beginning around 9 months, primarily in males. Our findings highlight the importance of considering sex differences in vocal communication as part of the early detection and diagnosis of autism when determining the need for communication supports to maximize outcomes.</p>
 
 
@@ -298,8 +295,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -410,7 +405,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

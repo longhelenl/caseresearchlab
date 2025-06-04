@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -202,14 +202,11 @@ ul.task-list li input[type="checkbox"] {
     <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
   </ol>
 </nav>
-<section id="citation-apa-7" class="level2">
-<h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
 <p>Long, H. L., &amp; Hustad, K. C. (2023). Marginal and canonical babbling in 10 infants at risk for cerebral palsy. <em>American Journal of Speech-Language Pathology</em>, <em>32</em>(4S), 1835–1849. <a href="https://doi.org/10.1044/2022_AJSLP-22-00165" class="uri">https://doi.org/10.1044/2022_AJSLP-22-00165</a></p>
 </blockquote>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
 <p>Purpose: This study is a preliminary quantification and characterization of the development of marginal and canonical syllable patterns in 10 infants at risk for cerebral palsy (CP).</p>
 <p>Method: We calculated marginal and canonical babbling ratios from parentinfant laboratory recordings of 10 infants at two time points, approximately 13 and 16 months of age. The frequency and diversity of labial, coronal, and velar types of marginal and canonical syllables were also examined. Differences across three outcome groups were compared: infants later diagnosed with CP (n = 3, CP group), risk of CP due to ongoing gross motor delays (n = 4, risk group), and current typically developing status with resolved gross motor delays (n = 3, TDx group). Performance on the Mullen Scales was included for perspective on cognitive development.</p>
 <p>Results: Higher marginal syllable ratios were observed in the CP and risk groups than the TDx group. An increasing canonical syllable ratio across the two ages was consistently observed in the TDx group. The TDx group produced a greater frequency and diversity of canonical syllable types than the risk and CP groups, and of marginal syllable types than the CP group.</p>
@@ -301,8 +298,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -413,7 +408,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

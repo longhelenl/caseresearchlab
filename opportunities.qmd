@@ -13,7 +13,7 @@ toc: true
 ```
 
 ## Undergraduate Students
-The CasE Lab welcomes undergraduate students from Communication Sciences, Psychology, Neuroscience, Public Health, and related fields to get involved in early-stage research. Students can participate as research assistants, supporting data collection, transcription, coding, and literature reviews on topics related to early communication development, motor disabilities, and family-centered care.
+The CasE Lab welcomes undergraduate students from Communication Sciences, Psychology, Neuroscience, Public Health, and related fields to get involved in early-stage research. Students can participate as research assistants supporting data collection and analysis, social media management, and literature reviews on topics related to early communication development, motor disabilities, and family-centered care.
 
 Research assistants will have the opportunity to:
 
@@ -33,7 +33,7 @@ Graduate students enrolled in the COSI Master's program may participate in the l
 - Attend lab meetings to learn lab logistics and appraise research  
 - Assist with ongoing research projects as part of lab teams  
 - Conduct a thesis or meta-analysis with mentored support  
-- Explore clinical topics related to AAC, pediatric dysarthria, or neurodevelopmental disabilities  
+- Explore clinical topics related to AAC, early intervention, pediatric dysarthria, and neurodevelopmental disabilities  
 
 Students are encouraged to bring their own research ideas or develop a project in collaboration with Dr. Long. Lab involvement may contribute to research awards, conference presentations, and future doctoral applications.
 
@@ -42,9 +42,11 @@ Students are encouraged to bring their own research ideas or develop a project i
 The CasE Lab is open to prospective PhD students with interests in:
 
 - Early communication and speech development  
+- Cerebral Palsy and other motor disabilities
 - Pediatric motor speech disorders  
 - AAC and family-centered intervention  
-- Open science and translational research in CSD
+- Community engaged research in CSD
+- Open science
 
 
 While the lab is currently in development, we are actively building research partnerships in the Cleveland community and expanding our clinical research infrastructure. Prospective students should be aware that the lab is growing and evolving, which may offer opportunities to shape emerging lines of research. Strong applicants should demonstrate an interest in translational research and interdisciplinary collaboration.

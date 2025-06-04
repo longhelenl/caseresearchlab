@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -201,14 +201,11 @@ ul.task-list li input[type="checkbox"] {
     <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
   </ol>
 </nav>
-<section id="citation-apa-7" class="level2">
-<h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
 <p>Long, H. L., Mahr, T. J., Natzke, P., Rathouz, P. J., &amp; Hustad, K. C. (2022). Longitudinal change in speech classification between 4 and 10 years in children with cerebral palsy. <em>Developmental Medicine &amp; Child Neurology</em>, <em>64</em>(9), 1096–1105. <a href="https://doi.org/10.1111/dmcn.15198" class="uri">https://doi.org/10.1111/dmcn.15198</a></p>
 </blockquote>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
 <p>Aim To examine speech impairment severity classification over time in a longitudinal cohort of children with cerebral palsy (CP).</p>
 <p>Method: A total of 101 children (58 males, 43 females) between the ages of 4 and 10 years with CP participated in this longitudinal study. Speech severity was rated using the Viking Speech Scale (VSS), a four-level classification rating scale, at 4, 6, 8, and 10 years (age 4 years: mean = 52 months [3 SD]; age 6 years: mean = 75 months [2 SD]; age 8 years: mean = 100 months [4 SD]; age 10 years: mean = 125 months [5 SD]). We used Bayesian mixed-effects ordinal logistic regression to model (1) the extent to which speech severity changed over time and (2) patterns of change across age groups and classification rating group levels.</p>
 <p>Results: VSS ratings decreased (speech severity became less severe) between 4 and 10 years of age. Children who were first classified in VSS levels I, II, or III at age 4 years had a high probability of staying at, or improving to, VSS level I by 10 years. Children who were first classified in VSS level IV at 4 years had a high probability of remaining in VSS level IV at 10 years.</p>
@@ -301,8 +298,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -413,7 +408,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

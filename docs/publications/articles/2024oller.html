@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -202,14 +202,11 @@ ul.task-list li input[type="checkbox"] {
     <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
   </ol>
 </nav>
-<section id="citation-apa-7" class="level2">
-<h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
 <p>Oller, D. K., Bene, E. R., Yoo, H., Su, P. L., Long, H. L., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., &amp; Ramsay, G. (2024). Acoustic features of vocalizations in typically developing and autistic infants in the first year. <em>Research in Developmental Disabilities</em>, <em>154</em>(1), 104849. <a href="https://doi.org/10.1016/j.ridd.2024.104849" class="uri">https://doi.org/10.1016/j.ridd.2024.104849</a></p>
 </blockquote>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
 <p>Background: We describe acoustic patterns across the five most prominent vocal types in typically developing infants (TD) and compare them with patterns in infants who develop autism (ASD) or a developmental disability (DD) not related to autism. Infant-directed speech (IDS) is a potentially important influence on such vocal acoustic patterns. Both acoustic patterns and effects of IDS are important for understanding the earliest origins of communication disorders.</p>
 <p>Aims: To compare duration, pitch and loudness of infant vocalizations for three groups of infants (TD, ASD, DD) in circumstances with high or low amounts of IDS.</p>
 <p>Methods and Procedures: Two five-minute segments from each of 1259 all-day recordings across the first year were coded and acoustically analyzed for three groups of infants (130 TD, 44 ASD, 21 DD). Duration, mean fundamental frequency, and root mean square amplitude were determined for &gt;162,000 infant utterances.</p>
@@ -302,8 +299,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -414,7 +409,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

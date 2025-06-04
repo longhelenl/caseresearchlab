@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -201,14 +201,11 @@ ul.task-list li input[type="checkbox"] {
     <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
   </ol>
 </nav>
-<section id="citation-apa-7" class="level2">
-<h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
 <p>Koopmans, C., Sakash, A., Soriano, J., Long, H. L., &amp; Hustad, K. C. (2021). Functional communication abilities in youth with cerebral palsy: Association with impairment profiles and school-based therapy goals. <em>Language, Speech, and Hearing Services in Schools</em>, 1–16. <a href="https://doi.org/10.1044/2021_LSHSS-21-00064" class="uri">https://doi.org/10.1044/2021_LSHSS-21-00064</a></p>
 </blockquote>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
 <p>Purpose: The aim of this study was to examine the relationship between functional communication skills, underlying speech, language, and cognitive impairments and school-based speech pathology services in students with cerebral palsy (CP).</p>
 <p>Method: Thirty-five participants with CP who had Individualized Education Programs (IEPs) were classified according to the Communication Function Classification System (CFCS). Participants completed laboratory assessments of speech, receptive language, executive functioning, and nonverbal cognition. Each participant’s speech and language IEP goals were coded into treatment units and then categorized into seven, mutually exclusive target goal areas. Nonparametric analyses were employed to examine differences among CFCS groups in the number of deficit areas and the number of goal areas from the IEP. Descriptive analyses were used to evaluate the extent to which deficit and goal areas in the IEP co-occurred by CFCS level.</p>
 <p>Results: Those in more involved CFCS levels demonstrated more severe speech, receptive language, and cognitive impairments. However, there were no significant differences in the number of deficit areas across CFCS groups. Regardless of CFCS level, there were no differences in the number of treatment goals specified in the IEP. Literacy was the only goal area addressed across all CFCS levels. Those in the most involved CFCS levels had augmentative and alternative communication (AAC) goals, but those with more moderate restrictions in functional communication who also had markedly reduced speech intelligibility did not typically have speech or AAC goals.</p>
@@ -300,8 +297,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -412,7 +407,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
