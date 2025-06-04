@@ -19,10 +19,9 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Pfeiffer, D. L., Long, H. L., & El Amin, M. (2022). Access research beyond the paywall: Five strategies to read what you need. *ASHA Leader Live*. <https://leader.pubs.asha.org/do/10.1044/2022-0919-slp-aud-research/full/>
 
-## Abstract
+# Abstract
 
 Restricted access to journals can make it challenging for clinicians to keep up with new research. Check out these five free, legal ways to read what you need. This is an online ASHA Leader article.

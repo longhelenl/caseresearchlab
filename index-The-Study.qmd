@@ -1,0 +1,33 @@
+---
+pagetitle: "CaSE Lab @ CWRU"
+title: "Communication and Speech Emergence (CaSE) Research Collaboratory"
+# page-layout: full
+toc: false
+---
+
+![](./img/babyvocalplay.png){.hero}
+
+Welcome to the Communication and Speech Emergence Laboratory (CaSE Lab)! The CaSE Lab is led by [Dr. Helen Long](https://www.helen-long.com/people/staff/long_helen.html) and based in the Communication and Sciences Program in the [Department of Psychological Sciences](https://psychsciences.case.edu/) at Case Western Reserve University (CWRU) in Cleveland, Ohio.
+
+Learn more about the [lab](https://www.helen-long.com/mission.html) and meet more of the [team](https://www.helen-long.com/people.html)!
+
+## Our Research
+
+👶 **Early Communication and Cerebral Palsy**
+
+We study how babies with or at risk for cerebral palsy use sounds and babble in their first years of life. Our goal is to spot early signs of speech and communication challenges—so children can get support from speech-language pathologists as early as possible.
+
+
+*We are currently recruiting SLPs and families in this research!* [Learn more here](https://www.helen-long.com/participate.html).
+
+💡 **Early Vocal Development in Other Neurodevelopmental Disabilities**
+
+Even before babies say real words, their sounds can tell us a lot. We work with families of infants with conditions like preterm birth, tuberous sclerosis complex, and autism to understand how early vocal differences may predict future communication needs.
+
+🗣️ **Evolutionary Origins of Why Babies Talk**
+
+Babies don’t just make sounds to interact: they also vocalize for themselves. In our studies, we found that these self-directed sounds are common and important. When babies do interact, they tend to use more advanced sounds. Both types of vocal play help shape early speech development.
+
+🌍 **Open Science Practices in Communication Sciences & Disorders**
+
+We explore how making research freely available through open access, preregistration, and data sharing can improve transparency and impact in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](www.csdisseminate.com) and [other resources here](https://www.helen-long.com/sciresources.html).

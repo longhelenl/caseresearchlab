@@ -21,11 +21,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > El Amin, M., Borders, J. C., Long, H. L., Keller, M. A., & Kearney, E. (2023). Open science practices in communication sciences and disorders: A survey. *Journal of Speech, Language, and Hearing Research*, *66*(6), 1928--1947. <https://doi.org/10.1044/2022_JSLHR-22-00062>
 
-## Abstract
+# Abstract
 
 Purpose: Open science is a collection of practices that seek to improve the accessibility, transparency, and replicability of science. Although these practices have garnered interest in related fields, it remains unclear whether open science practices have been adopted in the field of communication sciences and disorders (CSD). This study aimed to survey the knowledge, implementation, and perceived benefits and barriers of open science practices in CSD.
 

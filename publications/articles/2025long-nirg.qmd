@@ -24,11 +24,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Long, H. L., Jensen, S., & Hustad, K. C. (2025). A pilot investigation on the relationship between infant vocal characteristics at 12 months and speech motor impairment at 4-5 years. *Journal of Speech, Language, and Hearing Research.* https://doi.org/10.1044/2025_jslhr-24-00340
 
-## Abstract
+# Abstract
 
 Purpose: The objective of this pilot study was to investigate the relationship between infant vocal characteristics and later speech motor impairment in children at risk for cerebral palsy to inform the early prediction of speech motor impairment.
 

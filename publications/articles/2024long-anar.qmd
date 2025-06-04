@@ -22,11 +22,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Long, H. L., & Hustad, K. C. (2024). Vocal characteristics of children with cerebral palsy and anarthria. *Journal of Speech, Language, and Hearing Research*, *67*, 4264--4274. <https://doi.org/10.1044/2024_JSLHR-24-00317>
 
-## Abstract
+# Abstract
 
 Purpose: This study aimed to investigate the vocal characteristics of children with cerebral palsy (CP) and anarthria using the stage model of vocal development.
 

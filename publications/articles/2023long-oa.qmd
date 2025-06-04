@@ -21,11 +21,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Long, H. L., Drown, L., & El Amin, M. (2023). The effect of open access on scholarly and societal metrics of impact in the ASHA Journals. *Journal of Speech, Language, and Hearing Research*, *66*(6), 1948--1957. <https://doi.org/10.1044/2022_JSLHR-22-00315>
 
-## Abstract
+# Abstract
 
 Purpose: This study examined the effect of open access (OA) status on scholarly and societal metrics of impact (citation counts and altmetric scores, respectively) across manuscripts published in the American Speech-Language-Hearing Association (ASHA) Journals.
 

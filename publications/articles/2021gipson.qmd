@@ -22,11 +22,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Gipson, T. T., Ramsay, G., Ellison, E. E., Bene, E. R., Long, H. L., & Oller, D. K. (2021). Early vocal development in tuberous sclerosis complex. *Pediatric Neurology*, *125*, 48--52. <https://doi.org/10.1016/j.pediatrneurol.2021.08.009>
 
-## Abstract
+# Abstract
 
 Objective: To assess early vocalizations as precursors to speech in audio-video recordings of infants with Tuberous Sclerosis Complex (TSC).
 

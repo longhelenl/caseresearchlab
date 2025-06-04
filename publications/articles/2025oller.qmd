@@ -22,11 +22,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Oller, D. K., Bene, E. R., Yoo, H., Su, P. L., Long, H. L., Klaiman, C., Pulver, S. L., Richardson, S., Pileggi, M. L., Brane, N., & Ramsay, G. (2025). The robustness of speech-like vocalization in typically developing infants and autistic infants. *Research in Developmental Disabilities*, *159*, 104949.
 
-## Abstract
+# Abstract
 
 Background: Human infants produce speech-like vocalizations ("volubility") at very high rates, 4-5 per minute during waking hours across the first year, far exceeding rates of our ape relatives.
 

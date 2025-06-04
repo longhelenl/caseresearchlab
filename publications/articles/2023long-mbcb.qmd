@@ -22,11 +22,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Long, H. L., & Hustad, K. C. (2023). Marginal and canonical babbling in 10 infants at risk for cerebral palsy. *American Journal of Speech-Language Pathology*, *32*(4S), 1835--1849. <https://doi.org/10.1044/2022_AJSLP-22-00165>
 
-## Abstract
+# Abstract
 
 Purpose: This study is a preliminary quantification and characterization of the development of marginal and canonical syllable patterns in 10 infants at risk for cerebral palsy (CP).
 

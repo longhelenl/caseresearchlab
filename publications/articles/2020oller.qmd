@@ -21,10 +21,9 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Oller, D. K., Griebel, U., Bowman, D. D., Bene, E. R., Long, H. L., Yoo, H., & Ramsay, G. (2020). Infant boys are more vocal than infant girls. *Current Biology*, *30*, R417-429. <https://doi.org/10.1016/j.cub.2020.03.049>
 
-## Abstract
+# Abstract
 
 Female humans appear to have an advantage in language, from early childhood through late adulthood, reported to include a larger vocabulary, more complex utterances, greater expressive language, and better verbal and pragmatic language comprehension. Wakeful infants produce 'protophones' --- precursors to speech that include vowel-like sounds, squeals, and growls --- at a rate of four or five utterances per minute, more than five times the rate of crying, throughout the first year. The massive number of protophones is in itself surprising, but equally surprising, given the presumed female language advantage, we found that, in the first year, boys produced 24% more protophones than girls. This sex bias was true of infants either at high risk (HR) or low risk (LR) for autism. Both genetic and cultural factors may be involved in this bias, and additional research is clearly called for to investigate the origins of the strong tendency of infants to produce protophones and the unexpected tendency for boys to do so to a greater extent.

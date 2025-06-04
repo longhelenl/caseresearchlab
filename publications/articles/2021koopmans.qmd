@@ -21,11 +21,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Koopmans, C., Sakash, A., Soriano, J., Long, H. L., & Hustad, K. C. (2021). Functional communication abilities in youth with cerebral palsy: Association with impairment profiles and school-based therapy goals. *Language, Speech, and Hearing Services in Schools*, 1--16. <https://doi.org/10.1044/2021_LSHSS-21-00064>
 
-## Abstract
+# Abstract
 
 Purpose: The aim of this study was to examine the relationship between functional communication skills, underlying speech, language, and cognitive impairments and school-based speech pathology services in students with cerebral palsy (CP).
 

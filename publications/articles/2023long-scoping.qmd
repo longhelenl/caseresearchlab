@@ -23,11 +23,10 @@ categories:
 </nav>
 ```
 
-## Citation (APA 7)
 
 > Long, H. L., Christensen, L., Hayes, S., & Hustad, K. C. (2023). Vocal characteristics of infants at risk for speech motor involvement: A scoping review. *Journal of Speech, Language, and Hearing Research*, *66*(11), 4432--4460. <https://doi.org/10.1044/2023_JSLHR-23-00336>
 
-## Abstract
+# Abstract
 
 Purpose: The purpose of this scoping review was to (a) summarize methodological characteristics of studies examining vocal characteristics of infants at high risk for neurological speech motor involvement and (b) report the state of the high-quality evidence on vocal characteristic trends of infants diagnosed or at high risk for cerebral palsy (CP).
 
