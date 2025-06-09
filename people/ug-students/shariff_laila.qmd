@@ -1,0 +1,33 @@
+---
+title: "Laila Shariff"
+sortby: "Shariff, Laila"
+subtitle: "Research Assistant"
+image: shariff_laila.jpg
+started: "Summer 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item">Research Assistants</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Laila is a senior undergraduate studying Psychology and Cognitive Science, with a minor in Visual Design. She is passionate about understanding how people think, learn, and interact with the world around them - especially through the lens of inclusive design and storytelling. Outside of academics, Laila enjoys film photography, crocheting, and a good iced matcha latte!
+
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA 
+Psychology & Cognitive Science, Expected: 2026

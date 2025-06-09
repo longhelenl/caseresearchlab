@@ -1,0 +1,39 @@
+---
+title: "Nithya Pandari"
+sortby: "Pandari, Nithya"
+subtitle: "Research Assistant"
+image: pandari_nithya.jpeg
+started: "Summer 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Assistants</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Nithya Pandari’s research interests span social cognition, language development, and adolescent mental health. She is particularly drawn to exploring how cognitive and communicative processes are shaped by early experiences, social media exposure, and bilingualism. 
+
+Nithya is pursuing her Bachelor of Arts in Psychology and Cognitive Science at Case Western Reserve University, where she is also on the pre-medical track. She is now an undergraduate research assistant in the Communication and Speech Emergence Laboratory.
+
+Nithya has clinical experience through her role as a Patient Care Nurse Assistant at the Cleveland Clinic and volunteer work in acute care and pediatric settings. Passionate about working with children, she hopes to integrate research, clinical care, and community outreach in her future career. Outside of the lab, she is an active dancer with Spartan Bhangra, enjoys organizing large-scale cultural events, and loves spending time with family and friends. 
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA 
+Psychology & Cognitive Science, Expected: 2026
+
+
+:::

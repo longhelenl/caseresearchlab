@@ -8,20 +8,30 @@ listing:
     image-height: 225px
     grid-columns: 3
     fields: [image, title, subtitle]
-    grid-item-align: center
     sort: sortby
     field-display-names: 
       started: "Started"
+    grid-item-align: center
   - id: ma-students
     contents: "people/ma-students/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3
     fields: [image, title, subtitle]
-    grid-item-align: center
     sort: sortby
     field-display-names: 
       started: "Started"
+    grid-item-align: center
+  - id: ug-students
+    contents: "people/ug-students/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
 ---
 
 ```{=html}
@@ -41,4 +51,9 @@ listing:
 ## Master's Students
 
 ::: {#ma-students}
+:::
+
+## Undergraduate Students
+
+::: {#ug-students}
 :::
