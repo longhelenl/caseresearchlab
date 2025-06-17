@@ -48,6 +48,8 @@ listing:
 ::: {#research-staff}
 :::
 
+*\*denotes student in lab rotation*
+
 ## Master's Students
 
 ::: {#ma-students}
