@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>People | CaSE Lab – CaSE Laboratory</title>
+<title>News | CaSE Lab @ CWRU – CaSE Laboratory</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,20 +71,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-research-team .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-research-team'] = new List('listing-research-team', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -131,7 +131,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -213,7 +213,8 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YW5ub3VuY2VtZW50">announcement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uZmVyZW5jZQ==">conference <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -223,127 +224,56 @@ window.Quarto = {
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">People</li>
+    <li class="breadcrumb-item active" aria-current="page">News</li>
   </ol>
 </nav>
-<section id="research-team" class="level2">
-<h2 class="anchored" data-anchor-id="research-team">Research Team</h2>
-<div id="listing-research-team" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1746045290000" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
-<a href="./people/research-team/long_helen.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/long_helen.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Helen Long, PhD, CCC-SLP
-</h5>
-<div class="card-subtitle listing-subtitle">
-Principal Investigator
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="YW5ub3VuY2VtZW50JTJDY29uZmVyZW5jZQ==" data-listing-date-sort="1745553600000" data-listing-file-modified-sort="1745612612000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="341">
+<div class="thumbnail">
+<p><a href="./posts/aacpdm2025/index.html" class="no-external"></a></p><a href="./posts/aacpdm2025/index.html" class="no-external">
+<p><img loading="lazy" src="./posts/aacpdm2025/aacpdm.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/aacpdm2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/aacpdm2025/index.html" class="no-external">AACPDM 2025 Conference</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/aacpdm2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YW5ub3VuY2VtZW50'); return false;">
+announcement
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29uZmVyZW5jZQ=='); return false;">
+conference
 </div>
 </div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1750164814905" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
-<a href="./people/research-team/lopez_cassandra.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/lopez_cassandra.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cassandra López, MA, CCC-SLP
-</h5>
-<div class="card-subtitle listing-subtitle">
-PhD Student*
+<div class="listing-description">
+<a href="./posts/aacpdm2025/index.html" class="no-external">Accepted Presentations</a>
 </div>
 </div>
+<div class="metadata">
+<a href="./posts/aacpdm2025/index.html" class="no-external">
+<div class="listing-date">
+Apr 25, 2025
 </div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1750528496510" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
-<a href="./people/research-team/munz_kate.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/munz_kate.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Kate Munz
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
-</div>
+<div class="listing-author">
+Helen Long
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1750528499534" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
-<a href="./people/research-team/ng_ava.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/ng_ava.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ava Ng
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1750528502671" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
-<a href="./people/research-team/pandari_nithya.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/pandari_nithya.jpeg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Nithya Pandari
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1750528505536" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
-<a href="./people/research-team/shariff_laila.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/shariff_laila.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Laila Shariff
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
-</div>
-</div>
-</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-<p><em>*denotes student in lab rotation</em></p>
-
-
-
-</section>
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

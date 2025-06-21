@@ -2,8 +2,8 @@
 pagetitle: "People | CaSE Lab"
 toc: false
 listing: 
-  - id: research-staff
-    contents: "people/staff/*.qmd"
+  - id: research-team
+    contents: "people/research-team/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3
@@ -12,26 +12,18 @@ listing:
     field-display-names: 
       started: "Started"
     grid-item-align: center
-  - id: ma-students
-    contents: "people/ma-students/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: [image, title, subtitle]
+  - id: alumni
+    contents: "people/alumni/*.qmd"
+    type: table
     sort: sortby
+    fields: [title, subtitle, started, ended]
+    sort-ui: [title, subtitle, started, ended]
+    filter-ui: [title, subtitle, started, ended]
     field-display-names: 
+      title: "Name"
+      subtitle: "Role"
       started: "Started"
-    grid-item-align: center
-  - id: ug-students
-    contents: "people/ug-students/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    sort: sortby
-    fields: [image, title, subtitle, started]
-    field-display-names: 
-      started: "Started"
-    grid-item-align: center
+      ended: "Ended"
 ---
 
 ```{=html}
@@ -43,19 +35,14 @@ listing:
 </nav>
 ```
 
-## Research Staff
+## Research Team
 
-::: {#research-staff}
+::: {#research-team}
 :::
+
+## Lab Alumni
+::: {#alumni}
 
 *\*denotes student in lab rotation*
 
-## Master's Students
 
-::: {#ma-students}
-:::
-
-## Undergraduate Students
-
-::: {#ug-students}
-:::

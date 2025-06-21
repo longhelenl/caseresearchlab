@@ -7,16 +7,8 @@
       "/participate"
     ],
     "people.qmd": [
-      "people/staff/*.qmd",
-      "people/ma-students/*.qmd",
-      "people/ug-students/*.qmd"
-    ],
-    "publications.qmd": [
-      "publications/*/**.qmd"
-    ],
-    "sciresources.qmd": [
-      "/sciresources/openscience/*.qmd",
-      "/sciresources/applications/*.qmd"
+      "people/research-team/*.qmd",
+      "people/alumni/*.qmd"
     ]
   }
 }

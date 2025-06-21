@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>People | CaSE Lab – CaSE Laboratory</title>
+<title>Opportunities to Participate – CaSE Laboratory</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,20 +71,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-research-team .list');
+    const listingTargetEl = window.document.querySelector('#listing-participate .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-Recruiting',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-research-team'] = new List('listing-research-team', options);
+    window['quarto-listings']['listing-participate'] = new List('listing-participate', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -131,7 +131,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -195,7 +195,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./participate.html"> 
+    <a class="nav-link active" href="./participate.html" aria-current="page"> 
 <span class="menu-text">Participate</span></a>
   </li>  
   <li class="nav-item">
@@ -210,124 +210,133 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QUFD">AAC <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U0xQcw==">SLPs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2VyZWJyYWwlMjBwYWxzeQ==">cerebral palsy <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZWFybHklMjBpbnRlcnZlbnRpb24=">early intervention <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmFtaWxpZXM=">families <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aW5mYW50cw==">infants <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bG9uZ2l0dWRpbmFs">longitudinal <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Opportunities to Participate</h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">People</li>
-  </ol>
-</nav>
-<section id="research-team" class="level2">
-<h2 class="anchored" data-anchor-id="research-team">Research Team</h2>
-<div id="listing-research-team" class="quarto-listing quarto-listing-container-grid">
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-participate">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-participate-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-participate'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1746045290000" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
-<a href="./people/research-team/long_helen.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
+<div class="g-col-1" data-index="0" data-categories="Y2VyZWJyYWwlMjBwYWxzeSUyQ1NMUHMlMkNlYXJseSUyMGludGVydmVudGlvbg==" data-listing-file-modified-sort="1748446473000" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
+<a href="./participate/ei-slp-delphi/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./people/research-team/long_helen.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" data-src="./img/ei-slp-delphi.jpg" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Helen Long, PhD, CCC-SLP
+<strong>EI SLP Delphi Study</strong>
 </h5>
 <div class="card-subtitle listing-subtitle">
-Principal Investigator
+Current practices of early intervention SLPs for cerebral palsy
 </div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Recruiting
+</td>
+<td class="Recruiting">
+EI SLPs
+</td>
+</tr>
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1750164814905" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
-<a href="./people/research-team/lopez_cassandra.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
+<div class="g-col-1" data-index="1" data-categories="Y2VyZWJyYWwlMjBwYWxzeSUyQ2luZmFudHMlMkNmYW1pbGllcyUyQ2xvbmdpdHVkaW5hbA==" data-listing-file-modified-sort="1748446453000" data-listing-reading-time-sort="2" data-listing-word-count-sort="278">
+<a href="./participate/peas/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./people/research-team/lopez_cassandra.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" data-src="./img/peas.jpg" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Cassandra López, MA, CCC-SLP
+<strong>PEAS Project</strong>
 </h5>
 <div class="card-subtitle listing-subtitle">
-PhD Student*
+Longitudinal study of early communication in cerebral palsy
 </div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Recruiting
+</td>
+<td class="Recruiting">
+Infants &amp; Families
+</td>
+</tr>
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1750528496510" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
-<a href="./people/research-team/munz_kate.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
+<div class="g-col-1" data-index="2" data-categories="ZmFtaWxpZXMlMkNBQUM=" data-listing-file-modified-sort="1748619954000" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
+<a href="./participate/ucp-club-chat/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./people/research-team/munz_kate.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" data-src="./img/club-chat.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Kate Munz
+<strong>UCP Club chAT</strong>
 </h5>
 <div class="card-subtitle listing-subtitle">
-Research Assistant
+Research Study on Caregiver Attitudes about AAC
 </div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1750528499534" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
-<a href="./people/research-team/ng_ava.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/ng_ava.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ava Ng
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1750528502671" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
-<a href="./people/research-team/pandari_nithya.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/pandari_nithya.jpeg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Nithya Pandari
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1750528505536" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
-<a href="./people/research-team/shariff_laila.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/research-team/shariff_laila.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Laila Shariff
-</h5>
-<div class="card-subtitle listing-subtitle">
-Research Assistant
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Recruiting
+</td>
+<td class="Recruiting">
+Caregivers
+</td>
+</tr>
+</tbody></table>
 </div>
 </div>
 </a>
@@ -336,14 +345,10 @@ Research Assistant
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-<p><em>*denotes student in lab rotation</em></p>
-
-
-
-</section>
-
-</main> <!-- /main -->
+<nav id="participate-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
