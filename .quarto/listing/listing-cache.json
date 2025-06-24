@@ -9,6 +9,13 @@
     "people.qmd": [
       "people/research-team/*.qmd",
       "people/alumni/*.qmd"
+    ],
+    "publications.qmd": [
+      "publications/*/**.qmd"
+    ],
+    "sciresources.qmd": [
+      "/sciresources/openscience/*.qmd",
+      "/sciresources/applications/*.qmd"
     ]
   }
 }
