@@ -7,7 +7,7 @@ toc: false
 
 ![](./img/lab-logo-a.png){.hero}
 
-Welcome to the Communication and Speech Emergence Laboratory (CaSE Lab)! The CaSE Lab is led by [Dr. Helen Long](https://longhelenl.github.io/caseresearchlab/people/staff/long_helen.html) and based in the Communication and Sciences Program in the [Department of Psychological Sciences](https://psychsciences.case.edu/) at Case Western Reserve University (CWRU) in Cleveland, Ohio.
+Welcome to the Communication and Speech Emergence Laboratory (CaSE Lab)! The CaSE Lab is led by [Dr. Helen Long](https://longhelenl.github.io/caseresearchlab/people/research-team/long_helen.html) and based in the Communication and Sciences Program in the [Department of Psychological Sciences](https://psychsciences.case.edu/) at Case Western Reserve University (CWRU) in Cleveland, Ohio.
 
 Learn more about the [lab](https://longhelenl.github.io/caseresearchlab/mission.html) and meet more of the [team](https://longhelenl.github.io/caseresearchlab/people.html)!
 
@@ -24,13 +24,13 @@ We study how babies with or at risk for cerebral palsy use sounds and babble in 
 
 Even before babies say real words, their sounds can tell us a lot. We work with families of infants with conditions like preterm birth, tuberous sclerosis complex, and autism to understand how early vocal differences may predict future communication needs.
 
-🗣️ **Evolutionary Origins of Why Babies Talk**
+🗣️ **Evolutionary Origins of How We Learn to Talk**
 
-Babies don’t just make sounds to interact: they also vocalize for themselves. In our studies, we found that these self-directed sounds are common and important. When babies do interact, they tend to use more advanced sounds. Both types of vocal play help shape early speech development.
+Babies don’t just make sounds to interact: they also practice and play when sounds when alone. In our studies, we found that these self-directed sounds are common and important. When babies do interact, they tend to use more advanced babbling sounds. Both types of vocal play help to shape speech development.
 
 🌍 **Open Science Practices in Communication Sciences & Disorders**
 
-We explore how making research freely available through open access, preregistration, and data sharing can improve transparency and impact in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](www.csdisseminate.com) and [other resources here](https://longhelenl.github.io/caseresearchlab/sciresources.html).
+We explore how making research freely available through open access, preregistration, and data sharing can improve transparency and impact in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](https://www.csdisseminate.com) and [other resources here](https://longhelenl.github.io/caseresearchlab/sciresources.html).
 
 ![](./img/babyvocalplay.png){.hero}
 

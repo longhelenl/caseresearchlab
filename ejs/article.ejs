@@ -18,32 +18,39 @@
     <% } %>
     
     <% if (item.oa) { %>
-    <a href="<%- item.oa %>" class="btn btn-tertiary" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-pdf"></i> Open Access
+    <a href="<%- item.oa %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-pdf"></i> Open Access
+    </a>
+    <% } %>
+    
+        
+    <% if (item.postprint) { %>
+    <a href="<%- item.postprint %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-font"></i> Postprint
     </a>
     <% } %>
     
     <% if (item.pubmed) { %>
-    <a href="<%- item.pubmed %>" class="btn btn-tertiary" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-bank"></i> PubMed
-    </a>
-    <% } %>
-    
-    <% if (item.postprint) { %>
-    <a href="<%- item.postprint %>" class="btn btn-tertiary" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-text"></i> Postprint
+    <a href="<%- item.pubmed %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-medical"></i> PubMed
     </a>
     <% } %>
     
     <% if (item.preprint) { %>
-    <a href="<%- item.preprint %>" class="btn btn-tertiary" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-text"></i> Preprint
+    <a href="<%- item.preprint %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-text"></i> Preprint
     </a>
     <% } %>
     
     <% if (item.materials) { %>
     <a href="<%- item.materials %>" class="btn btn-tertiary" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Materials
+      <i class="bi bi-journal-code"></i> Materials
+    </a>
+    <% } %>
+    
+    <% if (item.preregistration) { %>
+    <a href="<%- item.preregistration %>" class="btn btn-tertiary" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-journal-bookmark"></i> Preregistration
     </a>
     <% } %>
     

@@ -2,7 +2,7 @@
 title: "Canonical Babbling Development in Infancy: A Systematic Review and Meta-Analysis of Methodological and Ambient Language Influences"
 type: "article"
 author: "Cychosz & Long"
-year: "2025"
+year: "under review"
 publication: "OSFPreprints"
 preprint: "https://osf.io/preprints/osf/8ub2v_v1"
 materials: "https://osf.io/tks5h/"

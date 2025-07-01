@@ -1,0 +1,31 @@
+---
+title: "Parentese elicits infant speech-like vocalizations in typically developing and autistic infants. "
+type: "article"
+author: "Su, Ramsay, Bene, Yoo, Long, Klaiman, Pulver, Richardson, Pileggi, Brane, & Oller"
+year: "2025"
+publication: "Infancy"
+doi: "https://doi.org/10.1111/infa.70022"
+pubmed: "https://pubmed.ncbi.nlm.nih.gov/40342200/"
+toc: false
+categories:
+  - infant
+  - vocal development
+  - autism
+  - social interaction
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> Su PL, Ramsay G, Bene ER, Yoo H, Long HL, Klaiman C, Pulver SL, Richardson S, Pileggi ML, Brane N, & Oller DK (2025). Parentese elicits infant speech-like vocalizations in typically developing and autistic infants. *Infancy, 30*(3), e70022.
+
+# Abstract
+
+Caregivers across many cultures modify their speech when interacting with infants or young children. This type of speech, commonly known as "parentese", is characterized by greater pitch variations, longer duration, and louder volume compared to speech directed to adults. Parentese has been found to facilitate language learning. It has been proposed that parentese may benefit early language development because its exaggerated prosody encourages infants to interact with caregivers. We tested this hypothesis by investigating if parentese temporally elicits infant speech-like vocalization in typically developing (TD) and in autistic infants using sequential analysis. We compared caregiver-child vocal contingencies coded from 847 days-long recordings of 103 TD infants and 44 infants with a confirmed diagnosis of autism spectrum disorder (ASD) at 3 years. Findings revealed that infants were more likely to produce a speech-like vocalization following an adult utterance directed to them in parentese compared to an adult utterance directed to them in adult register. Additionally, the strength of the sequential association between parentese or adult register and infant speech-like vocalization did not differ across diagnostic groups. These findings support the notion that parentese may facilitate language learning via encouraging infants to respond and interact with their conversation partner.

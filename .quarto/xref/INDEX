@@ -259,5 +259,17 @@
   },
   "posts/ctscpilot2025/index.qmd": {
     "index.html": "e8992345"
+  },
+  "sciresources/applications/long-ctsc-pilot-2025.qmd": {
+    "long-ctsc-pilot-2025.html": "6d9e6859"
+  },
+  "publications/articles/2025su.qmd": {
+    "2025su.html": "47bbb61a"
+  },
+  "docs/publications/articles/2025su.qmd": {
+    "2025su.html": "8afef969"
+  },
+  "publications/articles/2025pfeiffer.qmd": {
+    "2025pfeiffer.html": "b7c1e681"
   }
 }

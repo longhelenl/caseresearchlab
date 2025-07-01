@@ -1,6 +1,6 @@
 ---
 title: "ASHA Lessons for Success Program"
-description: "Grant writing bootcamp"
+description: "American Speech-Language Hearing Association"
 categories: [ASHA, professional development]
 Year: "2023"
 external-link: "https://www.asha.org/research/l4s/?srsltid=AfmBOortizacN8XBayZywMLiOWUjvOcnuxolw8DOWiXLbNu76JAThAze"

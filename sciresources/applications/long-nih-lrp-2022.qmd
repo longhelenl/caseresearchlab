@@ -1,6 +1,6 @@
 ---
 title: "NIH Loan Repayment Program"
-description: "Student loan repayment program"
+description: "National Institute of Deafness & Communication Disorders (NIDCD)"
 categories: [loan repayment, NIH]
 Year: "2025"
 external-link: "https://www.lrp.nih.gov/"

@@ -1,0 +1,33 @@
+---
+title: "Annual Pilot Award"
+description: "Clinical and Translational Science Collaborative of Northern Ohio"
+categories: [CTSC, grants]
+Year: "2025"
+external-link: "https://case.edu/medicine/ctsc/funding-opportunities/annual-pilot"
+pdf-link: "./long-ctsc-pilot-2025.pdf"
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../sciresources.html">Resources</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+
+```{=html}
+<a class="btn btn-primary" href="https://case.edu/medicine/ctsc/funding-opportunities/annual-pilot" target="_blank" rel="noopener noreferrer">View Program</a>
+<a class="btn btn-secondary" href="./long-ctsc-pilot-2025.pdf" target="_blank" rel="noopener noreferrer">View My Application</a>
+```
+
+<br><br>
+
+<iframe src="./long-ctsc-pilot-2025.pdf" 
+        width="100%" 
+        height="800px" 
+        style="border: 1px solid #ccc;">
+</iframe>

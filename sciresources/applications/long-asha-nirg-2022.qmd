@@ -1,6 +1,6 @@
 ---
 title: "ASHA New Investigator Research Grant"
-description: "New investigator pilot grant"
+description: "American Speech-Language Hearing Association"
 categories: [ASHA, grants]
 Year: "2022"
 external-link: "https://www.ashfoundation.org/apply/new-investigators-research-grant/"

@@ -1,6 +1,6 @@
 ---
 title: "ASHA Pathways Program"
-description: "Research program and career development"
+description: "American Speech-Language Hearing Association"
 categories: [ASHA, professional development]
 Year: "2021"
 external-link: "https://www.asha.org/research/pathways-program/?srsltid=AfmBOoo4lqM_zSZ4pdlRDVvSt0Zq00JRHM9BdFqmHSO3g-w5Sj1V-81K"
