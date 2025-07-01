@@ -1,0 +1,47 @@
+---
+title: "CTSC Annual Pilot Award"
+description: "Lab Funding"
+author: "Helen Long"
+date: "2025-07-01"
+image: ctsc-logo.jpg
+draft: false
+categories:
+  - announcement
+  - awards
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+**CaSE Lab Receives CTSC Pilot Grant to Advance AAC Research with UCP of Greater Cleveland**
+
+We are excited to announce that the Communication and Speech Emergence (CaSE) Lab has been awarded an Annual Pilot Grant through the Clinical and Translational Science Collaborative (CTSC). This highly competitive award supports inter-institutional, collaborative research with strong potential for clinical impact.
+
+Our funded project, in partnership with United Cerebral Palsy (UCP) of Greater Cleveland and Dr. Samudragupta Bora at University Hospitals, will examine how caregiver participation in Club chAT—a summer community-based augmentative and alternative communication (AAC) program—shapes caregiver confidence, AAC integration at home, and family functioning. The project will use mixed methods to evaluate outcomes for caregivers of children and young adults who use AAC.
+
+This work reflects our shared commitment to community-engaged research that improves communication outcomes and family well-being. We are especially grateful to our collaborators at UCP and to Dr. Bora for his expertise in neurodevelopmental follow-up and caregiver research.
+
+Stay tuned for updates as we launch this exciting project!
+
+:::{.columns}
+
+:::{.column width="33%"}
+![](ctsc-logo.jpg){width="80%"}
+:::
+
+:::{.column width="33%"}
+![](ucp.png){width="80%"}
+:::
+
+:::{.column width="33%"}
+![](uh.jpg){width="33%"}
+:::
+
+:::
+
+*This project is supported by the Clinical and Translational Science Collaborative of Northern Ohio which is funded by the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health, UM1TR004528. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.*
+
+
+
+

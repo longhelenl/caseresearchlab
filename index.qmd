@@ -33,3 +33,4 @@ Babies don’t just make sounds to interact: they also vocalize for themselves. 
 We explore how making research freely available through open access, preregistration, and data sharing can improve transparency and impact in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](www.csdisseminate.com) and [other resources here](https://longhelenl.github.io/caseresearchlab/sciresources.html).
 
 ![](./img/babyvocalplay.png){.hero}
+

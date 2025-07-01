@@ -4,6 +4,7 @@ title: "About the CaSE Lab"
 toc: false
 ---
 
+![](./img/lab-logo-a.png){.hero}
 
 **Mission**: Our mission is to improve the early identification and intervention for communication support needs in children with motor disabilities through education, outreach, research, and collaborative partnerships with families and professionals.
 
@@ -39,3 +40,14 @@ In the CaSE Lab, we are dedicated to:
     Making our research available to all who may benefit—clinicians, families, educators, researchers—and co-creating resources to help put knowledge into practice, so that more children can thrive from an early age.
 
 
+# Lab Funding
+
+![](./img/cwru.jpg){.hero}
+
+- College of Arts & Sciences
+- WP Jones Presidential Faculty Development Fund
+
+
+![](./img/ctsc-logo.jpg){.hero}
+
+- Annual Pilot Award (NCATS UM1TR004528)
