@@ -26,6 +26,8 @@ listing:
       ended: "Ended"
 ---
 
+![](./img/lab-logo-a.png){width="60%"}
+
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -40,9 +42,11 @@ listing:
 ::: {#research-team}
 :::
 
+*\*denotes student in lab rotation*
+
 ## Lab Alumni
 ::: {#alumni}
 
-*\*denotes student in lab rotation*
+
 
 

@@ -3,6 +3,8 @@ pagetitle: "Students | CasE Lab @ CWRU"
 toc: true
 ---
 
+![](./img/lab-logo-a.png){width="60%"}
+
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

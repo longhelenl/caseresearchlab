@@ -10,7 +10,6 @@ oa: "https://doi.org/10.3389/fpsyg.2019.01340"
 materials: "https://osf.io/h7w9q/"
 toc: false
 categories:
-  - imitation
   - infant 
   - vocal development
 ---

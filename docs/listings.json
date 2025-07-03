@@ -19,6 +19,7 @@
     "listing": "/publications.html",
     "items": [
       "/publications/articles/2025cychosz.html",
+      "/publications/articles/2025long-fwords.html",
       "/publications/articles/2025pfeiffer.html",
       "/publications/articles/2025long-nirg.html",
       "/publications/articles/2025su.html",
@@ -47,11 +48,14 @@
     ]
   },
   {
-    "listing": "/participate.html",
+    "listing": "/people.html",
     "items": [
-      "/participate/ei-slp-delphi/index.html",
-      "/participate/peas/index.html",
-      "/participate/ucp-club-chat/index.html"
+      "/people/research-team/long_helen.html",
+      "/people/research-team/lopez_cassandra.html",
+      "/people/research-team/munz_kate.html",
+      "/people/research-team/ng_ava.html",
+      "/people/research-team/pandari_nithya.html",
+      "/people/research-team/shariff_laila.html"
     ]
   },
   {
@@ -62,14 +66,11 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/participate.html",
     "items": [
-      "/people/research-team/long_helen.html",
-      "/people/research-team/lopez_cassandra.html",
-      "/people/research-team/munz_kate.html",
-      "/people/research-team/ng_ava.html",
-      "/people/research-team/pandari_nithya.html",
-      "/people/research-team/shariff_laila.html"
+      "/participate/ei-slp-delphi/index.html",
+      "/participate/peas/index.html",
+      "/participate/ucp-club-chat/index.html"
     ]
   }
 ]

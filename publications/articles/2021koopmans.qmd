@@ -8,7 +8,7 @@ doi: "https://doi.org/10.1044/2021_LSHSS-21-00064"
 pubmed: "https://pubmed.ncbi.nlm.nih.gov/34767477/"
 toc: false
 categories:
-  - functional communication
+  - communication
   - cerebral palsy
 ---
 

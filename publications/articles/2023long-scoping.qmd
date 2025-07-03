@@ -7,6 +7,7 @@ publication: "Journal of Speech, Language, and Hearing Research"
 doi: "https://doi.org/10.1044/2023_JSLHR-23-00336"
 postprint: "https://osf.io/preprints/osf/u6m9n_v1" 
 materials: "https://osf.io/jf3u6/"
+preregistration: "https://osf.io/bv468"
 toc: false
 categories:
   - infant

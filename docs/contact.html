@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -159,8 +159,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#visit-us" id="toc-visit-us" class="nav-link active" data-scroll-target="#visit-us">Visit Us</a></li>
-  <li><a href="#call-us" id="toc-call-us" class="nav-link" data-scroll-target="#call-us">Call Us</a></li>
-  <li><a href="#email-us" id="toc-email-us" class="nav-link" data-scroll-target="#email-us">Email Us</a></li>
+  <li><a href="#contact-the-pi" id="toc-contact-the-pi" class="nav-link" data-scroll-target="#contact-the-pi">Contact the PI</a></li>
+  <li><a href="#email-the-lab" id="toc-email-the-lab" class="nav-link" data-scroll-target="#email-the-lab">Email the Lab</a></li>
   </ul>
 </nav>
     </div>
@@ -194,20 +194,21 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <section id="visit-us" class="level2">
 <h2 class="anchored" data-anchor-id="visit-us">Visit Us</h2>
-<p>The CaSE Lab is located in the former Cleveland Hearing and Speech Center at 11635 Euclid Ave on the campus of Case Western Reserve University. Parking passes are provided to participants at your scheduled visit.</p>
+<p>The CaSE Lab is located in the former Cleveland Hearing and Speech Center at 11635 Euclid Ave on the campus of Case Western Reserve University.</p>
+<p>Participants and visitors of the lab should <strong>park across the street</strong> at 11717 Euclid Ave, Cleveland, OH 44106 in any spot marked for COSI visitors. A parking pass may be provided at your scheduled visit.</p>
 <blockquote class="blockquote">
 <p><strong>Street Address:</strong> 11635 Euclid Ave, Cleveland, OH 44118</p>
 </blockquote>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d746.9184488178655!2d-81.6032895468172!3d41.51134332567496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8830fc7570a8f80b%3A0xf1a63e5aaf48d94d!2sCleveland%20Hearing%20and%20Speech%20Center%2C%2011635%20Euclid%20Ave%2C%20Cleveland%2C%20OH%2044106!5e0!3m2!1sen!2sus!4v1745337199921!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
-<section id="call-us" class="level2">
-<h2 class="anchored" data-anchor-id="call-us">Call Us</h2>
+<section id="contact-the-pi" class="level2">
+<h2 class="anchored" data-anchor-id="contact-the-pi">Contact the PI</h2>
 <p>Dr.&nbsp;Long Office Phone: 216-368-3484</p>
+<p><img src="./img/email-long.jpg" class="img-fluid"></p>
 </section>
-<section id="email-us" class="level2">
-<h2 class="anchored" data-anchor-id="email-us">Email Us</h2>
-<p><img src="./img/longemail.jpg" class="img-fluid"></p>
-<p><img src="./img/labemail.jpg" class="img-fluid"></p>
+<section id="email-the-lab" class="level2">
+<h2 class="anchored" data-anchor-id="email-the-lab">Email the Lab</h2>
+<p><img src="./img/email-lab.jpg" class="img-fluid"></p>
 
 
 </section>
@@ -295,8 +296,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -407,7 +406,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

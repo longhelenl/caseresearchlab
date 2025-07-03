@@ -7,6 +7,7 @@ publication: "Journal of Speech, Language, and Hearing Research"
 doi: "https://doi.org/10.1044/2022_JSLHR-22-00062"
 postprint: "https://osf.io/preprints/osf/jwba3_v1"
 materials: "https://osf.io/2f7xp/"
+preregistration: "https://osf.io/tca2v"
 toc: false
 categories:
   - open science

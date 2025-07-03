@@ -14,3 +14,4 @@ listing:
   page-size: 0 #set as 0 will remove the page setting
 ---
 
+![](./img/lab-logo-a.png){width="40%"}

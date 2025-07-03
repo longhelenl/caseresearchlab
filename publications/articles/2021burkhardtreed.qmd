@@ -8,7 +8,6 @@ doi: "https://doi.org/10.1016/j.infbeh.2021.101648"
 oa: "https://doi.org/10.1016/j.infbeh.2021.101648"
 toc: false
 categories:
-  - gesture
   - infant 
   - vocal development
 ---

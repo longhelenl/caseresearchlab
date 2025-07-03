@@ -15,24 +15,22 @@ website:
             href: mission.qmd
           - text: Meet Us
             href: people.qmd
-          - text: News
-            href: news.qmd
       - text: Publications
         href: publications.qmd
       - text: Resources
         menu:
-          - text: For Families
-            href: famresources.qmd
           - text: For Scientists
             href: sciresources.qmd
           - text: For Students
             href: opportunities.qmd
-          - text: Teaching
-            href: courses.qmd
+          - text: For Families
+            href: famresources.qmd
       - text: Participate
         href: participate.qmd
       - text: Contact
         href: contact.qmd
+      - text: News
+        href: news.qmd
 
   page-footer: "This website was created in R with Quarto. <br />Copyright 2025 &copy; Helen Long"
   

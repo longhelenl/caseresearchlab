@@ -1,6 +1,5 @@
 ---
 pagetitle: "CaSE Lab @ CWRU"
-title: "Communication and Speech Emergence (CaSE) Research Collaboratory"
 # page-layout: full
 toc: false
 ---
@@ -16,21 +15,21 @@ Learn more about the [lab](https://longhelenl.github.io/caseresearchlab/mission.
 
 👶 **Early Communication and Cerebral Palsy**
 
-We study how babies with or at risk for cerebral palsy use sounds and babble in their first years of life. Our goal is to spot early signs of speech and communication challenges—so children can get support from speech-language pathologists as early as possible.
+We study how [babies](https://longhelenl.github.io/caseresearchlab/publications.html#category=infant) with or at risk for [cerebral palsy](https://longhelenl.github.io/caseresearchlab/publications.html#category=cerebral%20palsy) use sounds and babble in their first years of life. Our goal is to spot early signs of [speech](http://localhost:3284/publications.html#category=speech%20development) and [communication](http://localhost:3284/publications.html#category=communication) challenges—so children can get support from speech-language pathologists as early as possible.
 
-*We are currently recruiting SLPs and families in this research!* [Learn more here](https://longhelenl.github.io/caseresearchlab/participate.html).
+*We are currently [recruiting SLPs and families](https://longhelenl.github.io/caseresearchlab/participate.html) in this research!*
 
 💡 **Early Vocal Development in Other Neurodevelopmental Disabilities**
 
-Even before babies say real words, their sounds can tell us a lot. We work with families of infants with conditions like preterm birth, tuberous sclerosis complex, and autism to understand how early vocal differences may predict future communication needs.
+Even before babies say real words, their [sounds](https://longhelenl.github.io/caseresearchlab/publications.html#category=vocal%20development) can tell us a lot. We work with families of infants with conditions like [preterm birth](https://longhelenl.github.io/caseresearchlab/publications.html#category=preterm), [tuberous sclerosis complex](https://longhelenl.github.io/caseresearchlab/publications.html#category=tuberous%20sclerosis), and [autism](https://longhelenl.github.io/caseresearchlab/publications.html#category=autism) to understand how early vocal differences may predict future communication needs.
 
 🗣️ **Evolutionary Origins of How We Learn to Talk**
 
-Babies don’t just make sounds to interact: they also practice and play when sounds when alone. In our studies, we found that these self-directed sounds are common and important. When babies do interact, they tend to use more advanced babbling sounds. Both types of vocal play help to shape speech development.
+[Babies](https://longhelenl.github.io/caseresearchlab/publications.html#category=infant) don’t just make sounds to interact: they also practice and play when sounds when alone. In our studies, we found that these self-directed sounds are common and important. When babies do interact, they tend to use more advanced babbling sounds. Both types of [vocal play](https://longhelenl.github.io/caseresearchlab/publications.html#category=vocal%20development) help to shape speech development.
 
 🌍 **Open Science Practices in Communication Sciences & Disorders**
 
-We explore how making research freely available through open access, preregistration, and data sharing can improve transparency and impact in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](https://www.csdisseminate.com) and [other resources here](https://longhelenl.github.io/caseresearchlab/sciresources.html).
+We explore how making research freely available through open access, preregistration, and data sharing through [open science](https://longhelenl.github.io/caseresearchlab/publications.html#category=open%20science) can improve transparency and impact in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](https://www.csdisseminate.com) and [other resources here](https://longhelenl.github.io/caseresearchlab/sciresources.html).
 
 ![](./img/babyvocalplay.png){.hero}
 

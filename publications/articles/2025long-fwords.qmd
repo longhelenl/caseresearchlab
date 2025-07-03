@@ -1,0 +1,27 @@
+---
+title: "Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation"
+type: "article"
+author: "Long, Mayfield, & Szymanek"
+year: "under review"
+publication: "OSFPreprints"
+preprint: "https://osf.io/preprints/osf/4b763_v2"
+toc: false
+categories:
+  - communication
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> Long HL, Mayfield, J, & Szymanek, K. (under review). Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation. *OSFPreprints* 
+
+# Abstract
+
+This paper explores how the “F-Words for Child Development” framework, a practical translation of the International Classification of Functioning, Disability and Health (ICF) introduced by Rosenbaum &amp; Gorter (2012), can be applied by speech-language pathologists to enhance communication and mealtime participation for children with disabilities. Each F-Word is explored as a lens for aligning SLP services with real-world participation in mind. We highlight how SLPs can apply the F-Words through interdisciplinary collaboration and family-centered care while recognizing barriers to implementation.

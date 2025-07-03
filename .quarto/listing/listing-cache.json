@@ -1,14 +1,14 @@
 {
   "listingMap": {
+    "people.qmd": [
+      "people/research-team/*.qmd",
+      "people/alumni/*.qmd"
+    ],
     "news.qmd": [
       "posts/**/index.qmd"
     ],
     "participate.qmd": [
       "/participate"
-    ],
-    "people.qmd": [
-      "people/research-team/*.qmd",
-      "people/alumni/*.qmd"
     ],
     "publications.qmd": [
       "publications/*/**.qmd"

@@ -144,3 +144,42 @@ body {
   color: #212529;
 }
 
+a {
+  color: #003071;
+  text-decoration: underline; /* Optional: makes links look more like links */
+}
+
+a:hover {
+  color: #00245a; /* Slightly darker for hover */
+  text-decoration: underline;
+}
+
+/* Style pagination container */
+.pagination {
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* Style pagination buttons */
+.pagination .page-item .page-link {
+  background-color: #f8f9fa;     /* Light background */
+  color: #003071;                /* Your primary blue */
+  border: 1px solid #003071;
+  border-radius: 4px;
+  margin: 0 4px;
+  padding: 0.5rem 0.75rem;
+}
+
+/* Hover state */
+.pagination .page-item .page-link:hover {
+  background-color: #003071;
+  color: #ffffff;
+  border-color: #003071;
+}
+
+/* Active page */
+.pagination .page-item.active .page-link {
+  background-color: #003071;
+  color: #ffffff;
+  border-color: #003071;
+}
