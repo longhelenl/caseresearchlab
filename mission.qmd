@@ -6,7 +6,7 @@ toc: false
 
 ![](./img/lab-logo-a.png){width="60%"}
 
-**Mission**: Our mission is to improve the early identification and intervention for communication support needs in children with motor disabilities through education, outreach, research, and collaborative partnerships with families and professionals.
+**Mission**: Our mission is to improve the early identification and intervention of communication support needs in children with motor disabilities through research, education, outreach, and collaborative partnerships with families and professionals.
 
 Core Areas: **Awareness - Education - Research - Support - Outreach**
 
