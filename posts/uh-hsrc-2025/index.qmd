@@ -1,0 +1,33 @@
+---
+title: "Summer Research Scholars Mentorship"
+description: "Mentoring"
+author: "Helen Long"
+date: "2025-07-24"
+image: uh.jpg
+draft: false
+categories:
+  - announcement
+  - mentoring
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+**Dr. Long served as research mentor to five summer scholars in intensive research experience**
+
+This summer, Dr. Helen Long served as a research mentor to five Summer Scholars through the University Hospitals Health Services Research Center (HSRC) Summer Scholar Program. Her mentees represented a diverse range of training levels—from high school to medical school—and engaged in projects focused on improving healthcare delivery and communication outcomes for individuals with complex needs.
+
+The six-week program offers intensive exposure to research methods, mentorship, and professional development, equipping students with the skills and inspiration to pursue careers in medicine and health services research. Under Dr. Long’s guidance, the scholars gained hands-on experience designing and interpreting research in their independent research projects surrounding the early identification and intervention of communication support needs for young children with or at risk for cerebral palsy. All students  presented their final projects at the program’s closing symposium to their fellow scholars, mentors, and families.
+
+“I was honored to mentor such a dedicated and inquisitive group of emerging scholars,” said Dr. Long. “Their enthusiasm and insight really highlight the importance of investing in the next generation of clinician-scientists.”
+
+Now in its second year, the HSRC Summer Scholar Program is a cornerstone of University Hospitals’ commitment to education, equity, and translational research, helping to build a pipeline of future healthcare leaders.
+
+You can learn more about this [exciting program here](https://www.uhhospitals.org/for-clinicians/articles-and-news/articles/2025/07/hsrc-summer-scholar-program-exposes-students-to-the-transformative-impact-of-research).
+
+
+![](uh.jpg){width="25%"}
+
+
+
