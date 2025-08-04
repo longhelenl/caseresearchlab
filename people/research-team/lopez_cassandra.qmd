@@ -1,9 +1,9 @@
 ---
 title: "Cassandra López, MA, CCC-SLP"
 sortby: "López, Cassandra"
-subtitle: "PhD Student*"
+subtitle: "PhD Student in lab rotation"
 image: lopez_cassandra.jpg
-started: "Fall 2024"
+started: "Summer 2025"
 toc: false
 about:
   id: person-profile
@@ -26,7 +26,7 @@ about:
 
 ## Biography
 
-Cassandra López, M.A., CCC-SLP (she/her/ella) is a PhD student in Communication Sciences at Case Western Reserve University and trained bilingual speech-language pathologist. Cassandra’s research interests include engaging with communities to examine the cultural and linguistic factors that impact the prevention, diagnosis, and treatment of various communication disorders among bilingual populations. Her current research aims to advance the accessibility of Communication Sciences and Disorders (CSD) Spanish resources for clinicians and families by leveraging artificial intelligence. Her primary mentor is Dr. Lauren Calandruccio in the Speech and Auditory Research (SpAR) Lab, and is completing a lab rotation with Dr. Long in the Summer and Fall of 2025.
+Cassandra López, M.A., CCC-SLP (she/her/ella) is a PhD student in Communication Sciences at Case Western Reserve University and trained bilingual speech-language pathologist. Cassandra’s research interests include engaging with communities to examine the cultural and linguistic factors that impact the prevention, diagnosis, and treatment of various communication disorders among bilingual populations. Her current research aims to advance the accessibility of Communication Sciences and Disorders (CSD) Spanish resources for clinicians and families by leveraging artificial intelligence. Her primary mentor is Dr. Lauren Calandruccio in the Speech and Auditory Research (SpAR) Lab, and is completing a lab rotation with Dr. Long in Summer and Fall 2025.
 
 Cassandra has clinical experience working across pediatric and adult settings providing Spanish-English bilingual therapy in the areas of speech, language, social communication, dysphagia, and aphasia.
 

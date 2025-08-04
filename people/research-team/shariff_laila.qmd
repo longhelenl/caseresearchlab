@@ -1,7 +1,7 @@
 ---
 title: "Laila Shariff"
 sortby: "Shariff, Laila"
-subtitle: "Research Assistant"
+subtitle: "Undergraduate Research Assistant"
 image: shariff_laila.jpg
 started: "Summer 2025"
 ended: "Current"
