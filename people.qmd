@@ -42,8 +42,6 @@ listing:
 ::: {#research-team}
 :::
 
-*\*denotes student in lab rotation*
-
 ## Lab Alumni
 ::: {#alumni}
 
