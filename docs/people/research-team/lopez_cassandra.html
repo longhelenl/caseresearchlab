@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -100,10 +100,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../../people.html">
  <span class="dropdown-text">Meet Us</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../../news.html">
- <span class="dropdown-text">News</span></a>
-  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -116,10 +112,6 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="../../famresources.html">
- <span class="dropdown-text">For Families</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="../../sciresources.html">
  <span class="dropdown-text">For Scientists</span></a>
   </li>  
@@ -128,8 +120,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">For Students</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../courses.html">
- <span class="dropdown-text">Teaching</span></a>
+    <a class="dropdown-item" href="../../famresources.html">
+ <span class="dropdown-text">For Families</span></a>
   </li>  
     </ul>
   </li>
@@ -140,6 +132,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -173,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Cassandra López, MA, CCC-SLP</h1>
-<p class="subtitle lead">PhD Student*</p>
+<p class="subtitle lead">PhD Student in lab rotation</p>
 </div>
 <div class="quarto-title-meta">
   </div>
@@ -183,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="biography" class="level2">
 <h2 data-anchor-id="biography">Biography</h2>
-<p>Cassandra López, M.A., CCC-SLP (she/her/ella) is a PhD student in Communication Sciences at Case Western Reserve University and trained bilingual speech-language pathologist. Cassandra’s research interests include engaging with communities to examine the cultural and linguistic factors that impact the prevention, diagnosis, and treatment of various communication disorders among bilingual populations. Her current research aims to advance the accessibility of Communication Sciences and Disorders (CSD) Spanish resources for clinicians and families by leveraging artificial intelligence. Her primary mentor is Dr.&nbsp;Lauren Calandruccio in the Speech and Auditory Research (SpAR) Lab, and is completing a lab rotation with Dr.&nbsp;Long in the Summer and Fall of 2025.</p>
+<p>Cassandra López, M.A., CCC-SLP (she/her/ella) is a PhD student in Communication Sciences at Case Western Reserve University and trained bilingual speech-language pathologist. Cassandra’s research interests include engaging with communities to examine the cultural and linguistic factors that impact the prevention, diagnosis, and treatment of various communication disorders among bilingual populations. Her current research aims to advance the accessibility of Communication Sciences and Disorders (CSD) Spanish resources for clinicians and families by leveraging artificial intelligence. Her primary mentor is Dr.&nbsp;Lauren Calandruccio in the Speech and Auditory Research (SpAR) Lab, and is completing a lab rotation with Dr.&nbsp;Long in Summer and Fall 2025.</p>
 <p>Cassandra has clinical experience working across pediatric and adult settings providing Spanish-English bilingual therapy in the areas of speech, language, social communication, dysphagia, and aphasia.</p>
 <p>Cassandra is the founder of the CSD Bilingüe Suite, a student-led organization dedicated to empowering students through mentorship and experiential learning. Their mission is to foster a welcoming and respectful environment within the field of CSD to train the next generation of bilingual clinicians. Outside of academics, Cassandra enjoys crafting, watching shows, and spending time with friends.</p>
 </section>
@@ -277,6 +273,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -387,6 +385,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

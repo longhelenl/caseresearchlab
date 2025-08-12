@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Helen Long">
 <meta name="dcterms.date" content="2025-07-24">
-<meta name="description" content="Mentorship">
+<meta name="description" content="Mentoring">
 
 <title>Summer Research Scholars Mentorship – CaSE Laboratory</title>
 <style>
@@ -38,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -167,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Mentorship
+    Mentoring
   </div>
 </div>
 
@@ -198,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p><strong>Dr.&nbsp;Long served as research mentor to five summer scholars in intensive research experience</strong></p>
 <p>This summer, Dr.&nbsp;Helen Long served as a research mentor to five Summer Scholars through the University Hospitals Health Services Research Center (HSRC) Summer Scholar Program. Her mentees represented a diverse range of training levels—from high school to medical school—and engaged in projects focused on improving healthcare delivery and communication outcomes for individuals with complex needs.</p>
-<p>The six-week program offers intensive exposure to research methods, mentorship, and professional development, equipping students with the skills and inspiration to pursue careers in medicine and health services research. Under Dr.&nbsp;Long’s guidance, the scholars gained hands-on experience designing and interpreting research in their independent research projects surrounding the early identification and intervention of communication support needs for young children with or at risk for cerebral palsy. All students presented their final projects at the program’s closing symposium.</p>
+<p>The six-week program offers intensive exposure to research methods, mentorship, and professional development, equipping students with the skills and inspiration to pursue careers in medicine and health services research. Under Dr.&nbsp;Long’s guidance, the scholars gained hands-on experience designing and interpreting research in their independent research projects surrounding the early identification and intervention of communication support needs for young children with or at risk for cerebral palsy. All students presented their final projects at the program’s closing symposium to their fellow scholars, mentors, and families.</p>
 <p>“I was honored to mentor such a dedicated and inquisitive group of emerging scholars,” said Dr.&nbsp;Long. “Their enthusiasm and insight really highlight the importance of investing in the next generation of clinician-scientists.”</p>
 <p>Now in its second year, the HSRC Summer Scholar Program is a cornerstone of University Hospitals’ commitment to education, equity, and translational research, helping to build a pipeline of future healthcare leaders.</p>
 <p>You can learn more about this <a href="https://www.uhhospitals.org/for-clinicians/articles-and-news/articles/2025/07/hsrc-summer-scholar-program-exposes-students-to-the-transformative-impact-of-research">exciting program here</a>.</p>
@@ -289,6 +289,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -399,6 +401,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
