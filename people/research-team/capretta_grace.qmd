@@ -2,7 +2,7 @@
 title: "Grace Capretta"
 sortby: "2"
 subtitle: "Lab Manager"
-image: capretta_grace.jpeg
+image: capretta_grace.jpg
 started: "Fall 2025"
 ended: "Current"
 toc: false

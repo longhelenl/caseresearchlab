@@ -48,17 +48,6 @@
     ]
   },
   {
-    "listing": "/people.html",
-    "items": [
-      "/people/research-team/long_helen.html",
-      "/people/research-team/lopez_cassandra.html",
-      "/people/research-team/munz_kate.html",
-      "/people/research-team/ng_ava.html",
-      "/people/research-team/pandari_nithya.html",
-      "/people/research-team/shariff_laila.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/posts/uh-hsrc-2025/index.html",
@@ -72,6 +61,18 @@
       "/participate/ei-slp-delphi/index.html",
       "/participate/peas/index.html",
       "/participate/ucp-club-chat/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/research-team/long_helen.html",
+      "/people/research-team/capretta_grace.html",
+      "/people/research-team/lopez_cassandra.html",
+      "/people/research-team/munz_kate.html",
+      "/people/research-team/ng_ava.html",
+      "/people/research-team/pandari_nithya.html",
+      "/people/research-team/shariff_laila.html"
     ]
   }
 ]
