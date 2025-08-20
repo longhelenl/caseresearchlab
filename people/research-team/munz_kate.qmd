@@ -1,5 +1,5 @@
 ---
-title: "Kate Munz"
+title: "Kate Munz, BA"
 sortby: "Munz, Kate"
 subtitle: "Graduate Research Assistant"
 image: munz_kate.jpg
