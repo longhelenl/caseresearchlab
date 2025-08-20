@@ -1,0 +1,39 @@
+---
+title: "Grace Capretta"
+sortby: "2"
+subtitle: "Lab Manager"
+image: capretta_grace.jpeg
+started: "Fall 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Assistants</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Grace Capretta joined the CaSE laboratory as Lab Manager in 2025. Grace graduated with her Bachelor of Arts in Communication Sciences at Case Western Reserve University in May 2024. Since then, she previously served as the Lab Manager of the Speech and Auditory Research (SpAR) Lab led by Dr. Lauren Calandruccio, PhD, CCC-A, supporting data collection and analysis on bilingual speech perception.
+
+As the CaSE Lab manager, Grace is especially looking forward to working with children with communication disorders and collaborating with undergraduate and graduate students in the lab. 
+
+In her free time, Grace enjoys reading, learning new instruments, and exploring Northeast Ohio.
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| 2024
+  - Communication Sciences
+
+
+:::
