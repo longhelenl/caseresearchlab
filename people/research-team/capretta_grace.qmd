@@ -1,5 +1,5 @@
 ---
-title: "Grace Capretta"
+title: "Grace Capretta, BA"
 sortby: "2"
 subtitle: "Lab Manager"
 image: capretta_grace.jpg
