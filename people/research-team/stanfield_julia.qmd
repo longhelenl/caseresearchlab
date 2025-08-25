@@ -1,0 +1,31 @@
+---
+title: "Julia Stanfield"
+sortby: "Stanfield, Julia"
+subtitle: "Graduate Thesis Student"
+image: av-cat.png
+started: "Fall 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Coming Soon
+
+## Education
+
+Coming Soon
