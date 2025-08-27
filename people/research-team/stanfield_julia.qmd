@@ -1,8 +1,8 @@
 ---
-title: "Julia Stanfield"
+title: "Julia Stanfield, BS"
 sortby: "Stanfield, Julia"
 subtitle: "Graduate Thesis Student"
-image: av-cat.png
+image: stanfield_julia.jpg
 started: "Fall 2025"
 ended: "Current"
 toc: false
@@ -24,8 +24,16 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Coming Soon
+Julia Stanfield's research interests include pediatric motor speech disorders, adolescent and adult alternative augmentative communication (AAC) use, and acquired neurogenic communication disorders. She is especially interested in how sexual education is integrated into AAC use and the benefits of integrating sexual education into AAC use.
+
+Julia received her Bachelors of Science in Speech Language Hearing Sciences at the University of Cincinnati, with a Deaf Studies certificate in May 2025. In her undergraduate experience, she partnered with Cincinnati Children's Hospital Medical Center SLPs, identifying the efficacy of current treatment for exercise-induced laryngeal obstruction (EILO) patients, which was presented at the ASHA Convention in 2024. Currently, she is pursuing her masters degree in the Communication Sciences program at CWRU and is a graduate research assistant and thesis student in the CaSE lab.
+
+Throughout her masters studies, she is completing clinical practica across pediatric and adult settings. Outside of academics, Julia enjoys reading, baking, cycling, seeing live theatre, and doing nail art.
 
 ## Education
 
-Coming Soon
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> MA \| 2027
+  - Speech-Language Pathology
+
+**University of Cincinnati** \| Cincinnati, OH, USA<br /> BA \|2025
+  - Speech-Language Hearing Sciences, Deaf Studies
