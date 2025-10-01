@@ -1,0 +1,35 @@
+---
+title: "Jada Nero"
+sortby: "Nero, Jada"
+subtitle: "Undergraduate Research Assistant"
+image: nero_jada.jpg
+started: "Fall 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Jada is an undergraduate studying Psychology and Communication Sciences, with a minor in Public Health. She is interested in many aspects of human behavior and conditions. Jada enjoys learning from idiographic studies to see what causes individual differences. She also enjoys nomothetic studies to look at group behaviors and what causes them. 
+Those interests are what guided her to make those specific major and minor selections. Post graduation, she hopes to have a career that involves research and working with individual patients. Outside of academics, Jada enjoys watching horror movies and completing unique art projects. 
+
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| 2027
+  - Psychology
+  - Communication Sciences
