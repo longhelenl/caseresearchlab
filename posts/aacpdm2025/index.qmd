@@ -1,13 +1,13 @@
 ---
 title: "AACPDM 2025 Conference"
-description: "Accepted Presentations"
+description: "Four presentations from CaSE Lab accepted at AACPDM"
 author: "Helen Long"
 date: "2025-04-25"
 image: aacpdm.png
 draft: false
 categories:
-  - announcement
-  - conference
+  - research
+  - education
 format:
   html:
     page-layout: full

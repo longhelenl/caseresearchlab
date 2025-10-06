@@ -1,13 +1,13 @@
 ---
 title: "CTSC Annual Pilot Award"
-description: "Lab Funding"
+description: "CTSC funds CaSE Lab x UCP collaboration"
 author: "Helen Long"
 date: "2025-07-01"
 image: ctsc-logo.jpg
 draft: false
 categories:
-  - announcement
-  - awards
+  - research
+  - outreach
 format:
   html:
     page-layout: full

@@ -1,13 +1,14 @@
 ---
 title: "Summer Research Scholars Mentorship"
-description: "Mentoring"
+description: "Dr. Long mentors 5 scholars through summer research experience"
 author: "Helen Long"
 date: "2025-07-24"
 image: uh.jpg
 draft: false
 categories:
-  - announcement
-  - mentoring
+  - research
+  - education
+  - support
 format:
   html:
     page-layout: full

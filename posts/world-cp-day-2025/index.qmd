@@ -1,0 +1,51 @@
+---
+title: "World CP Day 2025"
+description: "CaSE Lab Celebrates World CP Day 2025"
+author: "Helen Long"
+date: "2025-10-06"
+image: IMG_1956.jpeg
+draft: false
+categories:
+  - awareness
+  - education
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+This week, the CaSE Lab team celebrated World Cerebral Palsy Day as a global event dedicated to raising awareness, building understanding, and celebrating the lives and contributions of people with cerebral palsy.
+
+We marked the day by wearing our custom CP awareness t-shirts and enjoying an array of green snacks as the color representing CP awareness. But the heart of our celebration was a meaningful discussion centered on the voices and stories of people with CP.
+
+We watched and reflected on three powerful videos by Special Books by Special Kids (SBSK) on YouTube, each featuring a different person living with CP: [Maya](https://youtu.be/cCRIdR7HG1w?si=hitvugSNsLD7eC99), [Avery](https://youtu.be/0UCB04gnHEI?si=FyT4OF_O0PuvkJrU), and [Sonel](https://youtu.be/ShubnYpp_wI?si=wKzp3H_es5siCNVx). Through their stories, we explored the diversity of CP experiences, noting the similarities and differences in how CP affects people’s lives. Most importantly, we focused on who each person is beyond their diagnosis: their personalities, interests, likes and dislikes, and the ways they navigate the world.
+
+This discussion helped us deepen our understanding of CP as more than a medical condition--it’s a part of a person’s story, but never the whole story. Students shared takeaways about individuality, communication, and the importance of listening to lived experiences as we continue our work to support people with CP and their families.
+
+:::{.columns}
+
+:::{.column width="40%"}   
+![](WCPD2025_Post04.jpg)
+:::
+
+:::{.column width="40%"}
+![](IMG_1956.jpeg)
+
+:::
+
+:::{.column width="40%"}
+
+![](IMG_1960.jpeg)
+:::
+
+:::{.column width="40%"}
+![](WCPD2025_Post05.jpg)
+:::
+
+:::
+
+
+
+
+
+
