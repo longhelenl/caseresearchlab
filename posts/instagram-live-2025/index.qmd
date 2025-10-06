@@ -1,0 +1,37 @@
+---
+title: "The CaSE Lab is now on Instagram!"
+description: "Follow us @CaSELab_CWRU"
+author: "Helen Long"
+date: "2025-09-10"
+image: lab-logo-full.png
+draft: false
+categories:
+  - awareness
+  - outreach
+  - support
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+The Communication and Speech Emergence (CaSE) Lab is excited to share that we’re now on Instagram! You can find us at **\@caselab_cwru**. This is a space where we’ll share the people, projects, and purpose driving our work to support early communication development in children with cerebral palsy and other neurodevelopmental disabilities. We also plan to highlight work from related labs, and educational content for SLPs and families all about supporting early communication development in young children with or at high risk for CP.
+
+## What to Expect:
+Our Instagram will be a behind-the-scenes look at life in the lab and the impact of our work. You’ll see:
+
+- **Research in Action**: Highlights from our ongoing studies on early vocal and communication development and AAC interventions.
+- **Community Partnerships**: Collaborations with families, clinicians, and organizations that help translate research into real-world support for SLPs and families.
+- **Student & Team Spotlights**: Meet the researchers, clinicians, and students who make the work possible.
+- **Educational Insights**: Tips, infographics, and takeaways about communication development, early identification, and evidence-based intervention practices.
+- **Events & Outreach**: Updates on research presentations, community events, caregiver programs, CP news, and more.
+
+Our mission is to advance early identification, intervention, and support for communication needs in children with motor disabilities, and to do so in partnership with families and communities. Our Instagram will be another way to connect, share, and learn together.
+
+We hope you'll join us on this journey to build a more communication-centered future. 💚
+
+![](lab-logo-full.png){width="80%"}
+
+
+
+
