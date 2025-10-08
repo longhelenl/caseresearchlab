@@ -13,9 +13,9 @@ format: html
 ```
 ## Visit Us
 
-The CaSE Lab is located in the former Cleveland Hearing and Speech Center at 11635 Euclid Ave on the campus of Case Western Reserve University. 
+The CaSE Lab is located on the 3rd floor at 11635 Euclid Ave on the campus of Case Western Reserve University. 
 
-Participants and visitors of the lab should **park across the street** at 11717 Euclid Ave, Cleveland, OH 44106 in any spot marked for COSI visitors. A parking pass may be provided at your scheduled visit.
+Participants and visitors of the lab can **park in the small parking lot** behind the building, or **park across the street** at 11717 Euclid Ave, Cleveland, OH 44106 in any spot marked for COSI visitors. A parking pass will be provided at your scheduled visit at no cost.
 
 > **Street Address:** 11635 Euclid Ave, Cleveland, OH 44118
 

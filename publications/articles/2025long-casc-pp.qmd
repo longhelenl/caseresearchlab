@@ -1,0 +1,35 @@
+---
+title: "A qualitative exploration of General Practice SLPs’ experiences in collaborative service delivery with AAC Specialists"
+type: "article"
+author: "Long, Elmquist, & Seale"
+year: "under review"
+publication: "EdArXiv Preprints"
+preprint: "https://osf.io/preprints/edarxiv/ym85r_v1"
+materials: "https://osf.io/nzry7/"
+toc: false
+categories:
+  - SLP services
+  - AAC
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> 29.	Long HL, Elmquist, M, & Seale, J. (under review). A qualitative exploration of General Practice SLPs’ experiences in collaborative service delivery with AAC Specialists. *EdArXiv Preprints.*
+
+# Abstract
+
+Purpose: This qualitative study investigated how General Practice SLPs perceive their role and skill in the AAC evaluation process, as well as their objectives and experiences when collaborating with AAC Specialists. 
+
+Method: Nine General Practice SLPs from school-based and medical settings participated in semi-structed interviews describing their AAC experiences before and after engaging with the AAC Partnership Program, a collaborative service model among AAC Specialists and General Practice SLPs. Transcripts were analyzed using a thematic analysis approach. 
+
+Results: Participants reported seeking support from an AAC Specialist due to limited AAC experience, time constraints, and resource access. Collaborations were viewed as valuable for guiding efficient AAC evaluations, device selection, and skill development. However, participants varied in their interest in becoming independent AAC evaluators. While some sought to build AAC expertise, others preferred continued specialist involvement throughout the AAC process. 
+
+Conclusion: Partnerships among AAC Specialists and General Practice SLPs may offer valuable approaches to service delivery to promote equitable access to AAC services across settings. Flexible, scaffolded support offered through collaborative service delivery models allows for variability in team needs and preferences for the level of specialist involvement.

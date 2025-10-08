@@ -2,12 +2,13 @@
 title: "Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation"
 type: "article"
 author: "Long, Mayfield, & Szymanek"
-year: "under review"
-publication: "OSFPreprints"
-preprint: "https://osf.io/preprints/osf/4b763_v2"
+year: "in press"
+publication: "Perspectives of the ASHA Special Interest Groups"
+preprint: "https://osf.io/preprints/osf/4b763_v3"
 toc: false
 categories:
   - communication
+  - SLP services
 ---
 
 ```{=html}
@@ -20,7 +21,7 @@ categories:
 ```
 
 
-> Long HL, Mayfield, J, & Szymanek, K. (under review). Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation. *OSFPreprints* 
+> Long HL, Mayfield, J, & Szymanek, K. (in press). Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation. *Perspectives of the ASHA Special Interest Groups* 
 
 # Abstract
 

@@ -3,7 +3,7 @@ title: "**EI SLP Delphi Study**"
 subtitle: "Current practices of early intervention SLPs for cerebral palsy"
 image: /img/ei-slp-delphi.jpg
 categories: [cerebral palsy, SLPs, early intervention]
-Recruiting: "EI SLPs"
+Recruiting: "Closed"
 ---
 
 ```{=html}
