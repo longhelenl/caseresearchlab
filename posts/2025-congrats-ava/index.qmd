@@ -1,0 +1,23 @@
+---
+title: "Ava Ng ASHA 2025 Meritorious Poster"
+description: "Congratulations to Ava!"
+author: "Helen Long"
+date: "2025-10-10"
+image: ng_ava.jpg
+draft: false
+categories:
+  - research
+  - support
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Congratulations to lab member Ava Ng for having her presentation accepted to the 2025 ASHA Convention and for receiving a Meritorious Poster Award! 
+
+Ava will be presenting work she completed with her IMPACT mentor at Boys Town National Research Hospital, Dr. Kaylah Lalonde, on the "Influence of audiovisual speech cues on listening effort in school-age children". 
+
+During Ava's tenure in the IMPACT Program at CWRU she leaned into gaining research experience and taking full advantage of having a research mentor from Boys Town. Because of her dedication and excellence in this area, she was invited to spend a summer at Boys Town where she completed much of this work. 
+
+Congratulations, Ava! We are so proud of you!

@@ -18,9 +18,10 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/articles/2025long-casc-pp.html",
       "/publications/articles/2025cychosz.html",
-      "/publications/articles/2025long-fwords.html",
       "/publications/articles/2025pfeiffer.html",
+      "/publications/articles/2025long-fwords.html",
       "/publications/articles/2025long-nirg.html",
       "/publications/articles/2025su.html",
       "/publications/articles/2025oller.html",
@@ -50,11 +51,12 @@
   {
     "listing": "/news.html",
     "items": [
-      "/posts/world-cp-day-2025/index.html",
-      "/posts/instagram-live-2025/index.html",
-      "/posts/uh-hsrc-2025/index.html",
-      "/posts/ctscpilot2025/index.html",
-      "/posts/aacpdm2025/index.html"
+      "/posts/2025-congrats-ava/index.html",
+      "/posts/2025-world-cp-day/index.html",
+      "/posts/2025-instagram-live/index.html",
+      "/posts/2025-uh-hsrc/index.html",
+      "/posts/2025-ctsc-pilot/index.html",
+      "/posts/2025-aacpdm/index.html"
     ]
   },
   {
