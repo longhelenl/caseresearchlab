@@ -1,0 +1,39 @@
+---
+title: "Ashley Perez"
+sortby: "Perez, Ashley"
+subtitle: "Undergraduate Research Assistant"
+image: perez_ashley.jpeg
+started: "Fall 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Ashley is majoring in Communication Sciences with minors in Childhood Studies and Spanish. She’s interested in how children learn, communicate, and make sense of the world, especially those from bilingual or diverse backgrounds. Passionate about working with kids, she has experience supporting children who use augmentative and alternative communication (AAC) and plans to pursue a career in bilingual pediatric speech-language pathology. 
+
+Ashley is an executive board member of the National Student Speech-Language Hearing Association (NSSLHA) and a member of the CSD Bilingüe Suite. Outside of the lab, she enjoys watching shows, cooking, and spending time with her friends and family. 
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| 2028
+
+  - Communication Sciences
+  - Child Studies
+  - Spanish
+
+:::
