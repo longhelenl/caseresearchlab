@@ -9,7 +9,7 @@ materials: "https://osf.io/nzry7/"
 toc: false
 categories:
   - SLP services
-  - AAC
+  - communication
 ---
 
 ```{=html}

@@ -11,6 +11,8 @@ toc: false
 categories:
   - vocal development
   - cerebral palsy
+  - speech development
+  
 ---
 
 ```{=html}

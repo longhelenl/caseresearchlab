@@ -8,7 +8,7 @@ doi: "https://doi.org/10.1038/s41598-019-51352-0"
 oa: "https://doi.org/10.1038/s41598-019-51352-0"
 toc: false
 categories:
-  - preterm
+  - neurodevelopment
   - infant 
   - vocal development
 ---

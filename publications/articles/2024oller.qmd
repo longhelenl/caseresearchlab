@@ -10,7 +10,7 @@ toc: false
 categories:
   - infant
   - vocal development
-  - autism
+  - neurodevelopment
 ---
 
 ```{=html}

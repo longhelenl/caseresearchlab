@@ -1,5 +1,5 @@
 ---
-title: "Parentese elicits infant speech-like vocalizations in typically developing and autistic infants. "
+title: "Parentese elicits infant speech-like vocalizations in typically developing and autistic infants"
 type: "article"
 author: "Su, Ramsay, Bene, Yoo, Long, Klaiman, Pulver, Richardson, Pileggi, Brane, & Oller"
 year: "2025"
@@ -10,8 +10,7 @@ toc: false
 categories:
   - infant
   - vocal development
-  - autism
-  - social interaction
+  - neurodevelopment
 ---
 
 ```{=html}
