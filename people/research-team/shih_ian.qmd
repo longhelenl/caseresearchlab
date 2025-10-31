@@ -1,0 +1,38 @@
+---
+title: "Ian Shih"
+sortby: "Shih, Ian"
+subtitle: "Undergraduate Research Assistant"
+image: shih_ian.JPG
+started: "Fall 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+I am very interested in learning about speech development, especially during an individual’s early stages of life. I’ve gone through speech therapeutic programs growing up at a young age, and now I want to give back to the community by helping those who may have or are at risk of developing speech difficulties.
+
+I am an undergraduate student majoring in Biology and Nutrition, and also on the pre-PA track. I am the Outreach Chair/External Affairs Executive for Empower Association at CWRU, and am now an undergraduate assistant in the Communication and Speech Emergence (CaSE) Laboratory.
+
+I’m particularly interested in the OBGYN or pediatric side of the pre-health field and would love to work with children. I love playing badminton volleyball with my friends and enjoy rewatching high school slice-of-life anime outside of academics.
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| 2028
+
+  - Biology
+  - Nutrition
