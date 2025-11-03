@@ -1,0 +1,33 @@
+---
+title: "Master's Students Meta-Analysis Presentations"
+description: "Lab student poster presentations"
+author: "Helen Long"
+date: "2025-10-20"
+image: evidence-pyramid.png
+draft: false
+categories:
+  - research
+  - education
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+On October 15, 2025, faculty and students from the Communication Sciences (COSI) Program at CWRU gathered for the Meta-Analysis Poster Presentations event. This annual showcase highlights the work of second-year master’s students completing their non-thesis capstone projects, where they apply systematic and critical review methods to synthesize current evidence on clinically relevant topics in speech-language pathology through a meta-analysis.
+
+Two members of the Communication and Speech Emergence (CaSE) Lab presented their independent meta-analyses at this event:
+
+- **Kate Munz**, “Effects of non-invasive brain stimulation combined with speech-language therapy on naming ability in adults with post-stroke non-fluent aphasia.”
+
+- **Ava Ng**, “Effects of naming therapy on confrontational naming accuracy for individuals with primary progressive aphasia.”
+
+These projects are meant to demonstrate the students’ rigorous engagement with research literature and their growing expertise in evaluating and translating evidence to inform clinical practice. Through this experience, COSI students strengthen their ability to critically examine methodologies, interpret effect sizes, and identify gaps for future research—skills essential for evidence-based clinical decision-making.
+
+We’re proud of Kate and Ava for their hard work and thoughtful contributions to the field. Congratulations on a successful presentation day!   
+
+![](munz-poster.jpg){.hero width=25%}
+
+
+
+
