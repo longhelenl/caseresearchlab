@@ -3,7 +3,7 @@ title: "**UCP Club chAT**"
 subtitle: "Research Study on Caregiver Attitudes about AAC"
 image: /img/club-chat.png
 categories: [families, AAC]
-Recruiting: "Caregivers"
+Recruiting: "Closed"
 ---
 
 ```{=html}
