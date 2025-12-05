@@ -1,0 +1,41 @@
+---
+title: "ASHA 2025 Convention"
+description: "Invited Seminar for the 2025 ASHA Convention"
+author: "Helen Long"
+date: "2025-11-21"
+image: IMG_3193.jpg
+draft: false
+categories:
+  - research
+  - education
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+On November 20, 2025, Dr. Helen Long presented her latest research conducted in collaboration with Katherine Hustad (UW-Madison), Leslie Christensen (UW-Madison), Sydney Hayes Jensen (UW–Madison), Naomi Eichorn (University of Memphis), and D. Kimbrough Oller (University of Memphis) on early vocal and speech development in infants and young children with or at risk for cerebral palsy. This presentation was part of the ASHA Convention’s multi-part seminar series, “Vocal Communication and Early Detection of Various Emergent Conditions in Infants and Young Children”, which brought together investigators working to advance early detection science and improve developmental outcomes for infants with complex communication needs.
+
+The seminar featured researchers from multiple universities sharing emerging evidence on how early vocal behaviors can support earlier identification of developmental conditions to an audience of both clinicians and scientists. Presentations were delivered by D. Kimbrough Oller (University of Memphis), Pumpki Su (UT Dallas), Hyunjoo Yoo (University of Alabama), Tanjala Gipson (UT Health Science Center), and Zahra Poursoroush (University of Memphis), offering an interdisciplinary perspective across autism, tuberous sclerosis complex, and cerebral palsy.
+
+We’re proud to see CaSE Lab research represented on a national stage and grateful for the opportunity to contribute to this growing area of early detection and intervention for young children with or at risk for communication disabilities!
+
+<br /><br />
+   
+:::{.columns}
+
+:::{.column width="40%"}   
+![](IMG_3193.jpg)
+:::
+
+:::{.column width="40%"}
+![](IMG_0832.jpg)
+
+:::
+
+:::{.column width="40%"}
+![](IMG_8085.jpg)
+
+:::
+
+

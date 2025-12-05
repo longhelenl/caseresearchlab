@@ -1,0 +1,40 @@
+---
+title: "CaSE Lab Holiday Party"
+description: "CaSE Lab Celebrates End of Fall Semester"
+author: "Helen Long"
+date: "2025-12-05"
+image: IMG_9338.jpg
+draft: false
+categories:
+  - support
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+The CaSE Lab wrapped up the semester with a much-needed holiday study break and it was exactly the reset we all needed during finals week.
+
+We kicked things off with a hot chocolate bar stocked with all the essentials (and plenty of marshmallows). Our spread of tamales, cookies, and snacks kept everyone happily fueled while working through end-of-semester studying. We took time to unwind with coloring sheets as a calming brain break to de-stress before finals.
+
+We also gathering around for games and a chance to connect outside of research and deadlines. It was a fun and relaxing way to celebrate the semester’s accomplishments and to appreciate the community we’ve built in the lab.
+
+Thank you to everyone who came, contributed food, or shared a little joy and humor during a busy week. We’re grateful for each member of the CaSE Lab and excited for everything ahead in the new year.
+
+Happy holidays from all of us at the Communication and Speech Emergence Lab! 🎉☕🧡
+
+:::{.columns}
+
+:::{.column width="40%"}   
+![](IMG_9333.jpg)
+:::
+
+:::{.column width="40%"}
+![](IMG_9338.jpeg)
+
+:::
+
+
+
+
+
