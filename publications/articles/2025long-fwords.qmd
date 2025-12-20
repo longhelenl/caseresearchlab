@@ -2,9 +2,9 @@
 title: "Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation"
 type: "article"
 author: "Long, Mayfield, & Szymanek"
-year: "in press"
+year: "2025"
 publication: "Perspectives of the ASHA Special Interest Groups"
-preprint: "https://osf.io/preprints/osf/4b763_v3"
+doi: "https://www.doi.org/doi.org/10.1044/2025_PERSP-25-00137"
 toc: false
 categories:
   - communication
@@ -21,8 +21,14 @@ categories:
 ```
 
 
-> Long HL, Mayfield, J, & Szymanek, K. (in press). Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation. *Perspectives of the ASHA Special Interest Groups* 
+> Long HL, Mayfield, J, & Szymanek, K. (2025). Positioning the “F-Words for Child Development” in the scope of speech-language pathology to support childhood participation. *Perspectives of the ASHA Special Interest Groups.* 
 
 # Abstract
 
-This paper explores how the “F-Words for Child Development” framework, a practical translation of the International Classification of Functioning, Disability and Health (ICF) introduced by Rosenbaum &amp; Gorter (2012), can be applied by speech-language pathologists to enhance communication and mealtime participation for children with disabilities. Each F-Word is explored as a lens for aligning SLP services with real-world participation in mind. We highlight how SLPs can apply the F-Words through interdisciplinary collaboration and family-centered care while recognizing barriers to implementation.
+Purpose: This narrative review explores how the “F-Words for Child Development” framework, a practical translation of the International Classification of Functioning, Disability and Health introduced by Rosenbaum and Gorter (2012), can guide speech-language pathologists (SLPs) in promoting communication and mealtime participation for children with disabilities. 
+
+Background: While the F-Words framework has been widely adopted across rehabilitation disciplines, its application within speech-language pathology remains underexplored. 
+
+Method: The review synthesizes relevant research and conceptual literature organized around each F-Word (i.e., Functioning, Fitness, Family, Friendships, Fun, Future, and Freedom) as a lens for supporting communicative and mealtime participation. 
+
+Conclusion: Findings highlight how SLPs can operationalize the F-Words framework through family-centered care and interdisciplinary collaboration to enhance participation outcomes.

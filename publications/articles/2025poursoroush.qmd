@@ -1,0 +1,37 @@
+---
+title: "Timing of Intervals Between Utterances in Typically Developing Infants and Infants Later Diagnosed with Autism Spectrum Disorder"
+type: "article"
+author: "Poursoroush, Ramsay, Yang, Buder, Bene, Su, Yoo, Long, Klaiman, Pileggi, Brane, & Oller"
+year: "2025"
+publication: "Brain Sciences"
+doi: "https://doi.org/10.3390/brainsci15080819"
+pubmed: "https://pubmed.ncbi.nlm.nih.gov/40867151/"
+toc: false
+categories:
+  - infant
+  - vocal development
+  - neurodevelopment
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> Poursoroush, Z., Ramsay, G., Yang, C.-C., Buder, E. H., Bene, E. R., Su, P. L., Yoo, H., Long, H. L., Klaiman, C., Pileggi, M. L., Brane, N., & Oller, D. K. (2025). Timing of Intervals Between Utterances in Typically Developing Infants and Infants Later Diagnosed with Autism Spectrum Disorder. *Brain Sciences, 15*(8), 819. https://doi.org/10.3390/brainsci15080819
+
+
+# Abstract
+
+Background: Understanding the origin and natural organization of early infant vocalizations is important for predicting communication and language abilities in later years. The very frequent production of speech-like vocalizations (hereafter “protophones”), occurring largely independently of interaction, is part of this developmental process. 
+
+Objectives: This study aims to investigate the gap durations (time intervals) between protophones, comparing typically developing (TD) infants and infants later diagnosed with autism spectrum disorder (ASD) in a naturalistic setting where endogenous protophones occur frequently. Additionally, we explore potential age-related variations and sex differences in gap durations. 
+
+Methods: We analyzed ~1500 five min recording segments from longitudinal all-day home recordings of 147 infants (103 TD infants and 44 autistic infants) during their first year of life. The data included over 90,000 infant protophones. Human coding was employed to ensure maximally accurate timing data. This method included the human judgment of gap durations specified based on time-domain and spectrographic displays. 
+
+Results and Conclusions: Short gap durations occurred between protophones produced by infants, with a mode between 301 and 400 ms, roughly the length of an infant syllable, across all diagnoses, sex, and age groups. However, we found significant differences in the gap duration distributions between ASD and TD groups when infant-directed speech (IDS) was relatively frequent, as well as across age groups and sexes. The Generalized Linear Modeling (GLM) results confirmed these findings and revealed longer gap durations associated with higher IDS, female sex, older age, and TD diagnosis. Age-related differences and sex differences were highly significant for both diagnosis groups.
