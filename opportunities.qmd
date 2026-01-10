@@ -15,7 +15,7 @@ toc: true
 ```
 
 ## Undergraduate Students
-The CasE Lab welcomes undergraduate students from Communication Sciences, Psychology, Neuroscience, Public Health, and related fields to get involved in early-stage research. Students can participate as research assistants supporting data collection and analysis, social media management, and literature reviews on topics related to early communication development, motor disabilities, and family-centered care.
+The CasE Lab welcomes undergraduate students to get involved in early-stage research. Students can participate as research assistants supporting data collection and analysis, social media management, and literature reviews on topics related to early communication development, motor disabilities, and family-centered care. Please note that priority will be given to students whose majors are in the Communication Sciences, but students in related fields are welcome to apply.
 
 Research assistants will have the opportunity to:
 
@@ -44,7 +44,7 @@ Students are encouraged to bring their own research ideas or develop a project i
 The CasE Lab is open to prospective PhD students with interests in:
 
 - Early communication and speech development  
-- Cerebral Palsy and other motor disabilities
+- Cerebral palsy and other motor disabilities
 - Pediatric motor speech disorders  
 - AAC and family-centered intervention  
 - Community engaged research in CSD
