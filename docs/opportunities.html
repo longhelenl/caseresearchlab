@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -162,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 
 
 
@@ -176,7 +176,13 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <section id="undergraduate-students" class="level2">
 <h2 class="anchored" data-anchor-id="undergraduate-students">Undergraduate Students</h2>
-<p>The CasE Lab welcomes undergraduate students to get involved in early-stage research. Students can participate as research assistants supporting data collection and analysis, social media management, and literature reviews on topics related to early communication development, motor disabilities, and family-centered care. Please note that priority will be given to students whose majors are in Communication Sciences, but students in related fields are welcome to apply.</p>
+<p>The CasE Lab welcomes undergraduate students to get involved in early-stage research. Students can participate as research assistants supporting data collection and analysis, social media management, and literature reviews on topics related to speech-language pathology, early communication development, motor disabilities, and family-centered care. The majority of laboratory activities are volunteer-based. Paid positions may be available depending on laboratory funding, student experience level, and student capacity for work hours.</p>
+<p>At this time, the laboratory is primarily seeking research assistants who are:</p>
+<ul>
+<li>COSI majors</li>
+<li>Sophomores or Juniors</li>
+<li>Able to commit to a minimum of 5 hours per week to lab activities</li>
+</ul>
 <p>Research assistants will have the opportunity to:</p>
 <ul>
 <li>Attend lab meetings and training sessions</li>
@@ -207,7 +213,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Early communication and speech development<br>
 </li>
-<li>Cerebral Palsy and other motor disabilities</li>
+<li>Cerebral palsy and other motor disabilities</li>
 <li>Pediatric motor speech disorders<br>
 </li>
 <li>AAC and family-centered intervention<br>
@@ -308,6 +314,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -418,6 +426,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
