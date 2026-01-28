@@ -3,8 +3,8 @@ title: "Ava Ng, BA"
 sortby: "Ng, Ava"
 subtitle: "Graduate Research Assistant"
 image: ng_ava.jpg
-started: "Fall 2024"
-ended: "Current"
+started: "2024"
+ended: "2026"
 toc: false
 about:
   id: person-profile
