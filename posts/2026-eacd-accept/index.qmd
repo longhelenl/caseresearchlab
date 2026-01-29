@@ -1,0 +1,32 @@
+---
+title: "EACD 2026 Conference"
+description: "Two presentations accepted to the 2026 European Academy of Childhood Disability Congress"
+author: "Helen Long"
+date: "2026-01-29"
+image: eacd2026.jpg
+draft: false
+categories:
+  - research
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+The CaSE Lab had **two** co-authored abstract submissions accepted to present at the 2026 Congress for the European Academy of Childhood-onset Disability (EACD) held in Galway, Ireland in June 2026! The theme of the conference is: ‘Mol an Óige agus Tiocfaidh Siad’ - Encourage the young and they will flourish. The CaSE Lab is pround to have the theme of the conference directly in line with the mission and vision of our laboratory.
+
+-	**Long HL**, Anderson, D, Michalski, K, Pandari, N, & **Lopez, C** (Accepted for 2026, June). Current Practices for Assessing and Supporting Augmentative and Alternative Communication (AAC) Needs in Young Children (0-3) with Cerebral Palsy [*Poster*]. European Association on Childhood Disabilities, Galway, Ireland.
+
+-- This poster presents the results of Round 1 of a modified e-Delphi study examining current assessment and intervention practices for SLPs in early intervention working with 0-3 infants and toddlers with or at risk for cerebral palsy, a motor disorder. Our findings highlight the dynamic assessment process that extends into intervention to evaluate and support speech and AAC abilities, simultaneously, as children continue to grow.
+
+-	**Long HL**, Hidecker, MJC, Slone, S & Lenski, M (Accepted for 2026, June). Descriptive epidemiology of functional communication among children aged 10 born extremely prematurely [*Poster*]. European Association on Childhood Disabilities, Galway, Ireland. 
+
+-- This poster presents a descriptive epidemiology of communication functioning at age 10 among children born extremely preterm. Using a range of speech, language, and communication measures, findings show that up to 28% had reduced communication abilities, highlighting the significant long-term communication needs in this population compared to national averages. <br /><br />
+
+
+   
+![](eacd2026.jpg){.hero width=25%}
+
+
+
+
