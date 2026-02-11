@@ -6,7 +6,7 @@ image: long_helen.jpg
 started: "Fall 2024"
 toc: false
 resources: 
-  - "HLong_MASTER_CV.pdf"
+  - "HLong_MASTER_CV"
 about:
   id: person-profile
   template: jolla
@@ -44,18 +44,22 @@ about:
 
 ## Biography
 
-Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case Western Reserve University. Her research aims to advance the early identification and intervention of communication and speech support needs in children with neuromotor disabilities with a particular emphasis on cerebral palsy. The long-term goal of this work to better facilitate targeted early intervention services for speech and AAC. This research is clinically informed by her experiences as a speech-language pathologist (SLP). 
+Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case Western Reserve University. Her research aims to advance the early identification and intervention of communication and speech support needs in children with neuromotor disabilities with a particular emphasis on cerebral palsy. The long-term goal of this work to better facilitate targeted early intervention services for speech and AAC. This research is clinically informed by her experiences as a speech-language pathologist (SLP).
 
 Helen is also a co-founding collaborator of [CSDisseminate](http://www.csdisseminate.com/), a collaborative group of scientists and clinicians dedicated to promoting the accessibility, transparency, and reproducibility of research across the CSD community.
 
 ## Teaching 
+
+**COSI 365: Disability and the ICF Framework**<br>
+*3 cr, CWRU UGER COSI Program*<br>
+This course explores how biological, developmental, social, and environmental factors influence communicative participation in children with neurodevelopmental disabilities, using the WHO's International Classification of Functioning, Disability, and Health (ICF) as a central framework.
 
 **COSI 453: Articulation and Phonological Disorders**<br>
 *3 cr, CWRU MA SLP Program*<br>
 This course explores typical articulatory and phonological development, theoretical models of phonological acquisition, and methods for assessing, diagnosing, and treating developmental speech sound disorders (SSDs), including articulation and phonological impairments.
 
 **COSI 561: Neuromotor and Craniofacial Disorders** <br>
-*3 cr, CWRU MA SLP Program*<br>
+*4 cr, CWRU MA SLP Program*<br>
 This course examines congenital and acquired motor speech disorders, including dysarthria, apraxia, and cleft palate. Students explore speech subsystems, underlying neurological and structural causes, and interdisciplinary assessment and treatment approaches across the lifespan.
 
 **COSI 600: Special Topics: Augmentative & Alternative Communication (AAC)**<br>
