@@ -1,0 +1,33 @@
+---
+title: "Navya Kuppa"
+sortby: "Kuppa, Navya"
+subtitle: "Undergraduate Research Assistant"
+image: av-cat.png
+started: "Spring 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Coming Soon
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| TBD
+
+:::
