@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -202,13 +202,14 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="biography" class="level2">
 <h2 data-anchor-id="biography">Biography</h2>
-<p>Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case Western Reserve University. Her research aims to advance the early identification and intervention of communication and speech support needs in children with neuromotor disabilities with a particular emphasis on cerebral palsy. The long-term goal of this work to better facilitate targeted early intervention services for speech and AAC. This research is clinically informed by her experiences as a speech-language pathologist (SLP).&nbsp;</p>
+<p>Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case Western Reserve University. Her research aims to advance the early identification and intervention of communication and speech support needs in children with neuromotor disabilities with a particular emphasis on cerebral palsy. The long-term goal of this work to better facilitate targeted early intervention services for speech and AAC. This research is clinically informed by her experiences as a speech-language pathologist (SLP).</p>
 <p>Helen is also a co-founding collaborator of <a href="http://www.csdisseminate.com/">CSDisseminate</a>, a collaborative group of scientists and clinicians dedicated to promoting the accessibility, transparency, and reproducibility of research across the CSD community.</p>
 </section>
 <section id="teaching" class="level2">
 <h2 data-anchor-id="teaching">Teaching</h2>
+<p><strong>COSI 365: Disability and the ICF Framework</strong><br> <em>3 cr, CWRU UGER COSI Program</em><br> This course explores how biological, developmental, social, and environmental factors influence communicative participation in children with neurodevelopmental disabilities, using the WHO’s International Classification of Functioning, Disability, and Health (ICF) as a central framework.</p>
 <p><strong>COSI 453: Articulation and Phonological Disorders</strong><br> <em>3 cr, CWRU MA SLP Program</em><br> This course explores typical articulatory and phonological development, theoretical models of phonological acquisition, and methods for assessing, diagnosing, and treating developmental speech sound disorders (SSDs), including articulation and phonological impairments.</p>
-<p><strong>COSI 561: Neuromotor and Craniofacial Disorders</strong> <br> <em>3 cr, CWRU MA SLP Program</em><br> This course examines congenital and acquired motor speech disorders, including dysarthria, apraxia, and cleft palate. Students explore speech subsystems, underlying neurological and structural causes, and interdisciplinary assessment and treatment approaches across the lifespan.</p>
+<p><strong>COSI 561: Neuromotor and Craniofacial Disorders</strong> <br> <em>4 cr, CWRU MA SLP Program</em><br> This course examines congenital and acquired motor speech disorders, including dysarthria, apraxia, and cleft palate. Students explore speech subsystems, underlying neurological and structural causes, and interdisciplinary assessment and treatment approaches across the lifespan.</p>
 <p><strong>COSI 600: Special Topics: Augmentative &amp; Alternative Communication (AAC)</strong><br> <em>2 cr, CWRU MA SLP Program</em><br> This course provides an in-depth exploration of AAC for children and adults with complex communication needs. This course uses case-based learning to develop critical thinking skills in dynamic assessment, intervention, goal-setting, and interprofessional collaboration through collaborative problem-solving to support communication across settings and AAC users.</p>
 </section>
 <section id="academic-experience" class="level2">
@@ -323,8 +324,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -435,7 +434,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

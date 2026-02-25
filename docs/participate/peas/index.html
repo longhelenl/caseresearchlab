@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -187,21 +187,20 @@ ul.task-list li input[type="checkbox"] {
 <p><em>You and your child may be eligible to participate if:</em></p>
 <ul>
 <li>Your child is between 5 and 12 months of age.</li>
-<li>Your child has a diagnosis of cerebral palsy, <strong>OR</strong></li>
+<li>Your child is diagnosed or at risk for the motor disorder cerebral palsy, <strong>OR</strong></li>
 <li>Your child is typically developing child.</li>
 </ul>
 <p><strong>What does the study involve?</strong></p>
 <ul>
 <li><strong>Nine in-lab visits</strong> between <strong>6 months and 5 years</strong> lasting approximately 1-2 hours.</li>
 <li>Completing questionnaires about your child’s development before lab visits.</li>
-<li>Home audio recordings around the time of lab visits.</li>
+<li>Optional home audio recordings around the time of lab visits.</li>
 </ul>
 <p><strong>Why participate?</strong></p>
 <ul>
 <li>Help advance research in understanding early communication in children with cerebral palsy.</li>
 <li>You will receive participation reports describing your child’s development and be added to lab newsletters that summarize ongoing study findings.</li>
-<li>Families will be compensated <strong>$50 per lab visit</strong> and <strong>$20 per home audio recording</strong>.</li>
-<li><strong>$10 incentives</strong> given for fully completed questionnaires and <strong>$50 bonus</strong> for participation through 5 years!</li>
+<li>Families will be compensated <strong>$100 per lab visit</strong> and <strong>$50 per home audio recording</strong> with <strong>$200 bonus</strong> for participation through 5 years!</li>
 </ul>
 <p><strong>Location:</strong></p>
 <p>11635 Euclid Ave, Cleveland, OH, 44106, Communication and Speech Emergence Lab (Room 308) in the former Cleveland Speech &amp; Hearing Building.</p>
@@ -295,8 +294,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -407,7 +404,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
