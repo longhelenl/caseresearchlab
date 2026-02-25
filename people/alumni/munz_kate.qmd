@@ -3,8 +3,8 @@ title: "Kate Munz, BA"
 sortby: "Munz, Kate"
 subtitle: "Graduate Research Assistant"
 image: munz_kate.jpg
-started: "Fall 2024"
-ended: "Current"
+started: "2024"
+ended: "2026"
 toc: false
 about:
   id: person-profile
@@ -24,7 +24,7 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Kate Munz’s research interests include pediatric motor speech disorders, early childhood communication development, and acquired neurogenic communication disorders. She is particularly interested in advancing therapeutic approaches for individuals with aphasia following stroke and in the early identification of motor speech challenges in young children.
+Kate Munz’s research interests are across the lifespan. She is interested in advancing therapeutic approaches for individuals with aphasia following stroke and in the early identification of motor speech challenges in young children.
 
 She earned her Bachelor of Arts in Speech and Hearing Sciences, with a minor in Bioethics, from Ohio State University in May 2024. During her time at OSU, she contributed to research in the Childhood Cognition, Communication, and Brain Injury Lab, supporting studies on pediatric brain injury and school reintegration. She is currently pursuing a master’s degree in the Communication Sciences Program at Case Western Reserve University, where she continues her research involvement as a graduate assistant in the Communication and Speech Emergence Laboratory.
 
