@@ -2,7 +2,7 @@
 title: "Navya Kuppa"
 sortby: "Kuppa, Navya"
 subtitle: "Undergraduate Research Assistant"
-image: av-cat.png
+image: kuppa_navya.png
 started: "Spring 2026"
 ended: "Current"
 toc: false
@@ -21,13 +21,19 @@ about:
   </ol>
 </nav>
 ```
+
 ::: {#person-profile}
+
 ## Biography
 
-Coming Soon
+Navya is an undergraduate studying Biological Sciences with a minor in Childhood Studies. She enjoys working with children, which guided her choice of major and minor, as well as her future career goals. Post-graduation, she hopes to attend medical school and become a pediatrician. Outside of academics, Navya enjoys going to the beach, watching the sunset, and watching rom-coms.
+
 
 ## Education
 
-**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| TBD
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| 2029
+
+  - Biological Sciences
+  - Childhood Studies
 
 :::
