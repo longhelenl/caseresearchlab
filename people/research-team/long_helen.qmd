@@ -48,6 +48,8 @@ Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case Western Res
 
 Helen is also a co-founding collaborator of [CSDisseminate](http://www.csdisseminate.com/), a collaborative group of scientists and clinicians dedicated to promoting the accessibility, transparency, and reproducibility of research across the CSD community.
 
+Test test 
+
 ## Teaching 
 
 **COSI 365: Disability and the ICF Framework**<br>
