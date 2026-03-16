@@ -2,8 +2,9 @@
 title: "“There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders."
 type: "article"
 author: "Pfeiffer, Thompson, Baron, Brice, Ciullo, Hirsch, Long, & Ford"
-year: "under review"
-publication: "EdArXiv Preprints"
+year: "2026"
+publication: "Journal of Speech, Language, and Hearing Research"
+doi: "https://doi.org/10.1044/2025_JSLHR-25-00576"
 preprint: "https://doi.org/10.35542/osf.io/ygfhp_v1"
 materials: "https://osf.io/dvkqg/"
 preregistration: "https://osf.io/he3np"
@@ -22,7 +23,7 @@ categories:
 ```
 
 
-> Pfeiffer, DL, Thompson, A, Baron, A, Brice, C, Ciullo, B, Hirsch, ME, Long, HL, & Ford, A (under review). “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders. *EdArXiv Preprints.*
+> Pfeiffer, DL, Thompson, A, Baron, A, Brice, C, Ciullo, B, Hirsch, ME, Long, HL, & Ford, A (2026). “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders. *Journal of Speech, Language, and Hearing Research, 1-22.
 
 # Abstract
 
