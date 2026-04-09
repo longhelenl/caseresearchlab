@@ -23,7 +23,7 @@ categories:
 ```
 
 
-> Pfeiffer, DL, Thompson, A, Baron, A, Brice, C, Ciullo, B, Hirsch, ME, Long, HL, & Ford, A (2026). “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders. *Journal of Speech, Language, and Hearing Research, 1-22.
+> Pfeiffer, DL, Thompson, A, Baron, A, Brice, C, Ciullo, B, Hirsch, ME, Long, HL, & Ford, A (2026). “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders. *Journal of Speech, Language, and Hearing Research*, 1-22.
 
 # Abstract
 

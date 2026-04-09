@@ -346,5 +346,11 @@
   },
   "people/alumni/munz_kate.qmd": {
     "munz_kate.html": "6530911c"
+  },
+  "publications/articles/2026pfeiffer.qmd": {
+    "2026pfeiffer.html": "c7efce31"
+  },
+  "publications/articles/2026ford.qmd": {
+    "2026ford.html": "5c7aed78"
   }
 }

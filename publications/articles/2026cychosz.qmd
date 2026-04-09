@@ -2,8 +2,9 @@
 title: "Canonical Babbling Development in Infancy: A Systematic Review and Meta-Analysis of Methodological and Ambient Language Influences"
 type: "article"
 author: "Cychosz & Long"
-year: "in press"
+year: "2026"
 publication: "Developmental Science"
+doi: "https://doi.org/10.1111/desc.70139"
 preprint: "https://osf.io/preprints/osf/8ub2v_v1"
 materials: "https://osf.io/tks5h/"
 toc: false
@@ -22,7 +23,7 @@ categories:
 ```
 
 
-> Cychosz, M., & Long, H. L. (in press). Canonical babbling development in infancy: A systematic review and meta-analysis of methodological and ambient language influences. *Developmental Science.* https://doi.org/10.31219/osf.io/8ub2v_v1
+> Cychosz M & Long HL (2026). Canonical babbling development in infancy: A systematic review and meta-analysis of methodological and ambient language influences. Developmental Science, 29(3), e70139. https://www.doi.org/10.1111/desc.70139
 
 
 # Abstract

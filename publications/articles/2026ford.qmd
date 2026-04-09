@@ -1,0 +1,35 @@
+---
+title: "A review of replications over 88 years of the American Speech-Language-Hearing Association Journal Publications"
+type: "article"
+author: "Ford, Riccardi, Thompson, Long, Borders, Schroeder, Baron, El Amin, & Pfeiffer"
+year: "under review"
+publication: "PsyArXiv Preprints"
+preprint: "https://doi.org/10.31234/osf.io/jsgqh_v1"
+materials: "https://osf.io/952wt/"
+preregistration: "https://osf.io/2aqws/"
+toc: false
+categories:
+  - open science
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> Ford ALB, Riccardi JS, Thompson A, Long HL, Borders JC, Schroeder SR, Baron A, El Amin M, Pfeiffer D (under review). A review of replications over 88 years of the American Speech-Language-Hearing Association Journal Publications. *PsyArXiv Preprints.* doi.org/10.31234/osf.io/jsgqh_v1
+
+# Abstract
+
+Purpose: This review aimed to determine the prevalence of replication studies in the field of Communication Sciences and Disorders and examine longitudinal changes in this prevalence across American Speech-Language-Hearing Association (ASHA) journals from 1936 to 2024. It is a conceptual replication of Cook and colleagues’ review of replications in special education journals.
+
+Method: Our data source comprised 17,843 journal articles published in seven ASHA peer-reviewed journals between 1936 and 2024. We identified 3,903 articles, excluding duplicates, that had at least one instance of replicat*. Two research team members screened articles independently, and then one research team member coded each article, with reliability checks conducted on 20% of articles.
+
+Results: Of 17,843 total published studies, there was a 0.86% replication rate (n = 154) within ASHA journals. Most replications were conceptual and successfully replicated the previous study’s results. They involved a range of research designs, with experimental/quasi-experimental being the most prevalent.Replication studies were published more frequently over time.
+
+Conclusions: As the first study to investigate replication rates in CSD, our findings suggest a low replication rate, consistent with findings in other fields. To continue building a cumulative and rigorous evidence base in the field of CSD, researchers should consider sharing their data and materials and completing reporting tools and checklists, to clearly detail their methods and analysis processes in a transparent way, enabling future replication. A more extensive investigation is needed to identify replication studies published in other CSD-related journals and to explore whether additional studies that use broader definitions of replication should be considered

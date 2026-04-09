@@ -4,7 +4,7 @@ type: "article"
 author: "Long, Mayfield, & Szymanek"
 year: "2025"
 publication: "Perspectives of the ASHA Special Interest Groups"
-doi: "https://www.doi.org/doi.org/10.1044/2025_PERSP-25-00137"
+doi: "https://www.doi.org/10.1044/2025_PERSP-25-00137"
 toc: false
 categories:
   - communication
