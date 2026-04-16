@@ -1,5 +1,5 @@
 ---
-title: "Ava Ng, BA"
+title: "Ava Ng"
 sortby: "Ng, Ava"
 subtitle: "Graduate Research Assistant"
 image: ng_ava.jpg

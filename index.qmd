@@ -10,7 +10,6 @@ Welcome to the Communication and Speech Emergence Laboratory (CaSE Lab)! The CaS
 
 Learn more about the [lab](https://longhelenl.github.io/caseresearchlab/mission.html) and meet more of the [team](https://longhelenl.github.io/caseresearchlab/people.html)!
 
-
 ## Our Research
 
 👶 **Early Communication and Cerebral Palsy**
@@ -32,4 +31,3 @@ Even before babies say real words, their [sounds](https://longhelenl.github.io/c
 We work with a group of scientists and clinicians in the discipline of CSD to explore how [open science](https://longhelenl.github.io/caseresearchlab/publications.html#category=open%20science) is used to enhance the accessibility, reproducibility, and transparency of research in the field of communication sciences and disorders. Our studies have revealed that most researchers want to use these practices, but need more support and resources to get started. Check out our resources through [CSDisseminate](https://www.csdisseminate.com) and [other resources here](https://longhelenl.github.io/caseresearchlab/sciresources.html).
 
 ![](./img/babyvocalplay.png){.hero}
-
