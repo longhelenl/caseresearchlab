@@ -3,8 +3,8 @@ title: "Laila Shariff"
 sortby: "Shariff, Laila"
 subtitle: "Undergraduate Research Assistant"
 image: shariff_laila.jpg
-started: "Summer 2025"
-ended: "Current"
+started: "2025"
+ended: "2026"
 toc: false
 about:
   id: person-profile
