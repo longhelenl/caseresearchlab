@@ -1,0 +1,39 @@
+---
+title: "Nishmitha Thambi"
+sortby: "Thambi, Nishmitha"
+subtitle: "Undergraduate Research Assistant"
+image: thambi_nishmitha.jpeg
+started: "Summer 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+::: {#person-profile}
+
+## Biography
+
+Nishi is an undergraduate student majoring in Psychology and Neuroscience. She is very passionate about working with children and has a research focus on childhood development. In the future, Nishi hopes to attend medical school and become a pediatric psychiatrist. Outside of academics, Nishi loves to explore the city with friends and listen to music. 
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH \| BA \| 2029
+
+- Psychology
+- Neuroscience
+
+
+:::

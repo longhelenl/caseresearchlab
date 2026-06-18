@@ -1,0 +1,39 @@
+---
+title: "Nitya Gundamaraju"
+sortby: "Gundamaraju, Nitya"
+subtitle: "Undergraduate Research Assistant"
+image: gundamaraju_nitya.jpg
+started: "Summer 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+::: {#person-profile}
+
+## Biography
+
+Nitya is an undergraduate studying Biology at Case Western Reserve University on the pre-med track. She is interested in child development, communication, and the biological factors that influence health and development across the lifespan. As a certified EMT, Nitya enjoys working with patients and hopes to attend medical school after graduation. 
+
+Outside of academics, Nitya is involved in leadership roles within the undergraduate Indian Students Association, Case Surgical Society, MeTooCWRU, and Spartan Bhangra. In her free time, she enjoys reading, exploring new places, and spending time with friends and family.
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH \| BA \| 2028
+
+  - Biology
+
+:::
