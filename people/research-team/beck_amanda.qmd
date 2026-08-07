@@ -1,0 +1,40 @@
+---
+title: "Amanda Beck, MA"
+sortby: "Beck, Amanda"
+subtitle: "PhD Student"
+image: beck_amanda.jpeg
+started: "Fall 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+::: {#person-profile}
+## Biography
+
+Amanda Beck is a PhD student in Communication Sciences at Case Western Reserve University. She attended Case Western Reserve University for her Bachelor of Arts and Master of Arts degrees through the Integrated Graduate Studies Program. She is a current student in the CaSE lab. Amanda's research interests include augmentative and alternative communication (AAC) and early intervention for children with neuromotor disabilities.
+
+Amanda has clinical experience evaluating and treating clients with neuromotor disabilities including cerebral palsy. She particularly enjoys collaborating with other professionals to enhance the care of her clients. Outside of academics, Amanda enjoys exploring local restaurants and spending time with her cat.
+
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> MA \| 2023
+ 
+  - Communication Sciences
+
+**Case Western Reserve University** \| Cleveland, OH, USA<br /> BA \| 2023
+
+  - Communication Sciences 
+  - Minor: Psychology
