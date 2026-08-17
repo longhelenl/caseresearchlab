@@ -1,0 +1,32 @@
+---
+title: "Meher Banta"
+sortby: "Banta, Meher"
+subtitle: "Undergraduate Research Assistant"
+image: av-dog.png
+started: "Fall 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Team</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+::: {#person-profile}
+
+## Biography
+
+Coming Soon!
+
+
+:::

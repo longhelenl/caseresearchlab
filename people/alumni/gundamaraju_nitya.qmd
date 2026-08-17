@@ -3,8 +3,8 @@ title: "Nitya Gundamaraju"
 sortby: "Gundamaraju, Nitya"
 subtitle: "Undergraduate Research Assistant"
 image: gundamaraju_nitya.jpg
-started: "Summer 2026"
-ended: "Current"
+started: "2026"
+ended: "2026"
 toc: false
 about:
   id: person-profile
