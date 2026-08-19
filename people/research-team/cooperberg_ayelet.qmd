@@ -2,7 +2,7 @@
 title: "Ayelet Cooperberg"
 sortby: "Cooperberg, Ayelet"
 subtitle: "Undergraduate Research Assistant"
-image: av-turtle.png
+image: cooperberg_ayelet.png
 started: "Fall 2026"
 ended: "Current"
 toc: false
@@ -24,7 +24,15 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Coming Soon! 
+Ayelet is an undergraduate majoring in Cognitive Science and Communication Sciences with minors in Childhood Studies, Psychology, and Business Management. She is particularly interested in research and topics centered around children and how they think, learn, and grow. Most of this curiosity comes from her experience working with neurodivergent children for the past seven years through non-profits, schools, and summer camps. She hopes to pursue a career as a pediatric speech-language pathologist, with a focus on children with developmental disabilities. In her spare time she enjoys rock climbing, baking, and spending time with friends. 
+ 
+## Education
+
+**Case Western Reserve University** \| Cleveland, OH \| BA \| 2028
+
+- Cognitive Science
+- Communication Sciences
+- Minors: Childhood Studies, Psychology, Business Management
 
 
 :::
