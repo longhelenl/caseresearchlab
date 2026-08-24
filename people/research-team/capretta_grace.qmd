@@ -2,7 +2,7 @@
 title: "Grace Capretta, BA"
 sortby: "2"
 subtitle: "Lab Manager"
-image: capretta_grace.jpg
+image: capretta_grace.jpeg
 started: "Fall 2025"
 ended: "Current"
 toc: false

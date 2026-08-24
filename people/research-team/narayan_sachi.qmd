@@ -2,7 +2,7 @@
 title: "Sachi Narayan"
 sortby: "Narayan, Sachi"
 subtitle: "Undergraduate Research Assistant"
-image: av-fox.png
+image: narayan_sachi.jpeg
 started: "Fall 2026"
 ended: "Current"
 toc: false
@@ -24,7 +24,13 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Coming Soon! 
+Sachi is an undergraduate studying Neuroscience with a minor in Chemistry. She is interested in how the brain influences development, behavior, and communication, particularly in children. Her research and clinical experiences have helped strengthen her interest in neuroscience, human health, and medicine, and she hopes to attend medical school after graduation.
 
+Outside of academics, Sachi enjoys dancing, traveling, trying new cafes, and spending time with friends and family.
+
+**Case Western Reserve University** \| Cleveland, OH \| BA \
+
+- Neuroscience
+- Minors: Chemistry
 
 :::
