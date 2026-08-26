@@ -1,5 +1,5 @@
 ---
-title: "Amanda Beck, MA"
+title: "Amanda Beck, MA, CCC-SLP"
 sortby: "4"
 subtitle: "PhD Student"
 image: beck_amanda.jpeg

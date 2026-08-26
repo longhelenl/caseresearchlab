@@ -1,8 +1,8 @@
 ---
-title: "Jerrold Jackson, MA"
+title: "Jerrold Jackson, MA, CCC-SLP"
 sortby: "3"
 subtitle: "PhD Student"
-image: av-cat.png
+image: av-blank.jpg
 started: "Fall 2026"
 ended: "Current"
 toc: false
