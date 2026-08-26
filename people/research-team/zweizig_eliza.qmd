@@ -1,6 +1,6 @@
 ---
 title: "Eliza Zweizig, BA"
-sortby: "Zweizig, Eliza"
+sortby: "Eliza Z"
 subtitle: "Graduate Research Assistant"
 image: zweizig_eliza.jpeg
 started: "Fall 2026"

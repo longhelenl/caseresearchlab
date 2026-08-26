@@ -1,6 +1,6 @@
 ---
 title: "Julia Stanfield, BS"
-sortby: "Stanfield, Julia"
+sortby: "Julia S"
 subtitle: "Graduate Thesis Student"
 image: stanfield_julia.jpg
 started: "Fall 2025"

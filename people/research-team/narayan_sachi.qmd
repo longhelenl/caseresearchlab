@@ -1,6 +1,6 @@
 ---
 title: "Sachi Narayan"
-sortby: "Narayan, Sachi"
+sortby: "Sachi N"
 subtitle: "Undergraduate Research Assistant"
 image: narayan_sachi.jpeg
 started: "Fall 2026"

@@ -1,6 +1,6 @@
 ---
 title: "Meher Banta"
-sortby: "Banta, Meher"
+sortby: "Meher B"
 subtitle: "Undergraduate Research Assistant"
 image: banta_meher.jpg
 started: "Fall 2026"

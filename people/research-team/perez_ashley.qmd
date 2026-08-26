@@ -1,6 +1,6 @@
 ---
 title: "Ashley Perez"
-sortby: "Perez, Ashley"
+sortby: "Ashley P"
 subtitle: "Undergraduate Research Assistant"
 image: perez_ashley.jpeg
 started: "Fall 2025"

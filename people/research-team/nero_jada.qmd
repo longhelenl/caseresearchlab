@@ -1,6 +1,6 @@
 ---
 title: "Jada Nero"
-sortby: "Nero, Jada"
+sortby: "Jada N"
 subtitle: "Undergraduate Research Assistant"
 image: nero_jada.jpg
 started: "Fall 2025"

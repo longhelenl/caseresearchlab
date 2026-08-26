@@ -1,6 +1,6 @@
 ---
 title: "Amanda Beck, MA"
-sortby: "Beck, Amanda"
+sortby: "4"
 subtitle: "PhD Student"
 image: beck_amanda.jpeg
 started: "Fall 2026"

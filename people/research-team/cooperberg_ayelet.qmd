@@ -1,6 +1,6 @@
 ---
 title: "Ayelet Cooperberg"
-sortby: "Cooperberg, Ayelet"
+sortby: "Ayelet C"
 subtitle: "Undergraduate Research Assistant"
 image: cooperberg_ayelet.png
 started: "Fall 2026"

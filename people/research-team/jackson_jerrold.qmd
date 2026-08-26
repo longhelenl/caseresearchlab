@@ -1,6 +1,6 @@
 ---
 title: "Jerrold Jackson, MA"
-sortby: "Jackson, Jerrold"
+sortby: "3"
 subtitle: "PhD Student"
 image: av-cat.png
 started: "Fall 2026"

@@ -1,6 +1,6 @@
 ---
 title: "Nishmitha Thambi"
-sortby: "Thambi, Nishmitha"
+sortby: "Nishmitha T"
 subtitle: "Undergraduate Research Assistant"
 image: thambi_nishmitha.jpeg
 started: "Summer 2026"

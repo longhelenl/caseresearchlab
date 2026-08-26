@@ -1,6 +1,6 @@
 ---
 title: "Ian Shih"
-sortby: "Shih, Ian"
+sortby: "Ian S"
 subtitle: "Undergraduate Research Assistant"
 image: shih_ian.JPG
 started: "Fall 2025"

@@ -1,6 +1,6 @@
 ---
 title: "Navya Kuppa"
-sortby: "Kuppa, Navya"
+sortby: "Navya K"
 subtitle: "Undergraduate Research Assistant"
 image: kuppa_navya.png
 started: "Spring 2026"
