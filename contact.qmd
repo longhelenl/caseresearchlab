@@ -15,7 +15,7 @@ format: html
 
 The CaSE Lab is located on the 3rd floor at 11635 Euclid Ave on the campus of Case Western Reserve University. 
 
-Participants and visitors of the lab can **park in the small parking lot** behind the building, or **park across the street** at 11717 Euclid Ave, Cleveland, OH 44106 in any spot marked for COSI visitors. A parking pass will be provided at your scheduled visit at no cost.
+Participants and visitors of the lab can **park in the small parking lot** behind the building accessible from 117th street, or **park across the street** at the old CDC building at 11717 Euclid Ave, Cleveland, OH 44106 in any spot marked for COSI visitors. A parking pass will be provided at your scheduled visit for either parking lot at no cost.
 
 > **Street Address:** 11635 Euclid Ave, Cleveland, OH 44118
 
