@@ -2,10 +2,12 @@
 title: "Jerrold Jackson, MA, CCC-SLP"
 sortby: "3"
 subtitle: "PhD Student"
-image: av-blank.jpg
+image: jackson_jerrold.jpg
 started: "Fall 2026"
 ended: "Current"
 toc: false
+resources: 
+  - "jackson_CVAug2026"
 about:
   id: person-profile
   template: jolla
@@ -22,10 +24,21 @@ about:
 </nav>
 ```
 ::: {#person-profile}
+
 ## Biography
 
+Jerrold Jackson is a PhD Student in Communication Sciences at Case Western Reserve University. His research interests related to community-based projects, AAC, and culturally responsive practices are grounded in more than 22 years of clinical practice and will likely continue to evolve throughout his doctoral studies. His career has focused on developing and maintaining relationships built on a solid foundation (as a CF mentor, SLPA supervisor, and faculty member), school-based practices (SLP, Assistive Technology Facilitator, Lead SLP, Special Education Director), and spending the last 8 years focused on the development and expansion of his private practice, the Roundtree Group, PLLC. 
 
-Coming Soon!
+Jerrold has been an active volunteer in several professional organizations, most notably as a member of the Board of Directors for the National Black Association for Speech, Language, and Hearing (NBASLH), the 2024 SLP Co-Chair for the American Speech-Language Hearing Association (ASHA) held in Seattle, Washington, and a member of the Praxis National Advisory Committee (NAC) for SLP. Outside of academic life, Jerrold enjoys collecting action figures, baking cakes from scratch, and even appeared on an episode of HGTV's *House Hunters*.
 
+## Education
+
+**Western Michigan University** \| Kalamazoo, MI, USA <br /> MA \| 2004
+ 
+  - Speech-Language Pathology
+
+**Southern University and A&M College** \| Baton Rouge, LA, USA <br /> BA \| 2002
+
+  - Speech Pathology and Audiology
 
 :::
