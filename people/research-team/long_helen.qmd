@@ -26,6 +26,9 @@ about:
     - icon: chat-right-text
       text: Bluesky
       href: https://bsky.app/profile/helenlong.bsky.social
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{=html}
@@ -44,51 +47,89 @@ about:
 
 ## Biography
 
-Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case Western Reserve University. Her research aims to advance the early identification and intervention of communication and speech support needs in children with neuromotor disabilities with a particular emphasis on cerebral palsy. The long-term goal of this work to better facilitate targeted early intervention services for speech and AAC. This research is clinically informed by her experiences as a speech-language pathologist (SLP).
+Helen Long, PhD, CCC-SLP (she/her) is an Assistant Professor at Case
+Western Reserve University. Her research aims to advance the early
+identification and intervention of communication and speech support
+needs in children with neuromotor disabilities with a particular
+emphasis on cerebral palsy. The long-term goal of this work to better
+facilitate targeted early intervention services for speech and AAC. This
+research is clinically informed by her experiences as a speech-language
+pathologist (SLP).
 
-Helen is also a co-founding collaborator of [CSDisseminate](http://www.csdisseminate.com/), a collaborative group of scientists and clinicians dedicated to promoting the accessibility, transparency, and reproducibility of research across the CSD community.
+Helen is also a co-founding collaborator of
+[CSDisseminate](http://www.csdisseminate.com/), a collaborative group of
+scientists and clinicians dedicated to promoting the accessibility,
+transparency, and reproducibility of research across the CSD community.
 
-## Teaching 
+# Teaching
 
-**COSI 365: Disability and the ICF Framework**<br>
+**COSI 453: Articulation and Phonological Disorders**<br> *3 cr, CWRU
+COSI MA Program*<br> This course explores typical articulatory and
+phonological development, theoretical models of phonological
+acquisition, and methods for assessing, diagnosing, and treating
+developmental speech sound disorders (SSDs), including articulation and
+phonological impairments.
+
+**COSI 561: Motor Speech Disorders** <br> *3 cr, CWRU COSI MA
+Program*<br> This course examines congenital and acquired motor speech
+disorders, including dysarthria and apraxia. Students explore speech
+subsystems, underlying neurological and structural causes, and
+interdisciplinary assessment and treatment approaches for motor speech
+needs across the lifespan.
+
+**COSI 600: Special Topics: Augmentative & Alternative Communication
+(AAC) & Craniofacial Conditions**<br> *3 cr, CWRU COSI MA Program*<br>
+This course provides an in-depth exploration of AAC for children and
+adults with complex communication needs and craniofacial conditions.
+This course uses case-based learning to develop critical thinking skills
+in dynamic assessment, intervention, goal-setting, and interprofessional
+collaboration through collaborative problem-solving to support
+communication across settings and multimodal communicators.
+
+**COSI 600: Special Topics: Scientific Manuscript Writing**<br> *3 cr,
+CWRU COSI PhD Program*<br> Graduate-level course teaching practical
+skills in scientific manuscript writing for the social and behavioral
+sciences. Topics reviewed will include scientific storytelling, the
+AIMRaD formula, citation management, open science, peer reviewing, and
+more.
+
+```{=html}
+<!-- **COSI 365: Disability and the ICF Framework**<br>
 *3 cr, CWRU UGER COSI Program*<br>
-This course explores how biological, developmental, social, and environmental factors influence communicative participation in children with neurodevelopmental disabilities, using the WHO's International Classification of Functioning, Disability, and Health (ICF) as a central framework.
-
-**COSI 453: Articulation and Phonological Disorders**<br>
-*3 cr, CWRU MA SLP Program*<br>
-This course explores typical articulatory and phonological development, theoretical models of phonological acquisition, and methods for assessing, diagnosing, and treating developmental speech sound disorders (SSDs), including articulation and phonological impairments.
-
-**COSI 561: Neuromotor and Craniofacial Disorders** <br>
-*4 cr, CWRU MA SLP Program*<br>
-This course examines congenital and acquired motor speech disorders, including dysarthria, apraxia, and cleft palate. Students explore speech subsystems, underlying neurological and structural causes, and interdisciplinary assessment and treatment approaches across the lifespan.
-
-**COSI 600: Special Topics: Augmentative & Alternative Communication (AAC)**<br>
-*2 cr, CWRU MA SLP Program*<br>
-This course provides an in-depth exploration of AAC for children and adults with complex communication needs. This course uses case-based learning to develop critical thinking skills in dynamic assessment, intervention, goal-setting, and interprofessional collaboration through collaborative problem-solving to support communication across settings and AAC users.
+This course explores how biological, developmental, social, and environmental factors influence communicative participation in children with neurodevelopmental disabilities, using the WHO's  International Classification of Functioning, Disability, and Health (ICF) as a central framework. -->
+```
 
 ## Academic Experience
 
--   **Case Western Reserve University** \| Cleveland, OH, USA<br /> Assistant Professor of Communication Sciences \| 2024--Present<br />
+- **Case Western Reserve University** \| Cleveland, OH, USA<br />
+  Assistant Professor of Communication Sciences \| 2024--Present<br />
 
--   **University of Wisconsin-Madison** \| Madison, WI, USA<br /> NCATS TL1 Postdoctoral Researcher, Institute of Clinical & Translational Research \| 2023--2024<br /> NICHD T32 Postdoctoral Researcher, Waisman Center for Developmental Disabilities \| 2021--2023<br />
+- **University of Wisconsin-Madison** \| Madison, WI, USA<br /> NCATS
+  TL1 Postdoctoral Researcher, Institute of Clinical & Translational
+  Research \| 2023--2024<br /> NICHD T32 Postdoctoral Researcher,
+  Waisman Center for Developmental Disabilities \| 2021--2023<br />
 
 ## Education
 
--   **University of Memphis** \| 2020<br /> Memphis, TN, USA<br />PhD in Communication Sciences & Disorders
+- **University of Memphis** \| 2020<br /> Memphis, TN, USA<br />PhD in
+  Communication Sciences & Disorders, Concentration: Cognitive Science
 
--   **Florida State University** \| 2012<br />Tallahassee, FL, USA<br />MS in Speech-Language Pathology
+- **Florida State University** \| 2012<br />Tallahassee, FL, USA<br />MS
+  in Speech-Language Pathology
 
--   **Indiana University - Bloomington** \| 2010<br /> Bloomington, IN<br />BA in Speech & Hearing Sciences; Slavic and Eastern European Languages and Cultures
+- **Indiana University - Bloomington** \| 2010<br /> Bloomington,
+  IN<br />BA in Speech & Hearing Sciences; Slavic and Eastern European
+  Languages and Cultures<br />Minors: Psychology, Linguistics
 
 ## Clinical Experience
 
--   **Speech-Language Pathologist** \| 2014--2021<br /> Invo-Progressus Therapy, Shelby County Schools, Memphis, TN, USA
-    - Shrine School for Children with Disabilities
-    - Lucie E. Campbell Elementary School
-    - Scenic Hills Elementary School
-    
--   **Speech-Language Pathologist** \| 2012--2014<br /> Easterseals Massachusetts, Worcester, MA
-    - Fall River Early Childhood Center, Fall River, MA
-    - Algonquin Regional High School, Northborough, MA
-    - LifeStream, Inc., New Bedford, MA
-    
+- **Speech-Language Pathologist** \| 2014--2021<br /> Invo-Progressus
+  Therapy, Shelby County Schools, Memphis, TN, USA
+  - Shrine School for Children with Disabilities
+  - Lucie E. Campbell Elementary School
+  - Scenic Hills Elementary School
+- **Speech-Language Pathologist** \| 2012--2014<br /> Easterseals
+  Massachusetts, Worcester, MA
+  - Fall River Early Childhood Center, Fall River, MA
+  - Algonquin Regional High School, Northborough, MA
+  - LifeStream, Inc., New Bedford, MA
