@@ -2,8 +2,8 @@
 title: "A review of replications over 88 years of the American Speech-Language-Hearing Association Journal Publications"
 type: "article"
 author: "Ford, Riccardi, Thompson, Long, Borders, Schroeder, Baron, El Amin, & Pfeiffer"
-year: "under review"
-publication: "PsyArXiv Preprints"
+year: "in press"
+publication: "Journal of Speech, Language, and Hearing Research"
 preprint: "https://doi.org/10.31234/osf.io/jsgqh_v1"
 materials: "https://osf.io/952wt/"
 preregistration: "https://osf.io/2aqws/"
@@ -22,7 +22,7 @@ categories:
 ```
 
 
-> Ford ALB, Riccardi JS, Thompson A, Long HL, Borders JC, Schroeder SR, Baron A, El Amin M, Pfeiffer D (under review). A review of replications over 88 years of the American Speech-Language-Hearing Association Journal Publications. *PsyArXiv Preprints.* doi.org/10.31234/osf.io/jsgqh_v1
+> Ford ALB, Riccardi JS, Thompson A, Long HL, Borders JC, Schroeder SR, Baron A, El Amin M, Pfeiffer D (in press). A review of replications over 88 years of the American Speech-Language-Hearing Association Journal Publications. *Journal of Speech, Language, and Hearing Research.* doi.org/10.31234/osf.io/jsgqh_v1
 
 # Abstract
 

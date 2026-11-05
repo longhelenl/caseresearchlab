@@ -2,7 +2,7 @@
 title: "A qualitative exploration of General Practice SLPs’ experiences in collaborative service delivery with AAC Specialists"
 type: "article"
 author: "Long, Elmquist, & Seale"
-year: "under review"
+year: "2025"
 publication: "EdArXiv Preprints"
 preprint: "https://osf.io/preprints/edarxiv/ym85r_v1"
 materials: "https://osf.io/nzry7/"
@@ -22,7 +22,7 @@ categories:
 ```
 
 
-> 29.	Long HL, Elmquist, M, & Seale, J. (under review). A qualitative exploration of General Practice SLPs’ experiences in collaborative service delivery with AAC Specialists. *EdArXiv Preprints.*
+> Long HL, Elmquist, M, & Seale, J. (2025). A qualitative exploration of General Practice SLPs’ experiences in collaborative service delivery with AAC Specialists. *EdArXiv Preprints.* https://doi.org/10.35542/osf.io/ym85r_v1
 
 # Abstract
 

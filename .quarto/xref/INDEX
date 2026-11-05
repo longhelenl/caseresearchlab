@@ -409,5 +409,20 @@
   },
   "posts/2026-eacd-galway/index.qmd": {
     "index.html": "6916d409"
+  },
+  "2025long-casc-pp.qmd": {
+    "2025long-casc-pp.html": "abeb7e28"
+  },
+  "2026long-st-referrals.qmd": {
+    "2026long-st-referrals.html": "a2f8cdec"
+  },
+  "2026long-ei-assessment.qmd": {
+    "2026long-ei-assessment.html": "a9988e4c"
+  },
+  "docs/publications/articles/2026long-ei-assessment.qmd": {
+    "2026long-ei-assessment.html": "271b5e37"
+  },
+  "publications/articles/2026long-st-referrals.qmd": {
+    "2026long-st-referrals.html": "069cc10a"
   }
 }

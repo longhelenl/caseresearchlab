@@ -1,0 +1,37 @@
+---
+title: "Clinical reasoning in communication assessment for infants and toddlers with or at risk for cerebral palsy: a qualitative study"
+type: "article"
+author: "Long, Anderson, Michalski, & López"
+year: "under review"
+publication: "American Journal of Speech-Language Pathology"
+toc: false
+categories:
+  - SLP services
+  - communication
+  - infant
+  - cerebral palsy
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> Long HL, Anderson D, Michalski K, & †López C (under review). Clinical reasoning in communication assessment for infants and toddlers with or at risk for cerebral palsy: a qualitative study
+
+# Abstract
+
+Purpose: This study explored how early intervention speech-language pathologists (SLPs) assess communication in young children with or at risk for cerebral palsy (CP) from birth to 3 years of age.
+
+Method: Semi-structured in-depth interviews were conducted with 10 experienced SLPs working in early intervention with infants and toddlers with or at risk for CP between birth to 3 years of age. Interviews were coded using inductive content analysis.
+
+Results: Four higher-order themes were generated from seven initial descriptive categories. The four themes characterized assessment-related clinical reasoning: (1) approach assessment flexibly; (2) understand the child’s communication in context; (3) explore multiple communication modalities; and (4) integrate findings into evolving recommendations.
+
+Conclusion: Communication assessment with infants and toddlers with or at risk for CP was characterized by ongoing clinical reasoning when developmental and motor skills are rapidly changing. SLPs continually integrate evidence from the child, caregivers, the interdisciplinary team, and the child’s developmental context to presume potential and support multimodal communication.
+
+

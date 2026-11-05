@@ -1,0 +1,35 @@
+---
+title: "Patterns of entry into speech therapy for children with cerebral palsy: A brief report"
+type: "article"
+author: "Long, Romer, Rivera-Peraza, Spence, Rhodes, & Chen"
+year: "in press"
+publication: "Developmental Neurorehabilitation"
+doi: "https://doi.org/10.1080/17518423.2026.2755939"
+toc: false
+categories:
+  - SLP services
+  - communication
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../publications.html">Publications</a></li>
+  </ol>
+</nav>
+```
+
+
+> Long HL, Romer K, Rivera-Peraza C, Spence D, Rhodes L, & Chen S (in press). Patterns of entry into speech therapy for children with cerebral palsy: A brief report. *Developmental Neurorehabilitation*. doi.org/10.1080/17518423.2026.2755939
+
+# Abstract
+
+Aim: We aimed to describe referral patterns to SLP in a multidisciplinary CP clinic, evaluate differences in age at SLP evaluation based on referral concern, and examine the association between referral concerns and SLP diagnostic categories.
+
+Method: A pilot retrospective chart review was conducted of 54 children with CP evaluated by SLP services in a multidisciplinary neuromuscular clinic. Extracted variables included referral concern, age at SLP evaluation, diagnostic outcome, and age at treatment initiation. Referral concerns were categorized as feeding and/or swallowing, communication, or combined concerns. Age at evaluation was compared across groups using nonparametric tests, and associations between referral concern and diagnostic outcome were examined using the Fisher’s exact test.
+
+Results: Fifty-four children with CP were included. Children referred for feeding/swallowing concerns were evaluated substantially earlier (median 2.5 months) than those referred for communication concerns (21.2 months; p < .001) and combined concerns (14.8 months; p = .003). Children referred for feeding/swallowing concerns also began SLP treatment sooner following evaluation than those referred for communication or combined concerns.
+
+Conclusion: Communication concerns entered SLP evaluation and treatment substantially later than feeding/swallowing concerns in this multidisciplinary CP clinic, highlighting an opportunity to strengthen early identification and referral pathways for communication needs. Larger studies are needed to determine whether these patterns are consistent across healthcare systems and to identify strategies that promote more timely access to comprehensive SLP services.
+
